@@ -1,4 +1,3 @@
-
 ---
 title: Client-Server Model
 layout: base
