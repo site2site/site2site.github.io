@@ -44,6 +44,13 @@ body{
         line-height: 1.15em;
       }
 
+      h4{
+        margin:10px 0;
+        font-size:24px;
+        font-weight: bold;
+        line-height: 1.5em;
+      }
+
       a#logo{
         text-decoration: none;
         border:none;
@@ -78,9 +85,12 @@ body{
 
       @media screen and (min-width: 1024px){
         #about{
-          width:600px;
+          margin:0 auto;
+          text-align:left;
+          width:800px;
         }
         ul li{
           width:30%;
         }
       }
+
