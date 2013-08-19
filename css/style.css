@@ -50,7 +50,7 @@ h3{
 }
 
 h4{
-  margin:10px 0;
+  margin:30px 0;
   font-size:24px;
   font-weight: bold;
   line-height: 1.5em;
@@ -87,7 +87,8 @@ ul li{
 }
 
 ul li em{
-  font-style: none;
+  font-style: normal;
+  display: block;
 }
 
 @media screen and (max-width: 768px){
@@ -104,6 +105,7 @@ ul li em{
 
   ul li img{
     width:500px;
+    border:3px solid salmon;
   }
   ul li em{
     width:250px;
