@@ -2,6 +2,6 @@ pygments: true
 markdown: redcarpet
 # posts per page where you use pagination
 paginate: 2
-baseurl: /
+baseurl: http://site2site.github.io
 exclude:
   - README.md
