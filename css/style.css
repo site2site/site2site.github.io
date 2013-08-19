@@ -77,8 +77,8 @@ body{
       }
 
       @media screen and (min-width: 1024px){
-        ul{
-          padding:0 50px;
+        #about{
+          width:600px;
         }
         ul li{
           width:30%;
