@@ -63,8 +63,11 @@ body{
       }
 
       select{
-        background-color:blue;
-        color:white;
+        background-color:salmon;
+        font-size: 14px;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: bold;
+        color: lightblue;
       }
 
       ul{
