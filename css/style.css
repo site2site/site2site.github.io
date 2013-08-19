@@ -81,7 +81,7 @@ ul{
 }
 
 ul li{
-  float:left;
+  display: inline-block;
   padding:40px;
   text-align: left;
 }
