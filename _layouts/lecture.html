@@ -1,0 +1,15 @@
+---
+layout: base
+---
+<select onchange="window.open(this.options[this.selectedIndex].value,'_top')">
+    <option disabled>Week 1</option>
+    <option selected="selected" value="/lectures/week1/client-server.html">Client-Server Model</option>
+    <option>Forum</option>
+    <option value="http://www.arch.columbia.edu">Syllabus</option>
+    <option disabled></option>
+    <option disabled>Week 2</option>
+    <option>Wiki</option>
+    <option>Forum</option>
+    <option value="http://www.arch.columbia.edu">Syllabus</option>
+</select>
+{{ content }}

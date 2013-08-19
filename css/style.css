@@ -60,37 +60,27 @@ body{
         color:white;
       }
 
-      #lecture{
+      ul{
         list-style: none;
       }
 
-      #lecture li{
+      ul li{
         float:left;
         padding:40px;
         text-align: left;
       }
 
-      @media screen and (max-width: 480px){
-        #lecture li{
+      @media screen and (max-width: 768px){
+        ul li{
           width:100%;
         }
       }
 
-      @media screen and (max-width: 768px){
-        #lecture li.caption{
-          width:30%;
-        }
-        #lecture li.media{
-          width:50%;
-        }
-      }
-
       @media screen and (min-width: 1024px){
-        #lecture{
+        ul{
           padding:0 50px;
         }
-        #lecture li.caption,
-        #lecture li.media{
+        ul li{
           width:30%;
         }
       }
