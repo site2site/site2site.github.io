@@ -2,7 +2,6 @@ pygments: true
 markdown: redcarpet
 # posts per page where you use pagination
 paginate: 2
-source: _source
 baseurl: /
 exclude:
   - README.md
