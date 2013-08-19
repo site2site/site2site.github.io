@@ -97,8 +97,12 @@ ul li{
     text-align:left;
     width:800px;
   }
-  ul li{
-    width:30%;
+
+  ul li img{
+    width:500px;
+  }
+  ul li em{
+    width:250px;
   }
 }
 
