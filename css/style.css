@@ -116,6 +116,11 @@ ul li strong img{
   ul li div{
     min-width:650px;
   }
+  ul li embed,
+  ul li object{
+    width:650px;
+    max-height:650px;
+  }
   ul li em{
     max-width:250px;
   }
