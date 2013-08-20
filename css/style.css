@@ -110,7 +110,7 @@ ul li em{
     border:3px solid salmon;
   }
   ul li div{
-    width:650px;
+    min-width:650px;
   }
   ul li em{
     max-width:250px;
