@@ -78,6 +78,7 @@ select{
 
 ul{
   list-style: none;
+  text-align: center;
 }
 
 ul li{
@@ -109,7 +110,7 @@ ul li em{
     border:3px solid salmon;
   }
   ul li em{
-    width:250px;
+    max-width:250px;
   }
 }
 
