@@ -90,6 +90,8 @@ ul li{
 ul li em{
   font-style: normal;
   display: block;
+  font-weight: bold;
+  line-height: 1.25em;
 }
 
 ul li strong img{
