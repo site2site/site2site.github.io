@@ -104,7 +104,8 @@ ul li em{
     width:800px;
   }
 
-  ul li img{
+  ul li img,
+  ul li div{
     max-width:650px;
     max-height:650px;
     border:3px solid salmon;
