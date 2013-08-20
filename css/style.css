@@ -92,6 +92,10 @@ ul li em{
   display: block;
 }
 
+ul li strong img{
+  border:3px solid salmon;
+}
+
 @media screen and (max-width: 768px){
   ul li{
     width:100%;
@@ -106,7 +110,6 @@ ul li em{
   ul li img{
     max-width:650px;
     max-height:650px;
-    border:3px solid salmon;
   }
   ul li div{
     min-width:650px;
