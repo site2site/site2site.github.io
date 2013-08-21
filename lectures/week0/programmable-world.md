@@ -27,6 +27,16 @@ perex: Programmable World Lecture Notes
 *	_![Jawbone UP](http://assets.coolhunting.com/coolhunting/mt_asset_cache/2011/11/03/jawbone-up-duo.jpg)_
 
 
+<div class="split">
+<div class="left">
+something on the left
+</div>
+
+<div class="right">
+something on the right
+</div>
+</div>
+
 
 
 
