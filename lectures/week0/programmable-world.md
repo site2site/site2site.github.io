@@ -28,6 +28,12 @@ perex: Programmable World Lecture Notes
 
 
 
+
+*	![Gizmodo Austrailia](http://img.gawkerassets.com/img/18l65rw56h2o8jpg/xlarge.jpg)
+
+
+
+
 # It's one of the first such worlds that we knew we were going to live in
 
 *	![Jetsons]()
