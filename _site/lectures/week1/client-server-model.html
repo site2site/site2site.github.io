@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="keywords" content="gsapp, architecture, raspberry pi, arduino, internet of things, new york" />
+        <title>Client-Server Model</title>
+        <link rel="stylesheet" type="text/css" href="http://site2site.github.io/css/style.css" />
+        <link rel="stylesheet" type="text/css" href="http://site2site.github.io/css/pygments.css" />
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    </head>
+    <body>
+        <header id="header">
+            <a id="logo" href="http://www.arch.columbia.edu" target="_blank"><img src="http://www.columbia.edu/cu/arch/assets/GSAPP_white_small.png"></a>
+            <br><br><br><br><br><br><br><br><br><br><br><br>
+            <h1>Site to Site</h1>
+
+            <h2>A4819 &amp; A4822</h2>
+            <h2>Fall 2013</h2>
+            <br><br><br><br><br><br><br><br><br><br><br>
+
+            <div>
+                
+                <select onchange="window.open(this.options[this.selectedIndex].value,'_top')">
+    <option value="/">About</option>
+    <option selected="selected" value="/lectures/week1/client-server-model.html">Lectures</option>
+    <option value="https://courseworks.columbia.edu/public/20133ARCH4819A001">Section A syllabus →</option>
+    <option value="https://courseworks.columbia.edu/public/20133ARCH4822A001">Section B syllabus →</option>
+    <option value="https://github.com/site2site/site2site.github.io/wiki">Wiki →</option>
+    <option value="https://github.com/site2site/site2site.github.io/issues">Issues Forum →</option>
+    <option value="https://github.com/site2site/site2site.github.io/wiki/Class-Directory">People →</option>
+    <option value="https://github.com/site2site/site2site.github.io/wiki/Services">Services we use →</option>
+    <option value="https://github.com/site2site/site2site.github.io/wiki/Software">Software we use →</option>
+</select>
+            </div>
+
+            
+                <div>
+                    
+                    <select onchange="window.open(this.options[this.selectedIndex].value,'_top')">
+    <option disabled>Week 0</option>
+    <option value="/lectures/week0/client-server.html">Networks 1962-1978</option>
+    <option value="/lectures/week0/client-server.html">Internetworks 1974-1986</option>
+    <option value="/lectures/week0/client-server.html">World Wide Web 1989-1997</option>
+    <option value="/lectures/week0/client-server.html">Open Source and Web 2.0 1998-2004</option>
+    <option value="/lectures/week0/client-server.html">Web as Platform 2004-2008</option>
+    <option value="/lectures/week0/programmable-world.html">Programmable World 2008-Present</option>
+    <option>Forum</option>
+    <option disabled>Week 1</option>
+    <option value="/lectures/week1/client-server.html">Client-Server Model</option>
+    <option>Forum</option>
+    <option value="http://www.arch.columbia.edu">Syllabus</option>
+    <option disabled></option>
+    <option disabled>Week 2</option>
+    <option>Wiki</option>
+    <option>Forum</option>
+    <option value="http://www.arch.columbia.edu">Syllabus</option>
+</select>
+                </div>
+            
+
+        </header>
+        <div id="main">
+
+            
+<div id="lecture"><h4>The web is built upon a set of protocols (such as HTTP) and languages (such as HTML, CSS and Javascript) that employ the physical network connections and protocols that make up the Internet according to a client-server model. The client takes the form of a browser on the user&#39;s machine. The server is a remote computer that stores the files required to render web pages.</h4>
+
+<ul>
+<li><p><strong><img src="https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-2.gif" alt="Client Server 2"></strong></p></li>
+<li><p><em>The general idea is this: the Internet connects a client request to the server corresponding to the URL that sends the response that the browser renders as a web page</em></p></li>
+<li><p><strong><img src="https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-3.gif" alt="Client Server 3"></strong></p></li>
+<li><p><em>The client sends an HTTP request (GET, POST, PUT or DELETE) to the Internet in the form of a URL</em></p></li>
+<li><p><strong><img src="https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-4.gif" alt="Client Server 4"></strong></p></li>
+<li><p><em>The Domain Name System (DNS) is used to decode the URL into the Internet Protocol (IP) address of the server</em></p></li>
+<li><p><strong><img src="https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-5.gif" alt="Client Server 5"></strong></p></li>
+<li><p><em>Once the IP address is resolved, the server at that address is sent the client&#39;s request</em></p></li>
+</ul>
+
+<h4>The web is built upon a set of protocols (such as HTTP) and languages (such as HTML, CSS and Javascript) that employ the physical network connections and protocols that make up the Internet according to a client-server model. The client takes the form of a browser on the user&#39;s machine. The server is a remote computer that stores the files required to render web pages.</h4>
+
+<ul>
+<li><p><strong><img src="https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-6.gif" alt="Client Server 6"></strong></p></li>
+<li><p><em>The web server - a program such as Apache, nGinx, Node.js - listens for requests and routes them to the correct folder to retrieve the requested file</em></p></li>
+<li><p><strong><img src="https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-7.gif" alt="Client Server 7"></strong></p></li>
+<li><p><em>The server then returns an HTTP response with the requested file</em></p></li>
+<li><p><strong><img src="https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-8.gif" alt="Client Server 8"></strong></p></li>
+<li><p><em>The client browser receives the response, checks that the status code is ok, and then begins to render the page</em></p></li>
+<li><p><strong><img src="https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-9.gif" alt="Client Server 9"></strong></p></li>
+<li><p><em>The HTML file is made up of two main parts, the <code>&lt;head&gt;</code> and the <code>&lt;body&gt;</code>. The <code>&lt;head&gt;</code> contains meta-data about the page, dependencies, and other information such as the page title that shows up in the browser tab. The <code>&lt;body&gt;</code> contains the page content. See this Gist with the standard HTML structure.</em></p></li>
+<li><p><script src="https://gist.github.com/troyth/4699954.js"></script></p></li>
+<li><p><strong><img src="https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-10.gif" alt="Client Server 10"></strong></p></li>
+<li><p><em>The example above show how and where different blocks of HTML are rendered in the browser.</em></p></li>
+</ul>
+</div>
+          
+        </div>
+        <footer id="footer">
+            <h2>Copyright 2013 Troy Conrad Therrien &amp; Christopher Barley</h2>
+        </footer>
+    </body>
+</html>

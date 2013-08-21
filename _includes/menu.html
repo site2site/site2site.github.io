@@ -1,7 +1,6 @@
 <select onchange="window.open(this.options[this.selectedIndex].value,'_top')">
-	<option>{{ type }}</option>
-    <option {% if type == 'about' %}selected="selected" {% endif %}value="/">About</option>
-    <option {% if type == 'lecture' %}selected="selected" {% endif %}value="/lectures/week1/client-server-model.html">Lectures</option>
+    <option {% if menu == 'about' %}selected="selected" {% endif %}value="/">About</option>
+    <option {% if menu == 'lecture' %}selected="selected" {% endif %}value="/lectures/week1/client-server-model.html">Lectures</option>
     <option value="https://courseworks.columbia.edu/public/20133ARCH4819A001">Section A syllabus →</option>
     <option value="https://courseworks.columbia.edu/public/20133ARCH4822A001">Section B syllabus →</option>
     <option value="https://github.com/site2site/site2site.github.io/wiki">Wiki →</option>

@@ -1,6 +1,7 @@
 ---
 title: Programmable World 2008-Present
 layout: lecture
+lecture: 0_programmable_world
 perex: Programmable World Lecture Notes
 ---
 # This is the world we live in
@@ -29,7 +30,7 @@ perex: Programmable World Lecture Notes
 
 
 
-`$("livingroom").bind("motion", function() {
+### `$("livingroom").bind("motion", function() {
   $(this).find("lights").brightness("75%").dimAfter("120s");
 });`
 

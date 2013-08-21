@@ -4,13 +4,12 @@
         <meta charset="UTF-8" />
         <meta name="keywords" content="gsapp, architecture, raspberry pi, arduino, internet of things, new york" />
         <title>{{ page.title }}</title>
-        <link rel="stylesheet" type="text/css" href="/css/style.css" />
-        <link rel="stylesheet" type="text/css" href="/css/pygments.css" />
+        <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css" />
+        <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/pygments.css" />
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     </head>
     <body>
         <header id="header">
-
             <a id="logo" href="http://www.arch.columbia.edu" target="_blank"><img src="http://www.columbia.edu/cu/arch/assets/GSAPP_white_small.png"></a>
             <br><br><br><br><br><br><br><br><br><br><br><br>
             <h1>Site to Site</h1>
@@ -18,8 +17,18 @@
             <h2>A4819 &amp; A4822</h2>
             <h2>Fall 2013</h2>
             <br><br><br><br><br><br><br><br><br><br><br>
-            
-            {% include menu.html %}
+
+            <div>
+                {% assign menu = page.menu %}
+                {% include menu.html %}
+            </div>
+
+            {% if page.menu == 'lecture' %}
+                <div>
+                    {% assign lecture = page.lecture %}
+                    {% include menulecture.html %}
+                </div>
+            {% endif %}
 
         </header>
         <div id="main">
