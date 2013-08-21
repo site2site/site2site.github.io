@@ -98,6 +98,11 @@ ul li strong img{
   border:3px solid salmon;
 }
 
+ul li em img{
+  height:120px;
+  overflow:hidden;
+}
+
 @media screen and (max-width: 768px){
   ul li{
     width:100%;
