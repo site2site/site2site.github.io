@@ -3,7 +3,7 @@ title: Programmable World 2008-Present
 layout: lecture
 perex: Programmable World Lecture Notes
 ---
-#	Something has been happening
+# This is the world we live in
 
 *	_![Google Glass](http://a.abcnews.com/images/Technology/ap_google_glasses_kb_120627_wg.jpg)_
 
@@ -25,6 +25,32 @@ perex: Programmable World Lecture Notes
 
 *	_![Jawbone UP](http://assets.coolhunting.com/coolhunting/mt_asset_cache/2011/11/03/jawbone-up-duo.jpg)_
 
+
+
+
+# It's one of the first such worlds that we knew we were going to live in
+
+*	![Jetsons]()
+
+*	...
+
+
+
+# Even architects had it figured out
+
+*	![Fun Palace]()
+
+*	![Generator]()
+
+
+
+### The difference between this world and previous worlds is that this present is almost as interesting as any future we've ever projected
+
+# We can embrace the banal and still be ahead of the curve
+
+
+
+(difference between "project" in arch and tech: arch stands on tech to project, tech is in the present, which is everyone else's future)
 
 
 
@@ -69,7 +95,8 @@ perex: Programmable World Lecture Notes
 
 *	_[Source](https://vimeo.com/45447698)_
 
-*	![Kids with Raspberry Pi](http://www.raspberrypi.org/wp-content/uploads/2012/10/SSLHoF-Rpi-and-Lego-WeDo-5.jpeg)
+*	
+![Kids with Raspberry Pi](http://www.raspberrypi.org/wp-content/uploads/2012/10/SSLHoF-Rpi-and-Lego-WeDo-5.jpeg)
 
 *	_Kids with Raspberry Pi_
 
