@@ -150,14 +150,15 @@ ul li em img{
 }
 
 .left{
-  width:49%;
+  width:50%;
   border-right:3px solid salmon;
+  margin-right:-3px;
   float:left;
   background-color: blue;
 }
 
 .right{
-  width:49%;
+  width:50%;
   float:right;
   background-color:red;
 }
