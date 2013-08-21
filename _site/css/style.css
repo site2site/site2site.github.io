@@ -68,8 +68,11 @@ a{
   border-bottom:1px solid;
 }
 
+.menu{
+  margin-bottom:20px;
+}
+
 select{
-  display: block;
   background-color:salmon;
   font-size: 14px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;

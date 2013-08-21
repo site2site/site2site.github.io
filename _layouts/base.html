@@ -14,20 +14,17 @@
             <br><br><br><br><br><br><br><br><br><br><br><br>
             <h1>Site to Site</h1>
 
-            <h2>A4819 &amp; A4822</h2>
-            <h2>Fall 2013</h2>
+            <h6>A4819 &amp; A4822</h6>
+            <h6>Fall 2013</h6>
             <br><br><br><br><br><br><br><br><br><br><br>
 
-            <div>
-                {% assign menu = page.menu %}
-                {% include menu.html %}
-            </div>
+            {% assign menu = page.menu %}
+            {% include menu.html %}
+            
 
             {% if page.menu == 'lecture' %}
-                <div>
-                    {% assign lecture = page.lecture %}
-                    {% include menulecture.html %}
-                </div>
+                {% assign lecture = page.lecture %}
+                {% include menulecture.html %}
             {% endif %}
 
         </header>

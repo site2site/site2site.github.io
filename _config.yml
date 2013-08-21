@@ -3,5 +3,6 @@ markdown: redcarpet
 # posts per page where you use pagination
 paginate: 2
 baseurl: http://site2site.github.io
+timezone: America/New_York
 exclude:
   - README.md

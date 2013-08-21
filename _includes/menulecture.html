@@ -1,19 +1,21 @@
-<select onchange="window.open(this.options[this.selectedIndex].value,'_top')">
-    <option disabled>Week 0</option>
-    <option {% if lecture == '0_networks' %}selected="selected" {% endif %}value="/lectures/week0/client-server.html">Networks 1962-1978</option>
-    <option {% if lecture == '0_internetworks' %}selected="selected" {% endif %}value="/lectures/week0/client-server.html">Internetworks 1974-1986</option>
-    <option value="/lectures/week0/client-server.html">World Wide Web 1989-1997</option>
-    <option value="/lectures/week0/client-server.html">Open Source and Web 2.0 1998-2004</option>
-    <option value="/lectures/week0/client-server.html">Web as Platform 2004-2008</option>
-    <option {% if lecture == '0_programmable_world' %}selected="selected" {% endif %}value="/lectures/week0/programmable-world.html">Programmable World 2008-Present</option>
-    <option>Forum</option>
-    <option disabled>Week 1</option>
-    <option value="/lectures/week1/client-server.html">Client-Server Model</option>
-    <option>Forum</option>
-    <option value="http://www.arch.columbia.edu">Syllabus</option>
-    <option disabled></option>
-    <option disabled>Week 2</option>
-    <option>Wiki</option>
-    <option>Forum</option>
-    <option value="http://www.arch.columbia.edu">Syllabus</option>
-</select>
+<div class="menu">
+    <select onchange="window.open(this.options[this.selectedIndex].value,'_top')">
+        <option disabled>Week 0</option>
+        <option {% if lecture == '0_networks' %}selected="selected" {% endif %}value="/lectures/week0/client-server.html">Networks 1962-1978</option>
+        <option {% if lecture == '0_internetworks' %}selected="selected" {% endif %}value="/lectures/week0/client-server.html">Internetworks 1974-1986</option>
+        <option value="/lectures/week0/client-server.html">World Wide Web 1989-1997</option>
+        <option value="/lectures/week0/client-server.html">Open Source and Web 2.0 1998-2004</option>
+        <option value="/lectures/week0/client-server.html">Web as Platform 2004-2008</option>
+        <option {% if lecture == '0_programmable_world' %}selected="selected" {% endif %}value="/lectures/week0/programmable-world.html">Programmable World 2008-Present</option>
+        <option>Forum</option>
+        <option disabled>Week 1</option>
+        <option value="/lectures/week1/client-server.html">Client-Server Model</option>
+        <option>Forum</option>
+        <option value="http://www.arch.columbia.edu">Syllabus</option>
+        <option disabled></option>
+        <option disabled>Week 2</option>
+        <option>Wiki</option>
+        <option>Forum</option>
+        <option value="http://www.arch.columbia.edu">Syllabus</option>
+    </select>
+</div>
