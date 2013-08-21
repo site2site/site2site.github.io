@@ -151,7 +151,7 @@ ul li em img{
 
 .left{
   width:49%;
-  border-right:3px solid salmon;
+  border-right:1% solid salmon;
   float:left;
   background-color: blue;
 }
@@ -160,4 +160,5 @@ ul li em img{
   width:49%;
   float:right;
   background-color:red;
+  border-left:1% solid salmon;
 }
