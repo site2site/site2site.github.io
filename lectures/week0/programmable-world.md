@@ -29,6 +29,15 @@ perex: Programmable World Lecture Notes
 
 
 
+`$("livingroom").bind("motion", function() {
+  $(this).find("lights").brightness("75%").dimAfter("120s");
+});`
+
+[Nodebots - the rise of JS Robotics](http://voodootikigod.com/nodebots-the-rise-of-js-robotics/)
+
+
+
+
 *	![Gizmodo Austrailia](http://img.gawkerassets.com/img/18l65rw56h2o8jpg/xlarge.jpg)
 
 
