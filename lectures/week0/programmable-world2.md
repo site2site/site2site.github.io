@@ -6,7 +6,7 @@ perex: Programmable World Lecture Notes
 ---
 > ## "Communications tools don't get socially interesting until they get technologically boring."
 
-*	_Clay Shirky, Here Comes Everybody: The Power of Organizing Without Organizations, 2008_
+*	__Clay Shirky, Here Comes Everybody: The Power of Organizing Without Organizations, 2008__
 
 
 

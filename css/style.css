@@ -98,19 +98,19 @@ ul li{
   text-align: left;
 }
 
-ul li em{
+ul li strong{
   font-style: normal;
   display: block;
   font-weight: bold;
   line-height: 1.25em;
 }
 
-ul li strong img{
+ul li em img{
   border:3px solid salmon;
 }
 
-ul li em img,
-ul li em blockquote{
+ul li strong img,
+ul li strong blockquote{
   height:120px;
   overflow:hidden;
 }
@@ -139,7 +139,7 @@ ul li em blockquote{
     width:650px;
     max-height:650px;
   }
-  ul li em{
+  ul li strong{
     max-width:250px;
   }
 }
