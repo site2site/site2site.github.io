@@ -4,7 +4,7 @@ layout: lecture
 lecture: 0_programmable_world
 perex: Programmable World Lecture Notes
 ---
-*	> The social effects of technology get interesting when the technology gets boring
+> ## "The social effects of technology get interesting when the technology gets boring"
 
 *	_Clay Shirky, 2009_
 
