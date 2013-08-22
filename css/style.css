@@ -147,6 +147,7 @@ ul li em img{
 .split{
   width:100%;
   display: block;
+  padding-bottom:40px;
 }
 
 .left{
