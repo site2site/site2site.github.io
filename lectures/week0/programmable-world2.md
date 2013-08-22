@@ -4,9 +4,9 @@ layout: lecture
 lecture: 0_programmable_world
 perex: Programmable World Lecture Notes
 ---
-> ## "The social effects of technology get interesting when the technology gets boring"
+> ## "Communications tools don't get socially interesting until they get technologically boring."
 
-*	_Clay Shirky, 2009_
+*	_Clay Shirky, Here Comes Everybody: The Power of Organizing Without Organizations, 2008_
 
 
 
