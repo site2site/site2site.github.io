@@ -47,6 +47,8 @@ perex: Programmable World Lecture Notes
 
 *	__![BIM](http://computimesinc.com/wp-content/uploads/2013/02/BIM1.jpg)__
 
+*	__![Russian Pavilion](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/russian_pavilion.jpeg)__
+
 
 ### Architecture continues to be tempted by contemporary avenues for techno-futurism
 
@@ -108,62 +110,27 @@ perex: Programmable World Lecture Notes
 
 *	__The Internet, imaged by the [Opte Project](http://www.opte.org/maps/)__
 
+*	![Technology adoption rates](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/techAdoptionRates.png)
+
+# This summer the banal swallowed the futuristic
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-1.	"Software is eating the world" ![Mark Andreesseen](http://m.wsj.net/video/20110603/060311biginterview/060311biginterview_512x288.jpg)
-2.	_Mark Andreessen, [Wall Street Journal](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), August 20, 2011_
-
-
-
-
-
-
-
-
-
-
-# Architects know it very well
-
-
-
-<div class="split">
-<div class="left">
-something on the left
-</div>
-
-<div class="right">
-something on the right
-</div>
-</div>
 
 
 *	![V](http://ad009cdnb.archdaily.net/wp-content/uploads/2011/09/1315411779-img-3147-528x374.jpg)
 
-*	_Volume Magazine, 2011_
+*	__*Volume Magazine*, Internet of Things, 2011__
 
 
-### `$("livingroom").bind("motion", function() {
-  $(this).find("lights").brightness("75%").dimAfter("120s");
-});`
 
-[Nodebots - the rise of JS Robotics](http://voodootikigod.com/nodebots-the-rise-of-js-robotics/)
+*	[Nodebots - the rise of JS Robotics](http://voodootikigod.com/nodebots-the-rise-of-js-robotics/)
 
+		$("livingroom").bind("motion", function() {
+  			$(this).find("lights").brightness("75%").dimAfter("120s");
+		});
 
 
 
@@ -172,38 +139,7 @@ something on the right
 
 
 
-# It's one of the first such worlds that we knew we were going to live in
 
-*	![Jetsons]()
-
-*	...
-
-
-
-# Even architects had it figured out
-
-*	![Fun Palace]()
-
-*	![Generator]()
-
-
-
-### The difference between this world and previous worlds is that this present is almost as interesting as any future we've ever projected
-
-# We can embrace the banal and still be ahead of the curve
-
-
-
-(difference between "project" in arch and tech: arch stands on tech to project, tech is in the present, which is everyone else's future)
-
-
-
-
-
-
-
-
-*	http://www.evolutionoftheweb.com/
 
 *	<iframe width="650" height="366" src="//www.youtube.com/embed/jf-cEB3U2UQ?t=7m49s" frameborder="0" allowfullscreen></iframe>
 
