@@ -3,6 +3,7 @@ body{
   margin:0;
   text-align: center;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
   color: #333;
   background-color: white;
 }
@@ -109,8 +110,7 @@ ul li em img{
   border:3px solid salmon;
 }
 
-ul li strong img,
-ul li strong blockquote{
+ul li strong img{
   height:120px;
   overflow:hidden;
 }

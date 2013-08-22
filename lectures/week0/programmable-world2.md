@@ -22,40 +22,17 @@ perex: Programmable World Lecture Notes
 
 *	![Le Corbusier's car sketch](http://www.influx.co.uk/wordpress/wp-content/uploads/2010/11/img20080827_1.jpg)
 
-*	_Le Corbusier's Voiture Minimum_
+*	__Le Corbusier's Voiture Minimum__
 
 
 ### Technology is lighter, faster, cheaper, more dynamic, ephemeral, globally distributed, scalable and undeniably socially transformative.
 
 *	![Vers une Architecture](http://farm3.static.flickr.com/2439/3926773892_e3470e5960.jpg)
 
-### To a discipline obsessed with the future, technology provided a crystal ball, the more futuristic the better.
+### To a discipline obsessed with the future, technology offers a crystal ball, thus, the more futuristic the better. This is the very notion of modern progress.
 
-## "Communications tools don't get socially interesting until they get technologically boring."
+*	![1952 Popular Mechanics](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/PopularMech_jan1952_Lyedenfrost_Paleofuture.jpg)
 
-*	__Clay Shirky, Here Comes Everybody: The Power of Organizing Without Organizations, 2008__
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*	![Marinetti in car](http://3.bp.blogspot.com/-ZwvN_471R18/T2ZRNKZAEmI/AAAAAAAAASw/9uoKDl4sJ6c/s320/marinetti+in+his+car.jpg)
-
-*	__Modernism par excellence, Futurism, was born when F.T. Marinetti flipped his car into a ditch__
 
 ### There's no shortage of evidence that architecture has yet to outgrow its techno-futurist obsession
 
@@ -74,6 +51,27 @@ perex: Programmable World Lecture Notes
 *	__![Burj Khalifa](http://www.joutrip.com/i/b/burj-khalifa-burj-khalifa.jpg)__
 
 *	__![BIM](http://computimesinc.com/wp-content/uploads/2013/02/BIM1.jpg)__
+
+
+
+
+
+
+
+
+## "Communications tools don't get socially interesting until they get technologically boring."
+
+*	Clay Shirky, Here Comes Everybody: The Power of Organizing Without Organizations, 2008
+
+
+
+
+
+
+
+
+
+
 
 
 *	![Makerbot Wired Cover](http://cdn.lightgalleries.net/4c58ae3fe4541/images/TSC_MAK01-1.jpg)
