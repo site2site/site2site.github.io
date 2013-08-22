@@ -122,9 +122,8 @@ ul li em blockquote{
 }
 
 @media screen and (min-width: 1024px){
-  h2,
-  h4{
-    width:800px;
+  h1,h2,h3,h4{
+    width:80%;
   }
 
   ul li img,
