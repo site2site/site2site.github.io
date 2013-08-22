@@ -9,7 +9,7 @@ perex: Programmable World Lecture Notes
 1.	"Software is eating the world" ![Mark Andreesseen](http://m.wsj.net/video/20110603/060311biginterview/060311biginterview_512x288.jpg)
 2.	_Mark Andreessen, [Wall Street Journal](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), August 20, 2011_
 
-
+*
 
 1.	![Makerbot Wired Cover](http://cdn.lightgalleries.net/4c58ae3fe4541/images/TSC_MAK01-1.jpg)
 2.	_Bre Petis, founder of Makerbot, on [Wired Cover](http://www.wired.com/design/2012/09/how-makerbots-replicator2-will-launch-era-of-desktop-manufacturing/all/?pid=909), October, 2012_

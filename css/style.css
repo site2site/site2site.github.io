@@ -146,7 +146,7 @@ ul li em img{
 
 ol{
   width:50%;
-  border-right:3px solid salmon;
-  margin-right:-3px;
   float:left;
+  list-style: none;
+  padding:0 0 30px;
 }
