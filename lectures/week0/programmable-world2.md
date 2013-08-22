@@ -4,6 +4,19 @@ layout: lecture
 lecture: 0_programmable_world
 perex: Programmable World Lecture Notes
 ---
+*	> The social effects of technology get interesting when the technology gets boring
+
+*	_Clay Shirky, 2009_
+
+
+
+
+
+
+
+
+
+
 # Modern architecture has always been a cheap date for technology
 
 *	![Le Corbusier Fiat](http://rosswolfe.files.wordpress.com/2013/05/corbu-fiat.jpg?w=900)

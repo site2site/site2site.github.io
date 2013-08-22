@@ -109,7 +109,8 @@ ul li strong img{
   border:3px solid salmon;
 }
 
-ul li em img{
+ul li em img,
+ul li em blockquote{
   height:120px;
   overflow:hidden;
 }
@@ -126,7 +127,8 @@ ul li em img{
     width:800px;
   }
 
-  ul li img{
+  ul li img,
+  ul li blockquote{
     max-width:650px;
     max-height:650px;
   }
