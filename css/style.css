@@ -144,20 +144,9 @@ ul li em img{
 }
 
 
-.split{
-  width:100%;
-  display: block;
-  padding-bottom:40px;
-}
-
-.left{
+ol{
   width:50%;
   border-right:3px solid salmon;
   margin-right:-3px;
   float:left;
-}
-
-.right{
-  width:50%;
-  float:right;
 }
