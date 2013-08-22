@@ -6,11 +6,13 @@ perex: Programmable World Lecture Notes
 ---
 # Modern architecture has always been a cheap date for technology
 
+*	![Vers une Architecture](http://farm3.static.flickr.com/2439/3926773892_e3470e5960.jpg)
+
 *	![Le Corbusier Fiat](http://rosswolfe.files.wordpress.com/2013/05/corbu-fiat.jpg?w=900)
 
-*	![Poissy](http://3.bp.blogspot.com/-7kLm70JJiMA/TrtG5f8f7rI/AAAAAAAADEs/0mnqkedJza8/s400/tumblr_l9iovbEvB91qe232bo1_400.jpg)
+*	![Villa Stein](http://i2.wp.com/cycle-space.com/wp-content/uploads/2013/02/Le-Corbusier-Villa-Stein-de-Monzie-1927.jpg?resize=584%2C503)
 
-*	![Poissy](http://i2.wp.com/cycle-space.com/wp-content/uploads/2013/02/Le-Corbusier-Villa-Stein-de-Monzie-1927.jpg?resize=584%2C503)
+*	![Poissy](http://3.bp.blogspot.com/-7kLm70JJiMA/TrtG5f8f7rI/AAAAAAAADEs/0mnqkedJza8/s400/tumblr_l9iovbEvB91qe232bo1_400.jpg)
 
 *	![Le Corbusier Weissenhof](http://1.bp.blogspot.com/-UL1P3Qzogyc/UY1mwD4IAbI/AAAAAAAABU4/NN6SNSFaBCA/s400/01.09_Le_Corbusier_Dubbel_woonhuis_in_Weissenhofwijk_te_Stuttgart_1927.jpg)
 
@@ -25,16 +27,9 @@ perex: Programmable World Lecture Notes
 *	__Le Corbusier's Voiture Minimum__
 
 
-### Technology is lighter, faster, cheaper, more dynamic, ephemeral, globally distributed, scalable and undeniably socially transformative.
-
-*	![Vers une Architecture](http://farm3.static.flickr.com/2439/3926773892_e3470e5960.jpg)
-
-### To a discipline obsessed with the future, technology offers a crystal ball, thus, the more futuristic the better. This is the very notion of modern progress.
-
-*	![1952 Popular Mechanics](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/PopularMech_jan1952_Lyedenfrost_Paleofuture.jpg)
 
 
-### There's no shortage of evidence that architecture has yet to outgrow its techno-futurist obsession
+### Technology was lighter, faster, cheaper, more dynamic, ephemeral, scalable and standardizable. To future-obsessed modernists it was a crystal ball, the more futuristic the better. This modernist obsession has yet to wane.
 
 *	__![Broadacre city](http://growingupinamerica.files.wordpress.com/2011/04/32405094_04-1.jpg)__
 
@@ -53,29 +48,80 @@ perex: Programmable World Lecture Notes
 *	__![BIM](http://computimesinc.com/wp-content/uploads/2013/02/BIM1.jpg)__
 
 
-
-
-
-
-
-
-## "Communications tools don't get socially interesting until they get technologically boring."
-
-*	Clay Shirky, Here Comes Everybody: The Power of Organizing Without Organizations, 2008
-
-
-
-
-
-
-
-
-
-
-
+### Architecture continues to be tempted by contemporary avenues for techno-futurism
 
 *	![Makerbot Wired Cover](http://cdn.lightgalleries.net/4c58ae3fe4541/images/TSC_MAK01-1.jpg)
 *	__Bre Petis, founder of Makerbot, on [Wired Cover](http://www.wired.com/design/2012/09/how-makerbots-replicator2-will-launch-era-of-desktop-manufacturing/all/?pid=909), October, 2012__
+
+
+*	![Adhocracy at the New Museum](http://hangar.org/webnou/wp-content/uploads/2013/04/Captura-5.png)
+
+*	__*Adhocracy* exhibition at the Istanbul Design Biennale and the New Museum, 2012-2013__
+
+
+*	![Tech spaces in NYC](http://fortunebrainstormtech.files.wordpress.com/2012/12/nyc_tech_companies.jpg)
+
+*	__Explosion of tech spaces in New York City. [Source](http://tech.fortune.cnn.com/2012/12/05/new-york-tech-hub/)__
+
+
+
+### Ubiquitous computing, quanitifed-self and other elements of Big Data, embedded devices, the "Sentient City", "Smart Cities", wearables, and so on, continue to taunt us
+
+*	__![Google Glass](http://a.abcnews.com/images/Technology/ap_google_glasses_kb_120627_wg.jpg)__
+
+*	__![Kinect Doctor](http://betanews.com/wp-content/uploads/2011/11/Kinect-Doctor.jpg)__
+
+*	__![Nike Fit Band](http://gamification.co/wp-content/uploads/2012/07/nike.jpg)__
+
+*	__![Nest](http://dz8s0oagnjand.cloudfront.net/wp-content/uploads/2011/10/Nest-Thermostat-Auto-Away.png)__
+
+*	__![Google Shoe](http://www1.pcmag.com/media/images/377999-google-talking-shoe.jpg?thumb=y)__
+
+*	__![Pebble](http://cdn.shopify.com/s/files/1/0106/1422/t/4/assets/photo-cycling.jpg?41)__
+
+*	__![Hue](http://photos.appleinsider.com/hue-130806-2.jpg)__
+
+*	__![Smart Things](http://www.thefiresays.com/wp-content/uploads/2012/09/smartthings.jpg)__
+
+*	__![Electronic Tattoo](http://metrouk2.files.wordpress.com/2013/06/electric-tattoo.jpg?w=650&h=487&crop=1#038;h=560)__
+
+*	__![Jawbone UP](http://assets.coolhunting.com/coolhunting/mt_asset_cache/2011/11/03/jawbone-up-duo.jpg)__
+
+*	__![Smart Citie](http://blog.iesve.com/wp-content/uploads/2012/03/smart-cities.jpg)__
+
+
+
+## Still the same modernist formula: technologist speaks, architect listens
+
+*	![Rem Koolhaas and Cecil Balmond in Porto](http://www.architectuur.org/beelden/oma_n208.jpg)
+
+### \*\*\*
+
+
+*	![Here Comes Everybody](http://ecx.images-amazon.com/images/I/51BvH1UUMzL._SY300_.jpg)
+
+*	Clay Shirky, _Here Comes Everybody: The Power of Organizing Without Organizations_, 2008
+
+## "Communications tools don't get socially interesting until they get technologically boring."
+
+*	![The Internet](http://content.animalnewyork.com/wp-content/uploads/19clix.jpg)
+
+*	__The Internet, imaged by the [Opte Project](http://www.opte.org/maps/)__
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -83,35 +129,12 @@ perex: Programmable World Lecture Notes
 1.	"Software is eating the world" ![Mark Andreesseen](http://m.wsj.net/video/20110603/060311biginterview/060311biginterview_512x288.jpg)
 2.	_Mark Andreessen, [Wall Street Journal](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), August 20, 2011_
 
-*
-
-1.	![Makerbot Wired Cover](http://cdn.lightgalleries.net/4c58ae3fe4541/images/TSC_MAK01-1.jpg)
-2.	_Bre Petis, founder of Makerbot, on [Wired Cover](http://www.wired.com/design/2012/09/how-makerbots-replicator2-will-launch-era-of-desktop-manufacturing/all/?pid=909), October, 2012_
 
 
 
 
 
 
-*	_![Google Glass](http://a.abcnews.com/images/Technology/ap_google_glasses_kb_120627_wg.jpg)_
-
-*	_![Kinect Doctor](http://betanews.com/wp-content/uploads/2011/11/Kinect-Doctor.jpg)_
-
-*	_![Nike Fit Band](http://gamification.co/wp-content/uploads/2012/07/nike.jpg)_
-
-*	_![Nest](http://dz8s0oagnjand.cloudfront.net/wp-content/uploads/2011/10/Nest-Thermostat-Auto-Away.png)_
-
-*	_![Google Shoe](http://www1.pcmag.com/media/images/377999-google-talking-shoe.jpg?thumb=y)_
-
-*	_![Pebble](http://cdn.shopify.com/s/files/1/0106/1422/t/4/assets/photo-cycling.jpg?41)_
-
-*	_![Hue](http://photos.appleinsider.com/hue-130806-2.jpg)_
-
-*	_![Smart Things](http://www.thefiresays.com/wp-content/uploads/2012/09/smartthings.jpg)_
-
-*	_![Electronic Tattoo](http://metrouk2.files.wordpress.com/2013/06/electric-tattoo.jpg?w=650&h=487&crop=1#038;h=560)_
-
-*	_![Jawbone UP](http://assets.coolhunting.com/coolhunting/mt_asset_cache/2011/11/03/jawbone-up-duo.jpg)_
 
 
 
@@ -176,9 +199,7 @@ something on the right
 
 
 
-*	![The Internet](http://content.animalnewyork.com/wp-content/uploads/19clix.jpg)
 
-*	_Image from the [Opte Project](http://www.opte.org/maps/)
 
 
 
