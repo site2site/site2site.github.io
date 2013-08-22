@@ -4,19 +4,6 @@ layout: lecture
 lecture: 0_programmable_world
 perex: Programmable World Lecture Notes
 ---
-> ## "Communications tools don't get socially interesting until they get technologically boring."
-
-*	__Clay Shirky, Here Comes Everybody: The Power of Organizing Without Organizations, 2008__
-
-
-
-
-
-
-
-
-
-
 # Modern architecture has always been a cheap date for technology
 
 *	![Le Corbusier Fiat](http://rosswolfe.files.wordpress.com/2013/05/corbu-fiat.jpg?w=900)
@@ -44,31 +31,53 @@ perex: Programmable World Lecture Notes
 
 ### To a discipline obsessed with the future, technology provided a crystal ball, the more futuristic the better.
 
+## "Communications tools don't get socially interesting until they get technologically boring."
+
+*	__Clay Shirky, Here Comes Everybody: The Power of Organizing Without Organizations, 2008__
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *	![Marinetti in car](http://3.bp.blogspot.com/-ZwvN_471R18/T2ZRNKZAEmI/AAAAAAAAASw/9uoKDl4sJ6c/s320/marinetti+in+his+car.jpg)
 
-*	_Modernism par excellence, Futurism, was born when F.T. Marinetti flipped his car into a ditch_
+*	__Modernism par excellence, Futurism, was born when F.T. Marinetti flipped his car into a ditch__
 
 ### There's no shortage of evidence that architecture has yet to outgrow its techno-futurist obsession
 
-*	_![Broadacre city](http://growingupinamerica.files.wordpress.com/2011/04/32405094_04-1.jpg)_
+*	__![Broadacre city](http://growingupinamerica.files.wordpress.com/2011/04/32405094_04-1.jpg)__
 
-*	_![Fun Palace](http://cup2013.files.wordpress.com/2011/04/02.jpg)_
+*	__![Fun Palace](http://cup2013.files.wordpress.com/2011/04/02.jpg)__
 
-*	_![Archigram's Walking City](http://designmuseum.org/media/item/4539/-1/87_2Lg.jpg)_
+*	__![Archigram's Walking City](http://designmuseum.org/media/item/4539/-1/87_2Lg.jpg)__
 
-*	_![OMA CCTV Stress Diagram](http://www.designboom.com/weblog/images/images_2/lauren/cctv/cctv06.jpg)_
+*	__![OMA CCTV Stress Diagram](http://www.designboom.com/weblog/images/images_2/lauren/cctv/cctv06.jpg)__
 
-*	_![Fuller Montreal Expo](http://arttattler.com/Images/NorthAmerica/NewYork/Whitney/Buckminster%20Fuller/fuller_pavilion.jpg)_
+*	__![Fuller Montreal Expo](http://arttattler.com/Images/NorthAmerica/NewYork/Whitney/Buckminster%20Fuller/fuller_pavilion.jpg)__
 
-*	_![Foster Hong Kong](http://www.e-architect.co.uk/images/jpgs/hong_kong/hong_kong_bank_foster_ianlambot2.jpg)_
+*	__![Foster Hong Kong](http://www.e-architect.co.uk/images/jpgs/hong_kong/hong_kong_bank_foster_ianlambot2.jpg)__
 
-*	_![Burj Khalifa](http://www.joutrip.com/i/b/burj-khalifa-burj-khalifa.jpg)_
+*	__![Burj Khalifa](http://www.joutrip.com/i/b/burj-khalifa-burj-khalifa.jpg)__
 
-*	_![BIM](http://computimesinc.com/wp-content/uploads/2013/02/BIM1.jpg)_
+*	__![BIM](http://computimesinc.com/wp-content/uploads/2013/02/BIM1.jpg)__
 
 
 *	![Makerbot Wired Cover](http://cdn.lightgalleries.net/4c58ae3fe4541/images/TSC_MAK01-1.jpg)
-*	_Bre Petis, founder of Makerbot, on [Wired Cover](http://www.wired.com/design/2012/09/how-makerbots-replicator2-will-launch-era-of-desktop-manufacturing/all/?pid=909), October, 2012_
+*	__Bre Petis, founder of Makerbot, on [Wired Cover](http://www.wired.com/design/2012/09/how-makerbots-replicator2-will-launch-era-of-desktop-manufacturing/all/?pid=909), October, 2012__
 
 
 
