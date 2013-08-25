@@ -6,32 +6,43 @@ perex: Programmable World Lecture Notes
 ---
 ## The real promise of the _Internet of Things_ is finally upon us.
 
-### As of this summer, we can uniquely address, connect and control physical sites with the same technology that we do digital sites through the most pervasive, robust and easy to learn internet protocol suite, the web.
+### As of this past summer, we can uniquely address, connect and control physical sites with the same technology that we do digital sites through the most pervasive, robust and easy to learn internet protocol suite, the web.
 
 *	__We can treat this...__
-
 *	![Things](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/blueMarble-Earth_650px.png)
+
+*	__...the same way we treat this...__
+*	![Things](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/browser.png)
 
 *	![Internet](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/imageOfTheInternet_650px.png)
 
-*	__the same way we treat this.__
+*	__...and therefore, the same way we treat this.__
 
 ## This is historically new.
 
 ###	\*\*\*  
 
+##### 1999
+
 *	![Kevin Ashton](http://multimediaman.files.wordpress.com/2013/02/kevinashton.jpg)
-*	In 1999, Kevin Ashton coined the term _Internet of Things_ to describe a world of uniquely addressable - and therefore trackable - objects, largely using RFIDs for passive sensing.
 
-### Since, a string of innovations have accelerated the capacity of hardware and software technology, somewhat in tandem, but largely in parallel.
+### In 1999, Kevin Ashton coined the term _Internet of Things_ to describe a world of uniquely addressable - and therefore trackable - objects, largely using RFIDs for passive sensing.
 
-##### 2004
+##### 2000-2004
 
 *	![Web 2.0 tag cloud](http://upload.wikimedia.org/wikipedia/commons/a/a7/Web_2.0_Map.svg)
 *	__Web 2.0, built on an open source web technology stack of Linux, Apache, MySql and PHP (the _LAMP Stack_), democratized digital publishing and turned the web into a bidirectional  platform for simultaneous consumtion and production.__
 
+##### 2004
+
 *	![API Growth](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/API_GROWTH.png)
 *	__Famously beginning with Flickr and the concept of _biz dev 2.0_, the open application programming interface, or API, quickly took off as a means of using online services as platforms for new applications. Then nascent Facebook and Twitter quickly followed by offering their own APIs.__
+
+##### 2005
+
+*	![Gmail](http://1.bp.blogspot.com/-ifZJygQERE4/Tck12UHvefI/AAAAAAAAAB8/l3Ldn1-KUY8/s1600/gmail_beta_logo_640.png)
+*	__Gmail was the first widely accepted "web app". By using the XmlHttpRequest provided by the new spec for ECMA script (commonly known as Javascript), Gmail could allow for interactivity without having to refresh the page on each click, offering a feeling much like a native desktop app.__
+
 
 
 
