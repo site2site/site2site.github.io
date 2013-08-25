@@ -58,10 +58,13 @@ h4{
   text-align: left;
 }
 
-h6{
+h5{
   font-family: Monaco, monospace;
-  font-size: 48px;
-  font-weight:bold;
+  font-size: 30px;
+  font-weight: normal;
+  line-height: 1.5em;
+  border-bottom: 3px solid salmon;
+  border-top: 3px solid salmon;
 }
 
 h6{
