@@ -4,17 +4,39 @@ layout: lecture
 lecture: 0_programmable_world
 perex: Programmable World Lecture Notes
 ---
-## The real promise of the _Internet of Things_ is finally upon us
+## The real promise of the _Internet of Things_ is finally upon us.
 
 ### As of this summer, we can uniquely address, connect and control physical sites with the same technology that we do digital sites through the most pervasive, robust and easy to learn internet protocol suite, the web.
 
-*	![Things]()
+*	__We can treat this...__
 
-*	![Internet]()
+*	![Things](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/blueMarble-Earth_650px.png)
+
+*	![Internet](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/imageOfTheInternet_650px.png)
+
+*	__the same way we treat this.__
+
+## This is historically new.
+
+###	\*\*\*  
+
+###### 1999    
+
+*	![Kevin Ashton](http://multimediaman.files.wordpress.com/2013/02/kevinashton.jpg)
+*	In 1999, Kevin Ashton coined the term _Internet of Things_ in conversation with Proctor &amp; Gamble while at MIT. The original idea began at the level of assigning unique IDs to passive objects that could then be tracked by active sensing, typically through RFIDs.
+
+### Since, a string of innovations have accelerated the capacity of hardware and software technology, somewhat in tandem, but largely in parallel.
+
+*	![Web 2.0 tag cloud](http://upload.wikimedia.org/wikipedia/commons/a/a7/Web_2.0_Map.svg)
+*	__Web 2.0, built on an open source web technology stack of Linux, Apache, MySql and PHP (the _LAMP Stack_), democratized digital publishing and turned the web into a bidirectional  platform for simultaneous consumtion and production.__
+
+*	
 
 
 
 
+
+*	![Technology Roadmap](http://upload.wikimedia.org/wikipedia/commons/5/5a/Internet_of_Things.png)
 
 
 
