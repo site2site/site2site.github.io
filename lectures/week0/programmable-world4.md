@@ -20,17 +20,20 @@ perex: Programmable World Lecture Notes
 
 ###	\*\*\*  
 
-###### 1999    
-
 *	![Kevin Ashton](http://multimediaman.files.wordpress.com/2013/02/kevinashton.jpg)
-*	In 1999, Kevin Ashton coined the term _Internet of Things_ in conversation with Proctor &amp; Gamble while at MIT. The original idea began at the level of assigning unique IDs to passive objects that could then be tracked by active sensing, typically through RFIDs.
+*	In 1999, Kevin Ashton coined the term _Internet of Things_ to describe a world of uniquely addressable - and therefore trackable - objects, largely using RFIDs for passive sensing.
 
 ### Since, a string of innovations have accelerated the capacity of hardware and software technology, somewhat in tandem, but largely in parallel.
+
+##### 2004
 
 *	![Web 2.0 tag cloud](http://upload.wikimedia.org/wikipedia/commons/a/a7/Web_2.0_Map.svg)
 *	__Web 2.0, built on an open source web technology stack of Linux, Apache, MySql and PHP (the _LAMP Stack_), democratized digital publishing and turned the web into a bidirectional  platform for simultaneous consumtion and production.__
 
-*	
+*	![API Growth](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/API_GROWTH.png)
+*	__Famously beginning with Flickr and the concept of _biz dev 2.0_, the open application programming interface, or API, quickly took off as a means of using online services as platforms for new applications. Then nascent Facebook and Twitter quickly followed by offering their own APIs.__
+
+
 
 
 
