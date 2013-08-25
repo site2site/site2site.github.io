@@ -81,13 +81,16 @@ perex: Programmable World Lecture Notes
 
 ##### 2011
 
+*	![Websockets Protocol](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/node_for_ARM.png)
+*	__The websocket protocol was formalized in 2011.__
+
 *	![Raspberry Pi](http://b.vimeocdn.com/ts/335/015/335015769_640.jpg)
 *	__Raspberry Pi__
 	
 	__Eben Upton with the Raspberry Pi, a $35 computer invented to help children take on computing. Sold 1.2M units in its first year.__
 
 
-##### 2013
+##### January 11, 2013
 
 *	![Node.js for ARM](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/node_for_ARM.png)
 *	__Node.js compiled for ARM/Raspberry Pi__
