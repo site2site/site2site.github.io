@@ -28,25 +28,71 @@ perex: Programmable World Lecture Notes
 
 ### In 1999, Kevin Ashton coined the term _Internet of Things_ to describe a world of uniquely addressable - and therefore trackable - objects, largely using RFIDs for passive sensing.
 
-##### 2000-2004
+*	![Lemon with barcode](http://www.openideo.com/open/localfood/concepting/produce-with-a-story/gallery/barcode_lemon.jpeg/)
+*	![Pink barcode neck tattoo](http://bossip.files.wordpress.com/2010/12/f79f5991d0e3473b_a573d8c92958f41a_o.jpg?w=500)
 
-*	![Web 2.0 tag cloud](http://upload.wikimedia.org/wikipedia/commons/a/a7/Web_2.0_Map.svg)
-*	__Web 2.0, built on an open source web technology stack of Linux, Apache, MySql and PHP (the _LAMP Stack_), democratized digital publishing and turned the web into a bidirectional  platform for simultaneous consumtion and production.__
+### Since, parallel strands of innovation in hardware and software
+
+###	\*\*\*
+
+
 
 ##### 2004
 
 *	![API Growth](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/API_GROWTH.png)
-*	__Famously beginning with Flickr and the concept of _biz dev 2.0_, the open application programming interface, or API, quickly took off as a means of using online services as platforms for new applications. Then nascent Facebook and Twitter quickly followed by offering their own APIs.__
+*	__Application Programming Interface (API)__
+	
+	__Famously beginning with Flickr and the concept of _biz dev 2.0_, the open application programming interface, or API, quickly took off as a means of using online services as platforms for new applications. Then nascent Facebook and Twitter quickly followed by offering their own APIs.__
+
+
 
 ##### 2005
 
 *	![Gmail](http://1.bp.blogspot.com/-ifZJygQERE4/Tck12UHvefI/AAAAAAAAAB8/l3Ldn1-KUY8/s1600/gmail_beta_logo_640.png)
-*	__Gmail was the first widely accepted "web app". By using the XmlHttpRequest provided by the new spec for ECMA script (commonly known as Javascript), Gmail could allow for interactivity without having to refresh the page on each click, offering a feeling much like a native desktop app.__
+*	__XmlHttpRequest__  
+	
+	__Gmail was the first widely accepted "web app". By using the XmlHttpRequest provided by the new spec for ECMA script (commonly known as Javascript), Gmail could allow for interactivity without having to refresh the page on each click, offering a feeling much like a native desktop app.__
+
+
+*	![Arduino](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/0/9/0/0/09950-01.jpg)
+*	__Arduino Microcontroller__
+	
+	__The Arduino microcontroller set the initial conditions for a new hardware revolution, with DIY home brewed physical computing systems popping up in interactive installations in art, architecture and other disciplines as a means of using cheap electronics to power physical world interactivity.__
 
 
 
+##### 2008
+
+*	![Github](https://github-camo.global.ssl.fastly.net/e210e2c029a1b0b818b5f2b6d20b1e5b91c66c5b/687474703a2f2f692e696d6775722e636f6d2f7748654a3977472e706e67)
+*	__Github__
+	
+	__An online repository of open source projects that instituted the current versioning methodology _git_ specified by Linux inventor Linus Torvalds.__
 
 
+
+##### 2009
+
+*	![Node.js](http://b.vimeocdn.com/ts/194/514/194514335_640.jpg)
+*	__Node.js__
+	
+	__Server side javascript: prune down the barriers to entry, welcome to DIRTY computing.__
+
+
+
+##### 2011
+
+*	![Raspberry Pi](http://b.vimeocdn.com/ts/335/015/335015769_640.jpg)
+*	__Raspberry Pi__
+	
+	__Eben Upton with the Raspberry Pi, a $35 computer invented to help children take on computing. Sold 1.2M units in its first year.__
+
+
+##### 2013
+
+*	![Node.js for ARM](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/node_for_ARM.png)
+*	__Node.js compiled for ARM/Raspberry Pi__
+	
+	__The first version of Node.js compiled for the ARM processor used by the Raspberry Pi, v0.8.17, released on January 11, 2013.__
 
 
 
