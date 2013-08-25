@@ -81,7 +81,7 @@ perex: Programmable World Lecture Notes
 
 ##### 2011
 
-*	![Websockets Protocol](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/node_for_ARM.png)
+*	![Websockets Protocol](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/websockets.png)
 *	__The websocket protocol was formalized in 2011.__
 
 *	![Raspberry Pi](http://b.vimeocdn.com/ts/335/015/335015769_640.jpg)
