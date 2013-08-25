@@ -6,7 +6,16 @@ perex: Programmable World Lecture Notes
 ---
 ## The real promise of the _Internet of Things_ is finally upon us
 
-### As of this summer, we can uniquely address, connect and control physical sites with the same technology that we do digital sites through the most pervasive internet protocol suite: the web.
+### As of this summer, we can uniquely address, connect and control physical sites with the same technology that we do digital sites through the most pervasive, robust and easy to learn internet protocol suite, the web.
+
+*	![Things]()
+
+*	![Internet]()
+
+
+
+
+
 
 
 
