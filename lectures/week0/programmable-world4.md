@@ -16,7 +16,7 @@ perex: Programmable World Lecture Notes
 
 *	![Internet](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/imageOfTheInternet_650px.png)
 
-*	__...and therefore, the same way we treat this.__
+*	__...and therefore, the same way we treat most of this.__
 
 ## This is historically new.
 
@@ -77,6 +77,18 @@ perex: Programmable World Lecture Notes
 	
 	__Server side javascript: prune down the barriers to entry, welcome to DIRTY computing.__
 
+*	![MakerBot Founders](http://upload.wikimedia.org/wikipedia/commons/e/e9/MakerBot_Founders_and_Final_Prototypes.jpg)
+*	__MakerBot__
+	
+	__Founded in 2009.__
+
+
+*	![Kickstarter](http://i2.cdn.turner.com/money/dam/assets/121217094331-kickstarter-founders-monster.jpg)
+*	__Kickstarter__
+	
+	__Kickstarter founded by...__
+
+
 
 
 ##### 2011
@@ -90,6 +102,43 @@ perex: Programmable World Lecture Notes
 	__Eben Upton with the Raspberry Pi, a $35 computer invented to help children take on computing. Sold 1.2M units in its first year.__
 
 
+
+
+##### 2012
+
+### By 2012, the world has caught on. Maker culture is in full swing...
+
+*	![Makerbot Wired Cover](http://cdn.lightgalleries.net/4c58ae3fe4541/images/TSC_MAK01-1.jpg)
+*	Bre Pettis, founder of Makerbot, on [Wired Cover](http://www.wired.com/design/2012/09/how-makerbots-replicator2-will-launch-era-of-desktop-manufacturing/all/?pid=909), October, 2012
+
+
+*	__![Google Glass](http://a.abcnews.com/images/Technology/ap_google_glasses_kb_120627_wg.jpg)__
+
+*	__![Kinect Doctor](http://betanews.com/wp-content/uploads/2011/11/Kinect-Doctor.jpg)__
+
+*	__![Nike Fit Band](http://gamification.co/wp-content/uploads/2012/07/nike.jpg)__
+
+*	__![Nest](http://dz8s0oagnjand.cloudfront.net/wp-content/uploads/2011/10/Nest-Thermostat-Auto-Away.png)__
+
+*	__![Google Shoe](http://www1.pcmag.com/media/images/377999-google-talking-shoe.jpg?thumb=y)__
+
+*	__![Pebble](http://cdn.shopify.com/s/files/1/0106/1422/t/4/assets/photo-cycling.jpg?41)__
+
+*	__![Hue](http://photos.appleinsider.com/hue-130806-2.jpg)__
+
+*	__![Smart Things](http://www.thefiresays.com/wp-content/uploads/2012/09/smartthings.jpg)__
+
+*	__![Electronic Tattoo](http://metrouk2.files.wordpress.com/2013/06/electric-tattoo.jpg?w=650&h=487&crop=1#038;h=560)__
+
+*	__![Jawbone UP](http://assets.coolhunting.com/coolhunting/mt_asset_cache/2011/11/03/jawbone-up-duo.jpg)__
+
+*	__![Smart Citie](http://blog.iesve.com/wp-content/uploads/2012/03/smart-cities.jpg)__
+
+
+
+
+
+
 ##### January 11, 2013
 
 *	![Node.js for ARM](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/node_for_ARM.png)
@@ -99,27 +148,8 @@ perex: Programmable World Lecture Notes
 
 
 
-*	![Technology Roadmap](http://upload.wikimedia.org/wikipedia/commons/5/5a/Internet_of_Things.png)
 
-
-
-
-
-We are not doing Internet of Things: this is about RFIDs, EPC ([Electronic Product Code](http://www.gs1.org/gsmp/kc/epcglobal/tds)), and so on. What we're talking about is Architecture Online. It is the Web of Spaces. We may be making objects, but it's not about those objects themselves, but about using them to transfer and connect environmental qualities. Also, we're not using some new URI (eg. the EPC standard), but rather using IP. Each object gets its own IPv4 URI.
-
-> If we had computers that knew everything there was to know about things—using data they gathered without any help from us—we would be able to track and count everything, and greatly reduce waste, loss and cost. We would know when things needed replacing, repairing or recalling, and whether they were fresh or past their best. - See more at: http://www.rfidjournal.com/articles/view?4986#sthash.rIngJ2Rd.dpuf
-
-This is not what we are doing! We are about connecting spaces to change programming.
-
-This is what we are interested in:
-> We need to empower computers with their own means of gathering information, so they can see, hear and smell the world for themselves, in all its random glory. RFID and sensor technology enable computers to observe, identify and understand the world—without the limitations of human-entered data. - See more at: http://www.rfidjournal.com/articles/view?4986#sthash.rIngJ2Rd.dpuf
-
-
-
-
-
-
-*	<iframe src="https://www.slideshare.net/slideshow/embed_code/24507454" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/Cisco/ccs-re-ioe-connection-counter1306-v003" title="The Internet of Everything Connections Counter #IoE" target="_blank">The Internet of Everything Connections Counter #IoE</a> </strong> from <strong><a href="http://www.slideshare.net/Cisco" target="_blank">Cisco Systems</a></strong> </div>
+## Modern architecture was a cheap date for the latest technology.
 
 *	![Vers une Architecture](http://farm3.static.flickr.com/2439/3926773892_e3470e5960.jpg)
 
@@ -184,27 +214,6 @@ This is what we are interested in:
 
 ### Ubiquitous computing, quanitifed-self and other elements of Big Data, embedded devices, the "Sentient City", "Smart Cities", wearables, and so on, continue to taunt us
 
-*	__![Google Glass](http://a.abcnews.com/images/Technology/ap_google_glasses_kb_120627_wg.jpg)__
-
-*	__![Kinect Doctor](http://betanews.com/wp-content/uploads/2011/11/Kinect-Doctor.jpg)__
-
-*	__![Nike Fit Band](http://gamification.co/wp-content/uploads/2012/07/nike.jpg)__
-
-*	__![Nest](http://dz8s0oagnjand.cloudfront.net/wp-content/uploads/2011/10/Nest-Thermostat-Auto-Away.png)__
-
-*	__![Google Shoe](http://www1.pcmag.com/media/images/377999-google-talking-shoe.jpg?thumb=y)__
-
-*	__![Pebble](http://cdn.shopify.com/s/files/1/0106/1422/t/4/assets/photo-cycling.jpg?41)__
-
-*	__![Hue](http://photos.appleinsider.com/hue-130806-2.jpg)__
-
-*	__![Smart Things](http://www.thefiresays.com/wp-content/uploads/2012/09/smartthings.jpg)__
-
-*	__![Electronic Tattoo](http://metrouk2.files.wordpress.com/2013/06/electric-tattoo.jpg?w=650&h=487&crop=1#038;h=560)__
-
-*	__![Jawbone UP](http://assets.coolhunting.com/coolhunting/mt_asset_cache/2011/11/03/jawbone-up-duo.jpg)__
-
-*	__![Smart Citie](http://blog.iesve.com/wp-content/uploads/2012/03/smart-cities.jpg)__
 
 
 
@@ -297,6 +306,31 @@ This is what we are interested in:
 
 
 
+
+
+
+
+*	![Technology Roadmap](http://upload.wikimedia.org/wikipedia/commons/5/5a/Internet_of_Things.png)
+
+
+
+
+
+We are not doing Internet of Things: this is about RFIDs, EPC ([Electronic Product Code](http://www.gs1.org/gsmp/kc/epcglobal/tds)), and so on. What we're talking about is Architecture Online. It is the Web of Spaces. We may be making objects, but it's not about those objects themselves, but about using them to transfer and connect environmental qualities. Also, we're not using some new URI (eg. the EPC standard), but rather using IP. Each object gets its own IPv4 URI.
+
+> If we had computers that knew everything there was to know about things—using data they gathered without any help from us—we would be able to track and count everything, and greatly reduce waste, loss and cost. We would know when things needed replacing, repairing or recalling, and whether they were fresh or past their best. - See more at: http://www.rfidjournal.com/articles/view?4986#sthash.rIngJ2Rd.dpuf
+
+This is not what we are doing! We are about connecting spaces to change programming.
+
+This is what we are interested in:
+> We need to empower computers with their own means of gathering information, so they can see, hear and smell the world for themselves, in all its random glory. RFID and sensor technology enable computers to observe, identify and understand the world—without the limitations of human-entered data. - See more at: http://www.rfidjournal.com/articles/view?4986#sthash.rIngJ2Rd.dpuf
+
+
+
+
+
+
+*	<iframe src="https://www.slideshare.net/slideshow/embed_code/24507454" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/Cisco/ccs-re-ioe-connection-counter1306-v003" title="The Internet of Everything Connections Counter #IoE" target="_blank">The Internet of Everything Connections Counter #IoE</a> </strong> from <strong><a href="http://www.slideshare.net/Cisco" target="_blank">Cisco Systems</a></strong> </div>
 
 
 
