@@ -42,15 +42,54 @@ We can treat this...
 
 ![RFID](http://i.bnet.com/blogs/rfid-tag-based-on-flickr-midnightcomm-620x400.jpg)
 
-*	![Lemon with barcode](http://www.openideo.com/open/localfood/concepting/produce-with-a-story/gallery/barcode_lemon.jpeg/)
 
-*	![Pink barcode neck tattoo](http://bossip.files.wordpress.com/2010/12/f79f5991d0e3473b_a573d8c92958f41a_o.jpg?w=500)
 
+##### 2009
+
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_sentientcity-id1.jpg)__
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_img9862-edit.jpg)__
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_sentient-opening-1.jpg)__
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_img9860-edit.jpg)__
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_img9865-edit.jpg)__
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_img9856-edit.jpg)__
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_sentient-opening-2.jpg)__
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_sentient-opening-3.jpg)__
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_tscbook-img0007.jpg)__
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_tscbook-img0014.jpg)__
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_tscbook-img0015.jpg)__
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_tscbook-img0010.jpg)__
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_tscbook-img0016.jpg)__
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_tscbook-img0009.jpg)__
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_tscbook-img0013.jpg)__
+*	__![Sentient City](http://www.thumbprojects.com/files/gimgs/117_sentientcityweb-1.jpg)__
+*	__![Sentient City](http://archleague.org/main/wp-content/uploads/2009/10/IMG_6900.JPG)__
+*	__![Sentient City](http://archidose.org/wp/wp-content/uploads/2011/05/sentient.jpg)__
+*	__![Sentient City](http://archleague.org/main/wp-content/uploads/2011/01/SentCity-Main2.jpg)__
+*	__![Sentient City](http://www.archidose.org/Blog/sentient-city.jpg)__
+
+### _Toward the Sentient City_, Architectural League of New York
+
+_Trash Tracker_, MIT Senseable City Lab
 
 *	![Trash track tracker](http://www.sentientcity.net/exhibit/wp-content/uploads/2_TrashTag_web.jpg)
 *	![Trash in garbage can](http://www.sentientcity.net/exhibit/wp-content/uploads/3_DeploymentExample_web.jpg)
 *	![Trash local visualization](http://www.sentientcity.net/exhibit/wp-content/uploads/4_Visualization_1_web.jpg)
 *	![Trash larger visualization](http://www.sentientcity.net/exhibit/wp-content/uploads/4_Visualization_2_web.jpg)
+
+_Amphibious Architecture_, Living Architecture Lab
+
+*	![Rendering](http://www.sentientcity.net/exhibit/wp-content/uploads/AMPHIBIOUS_6-web.jpg)
+*	![Light calibration](http://www.sentientcity.net/exhibit/wp-content/uploads/AMPHIBIOUS_4-web.jpg)
+*	![Setup](http://www.sentientcity.net/exhibit/wp-content/uploads/AMPHIBIOUS_3-web.jpg)
+*	![Arduino](http://www.sentientcity.net/exhibit/wp-content/uploads/AMPHIBIOUS_5-web.jpg)
+
+
+
+
+
+
+
+
 
 
 *	![Nike+ Runners in Manhattan Visualization](http://payload.cargocollective.com/1/0/7319/1327371/Plain-01-01.png)

@@ -97,6 +97,10 @@ select{
   color: black;
 }
 
+p{
+  display: block;
+}
+
 ul{
   list-style: none;
   text-align: center;
@@ -104,8 +108,8 @@ ul{
 
 ul li{
   display: inline-block;
-  padding:0;
-  margin:40px;
+  padding:40px 40px 0 0;
+  margin:0;
   text-align: left;
 }
 
@@ -120,7 +124,8 @@ ul li em img{
   border:3px solid salmon;
 }
 
-ul li strong img{
+ul li strong img,
+strong img{
   height:120px;
   overflow:hidden;
 }
@@ -136,12 +141,12 @@ ul li strong img{
     width:90%;
   }
 
-  img{
+  p img{
     max-width:650px;
     max-height:650px;
     display: block;
-    padding:0;
-    margin:40px;
+    padding:40px;
+    margin:0 auto;
   }
 
   ul li img,
@@ -157,6 +162,7 @@ ul li strong img{
     width:650px;
     max-height:650px;
   }
+
   ul li strong{
     max-width:250px;
   }
