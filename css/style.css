@@ -55,7 +55,6 @@ h4{
   font-size:24px;
   font-weight: bold;
   line-height: 1.5em;
-  text-align: left;
 }
 
 h5{
@@ -65,6 +64,7 @@ h5{
   line-height: 1em;
   color:salmon;
   margin:120px auto 40px;
+  max-width:650px;
 }
 
 h6{

@@ -2,9 +2,10 @@
 layout: intro
 title: Site to Site
 ---
-![Snowden poster in Hong Kong](http://static.guim.co.uk/sys-images/Guardian/About/General/2013/6/17/1371471051617/edward-Snowden-008.jpg)
+![Edward Snowden](http://static4.businessinsider.com/image/51b728346bb3f7c77700000e/booz-allen-has-fired-edward-snowden.jpg)
 
-### Something else just happened to privacy that you haven't heard about
+### Something else has been happening to privacy that you probably haven't heard about.
+
 
 ###### \*\*\*
 
@@ -15,43 +16,69 @@ title: Site to Site
 	
 	__The first official version of Node.js compiled for the ARM processor used by the Raspberry Pi, v0.8.17, was released on January 11, 2013.__
 
-## This marked the collapse of physical and web computing
+## This marked the collision of physical and web computing.
 
-###### \*\*\*
 
-To put it another way, we can now treat this...  
+#### We can now treat this...  
 
 ![Things](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/blueMarble-Earth_650px.png)
 
-...the way we treat this. 
+#### ...the way we treat this... 
 
-![Things](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/browser.png) 
+![Web Browser](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/browser.png) 
 
-Which is to say, the way we treat most of this...   
+#### ...which is to say, most of this...   
 
 ![Internet](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/imageOfTheInternet_650px.png)
 
-...using no more than this.
+#### ...using no more than this.
 
 ![HTML5 CSS3 Javascript](https://lh3.googleusercontent.com/-w0UdIu8UZG4/Ufm1vJAtbqI/AAAAAAAARQw/7buV13g6gdY/w426-h250/css3-html5-javascript-logo.png)
+
+### The stakes for architecture are enormous.<br>Here's why.
 
 
 ###### \*\*\*
 
-Client-Server Model
+## What is a Raspberry Pi?
+
+![Eben Upton with Raspberry Pi](http://b.vimeocdn.com/ts/335/015/335015769_640.jpg)
+
+### Eben Upton introduced the Raspberry Pi $35 mini computer in 2011 as a sort of 21st century _Erector Set_ for the current generation of iPad babies.
+
+
 
 ![Client-Server Model](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-2.gif)
 
-### The model that the web is built on has created the separation of _frontend_ and _backend_, design and engineering, soft and hard, easy and difficult, creative and logical, interactive and supportive, art and science, hacking and architecting.
+### The web is built on a client-server model that separates _frontend_ (client) from _backend_ (server). It is a contemporary apparatus for dividing _design_ from _engineering_.
+
+
+![Front-end Back-end iceberg](http://skillcrush.com/wp-content/uploads/2012/08/term-frontendvsbackend.jpeg)
+
 
 *	![Sitting in circle](http://www.old-picture.com/american-legacy/001/pictures/Children-Sitting-Circle.jpg)
 *	![Medical education](http://24.media.tumblr.com/021581f2e830bcc715fee55468865413/tumblr_mmut5rXRTN1s9jkgko1_500.jpg)
 
+Architecture of learning
+
 *	![Post-it wall](http://www.adliterate.com/archives/49915119_47670f570e_b.jpg)
 *	![Hackup](http://archleague.org/main/wp-content/uploads/2009/10/IMG_6900.JPG)
 
-*	
+Tools of innovation
 
+*	![Design office](http://theofficestylist.com/wp-content/uploads/2010/09/Shot72.jpg)
+*	![Hackathon](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/hackathon.jpg)
+
+Environments of work
+
+
+
+
+
+
+adding another apparatus that reinforces the historical divide of art and science.
+
+design and engineering, soft and hard, easy and difficult, creative and logical, interactive and supportive, art and science, hacking and architecting.
 
 ### Historically
 
