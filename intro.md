@@ -2,67 +2,81 @@
 layout: intro
 title: Site to Site
 ---
-### Many platform wars have been raging
+### Many platform wars have been raging of late
 
+*	__![Facebook](http://www.bloggingtipstoday.com/wp-content/uploads/2013/06/facebook-logo-reversed.png)__
+*	__![Google](http://www.seomofo.com/downloads/new-google-logo-knockoff.png)__
+*	__![Twitter](http://images.wikia.com/moshimonsters/images/a/a7/Twitter_Logo.jpg)__
+*	__![App.net](http://www.besttechie.com/wp-content/uploads/2013/02/app-net.jpg)__
+*	__![Amazon Web Services](http://setiquest.org/wiki/images/f/f1/AWS_LOGO_RGB_300px.jpg)__
+*	__![Heroku](https://dzpp79ucibp5a.cloudfront.net/groups_logos/624_normal_1371632222_heroku-logo-light-300x100.png)__
+*	__![Nodejitsu](http://docs.nodejitsu.com/img/logo.png)__
 
-### Another is brewing with vast architectural consequences
-
-
-### Platforms engineer the conditions of design
+### Why?
 
 *	__![Like](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-ash3/851581_371114989659302_1663619632_n.png)__
 *	__![Embed](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-ash3/851581_524655644256118_1549229881_n.jpg)__
 *	__![]
 
 
-
-### Who will provide the meta-design for the _Internet of Things_?
+### Because platforms engineer the conditions of design
 
 ###### \*\*\*
 
-### We will.
-
-##### 2004
+##### Background
 
 *	![Flickr API](http://img.clickonf5.org/it/HowToCreateAPIForFlickrAccountsToSharePi_D24B/flickr_api_request.gif)
-*	__Flickr API__
+*	__Flickr API (2004)__
 	
 	__Flickr was the first major web service to open its API for public use in a strategy coined "biz dev 2.0" by co-founder Caterina Fake.__
 
 *	![Stamen's Mappr](http://stamen.com/files/route66.jpg)
-*	__Mappr by Stamen__
+*	__Mappr by Stamen (2004)__
 	
 	__Quickly after the launch of the API, San Francisco-based Stamen built Mappr, a photo geo-location interface for the Flickr database. Many more such applications followed.__
 
-The Flickr API has since provided the foundation for numerous apps and mashups
+#### The Flickr API has since provided the foundation for numerous apps and mashups
 
-*	__![Haiku](http://www.programmableweb.com/images/links/md12821.jpg)__
-*	__![10 Camera](http://www.programmableweb.com/images/links/md12905.jpg)__
-*	__![44tips](http://www.programmableweb.com/images/links/md15267.jpg)__
-*	__![Actually](http://www.programmableweb.com/images/links/md24381.jpg)__
-*	__![Airplane Specs](http://www.programmableweb.com/images/links/md11514.jpg)__
-*	__![Alkemis](http://www.programmableweb.com/images/links/md207.jpg)__
-*	__![Ibiza](http://www.programmableweb.com/images/links/md7452.jpg)__
-*	__![AlphaLearnr](http://www.programmableweb.com/images/links/md6215.jpg)__
-*	__![AllorNone](http://www.programmableweb.com/images/links/md5432.jpg)__
-*	__![Animated Flickr Gif](http://www.programmableweb.com/images/links/md6155.jpg)__
-*	__![Animal Photos](http://www.programmableweb.com/images/links/md9150.jpg)__
-*	__![Clay Fox](http://www.clayfox.com/images/blog/flickrgraph.jpg)__
-*	__![Crackunit](http://www.crackunit.com/wp-content/uploads/2006/04/Picture%204.jpg)__
-*	__![Flappr](http://www.crackunit.com/wp-content/uploads/2006/04/Picture%205.jpg)__
-*	__![Flickr Fling](http://www.crackunit.com/wp-content/uploads/2006/04/Picture%203.jpg)__
-*	__![Processing and Flickr API](http://api.ning.com/files/6CGVPUR09zgWHqiBzFexcLWniaxtO7kdN*YpTCHKGKCr3RmwcNRu-6xPcVkiKFEouiwzyK8n9fx0IuLilr2eaqPielQd2Uzf/flick13.png)__
-
-*	![API growth curve](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/API_GROWTH.jpg)
-*	__API Growth__
-	
-	__Since 
+*	![Flickr and Twitter Mapping](http://farm7.static.flickr.com/6023/5912385701_470d2b97ac.jpg)
+*	![Processing and Flickr API](http://api.ning.com/files/6CGVPUR09zgWHqiBzFexcLWniaxtO7kdN*YpTCHKGKCr3RmwcNRu-6xPcVkiKFEouiwzyK8n9fx0IuLilr2eaqPielQd2Uzf/flick13.png)
+*	![Crackunit](http://www.crackunit.com/wp-content/uploads/2006/04/Picture%204.jpg)
+*	![Clay Fox](http://www.clayfox.com/images/blog/flickrgraph.jpg)
 
 
+### As of August 30, there were 9860 APIs registered in the Programmable Web database
 
+![API growth curve](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/API_GROWTH.png)
+
+### This includes a surprising range of organizations, all vying to be the platform for your next project
+
+*	__![Mastercard](http://upload.wikimedia.org/wikipedia/en/b/b7/MasterCard_Logo.svg)__
+*	__![World Bank](http://www.ranklogos.com/wp-content/uploads/2012/05/World-Bank-logo.jpg)__
+*	__![The White House](http://www.concordia.lib.la.us/images/Links/the%20white%20house.jpg)__
+*	__![New York Times](http://breadandwinechicago.com/wordpress/wp-content/uploads/2011/06/nytLogo.jpg)__
+*	__![NFL](http://www.thebloggerconnection.com/wp-content/uploads/2012/09/nfl-logo.gif)__
+*	__![jStor](http://blogs.warwick.ac.uk/images/libraryartsnews/2009/07/14/jstor_logo.jpg?maxWidth=500)__
+*	__![Nasa](http://upload.wikimedia.org/wikipedia/commons/2/25/Nasa-logo.gif)__
+*	__![NY Public Library](http://2.bp.blogspot.com/_6Y672X_Bfv0/TIYmsWqwxII/AAAAAAAAAVo/9V9nVlRRXr4/s320/NYPL_logo1_black_pos.JPG)__
+*	__![MIT](http://web.mit.edu/graphicidentity/images/mitlogo.gif)__
+*	__![Ford](http://1.bp.blogspot.com/-zHweeQTdX2Y/ULjQMypaoJI/AAAAAAAABIs/tlGzS_tTjdY/s1600/ford-logo.jpg)__
 
 
 
+
+
+
+
+### Another is brewing with vast architectural consequences
+
+*	__![Xively](http://blog.logmein.com/wp-content/uploads/2013/07/xively-logo-rgb-bluebg.png)__
+*	__![EVRYTHNG](http://www.evrythng.com/wp-content/themes/evrytheme/img/logo.png)__
+*	__![SmartThings](http://minnov8.com/site/wp-content/uploads/2013/03/smartthings-logo.jpg)__
+*	__![Sensinode](https://partner.m2m.telekom.com/upload/CompanyImages/Sensinode%20Logo_344.jpg)__
+
+
+### Who will provide this meta-design for the _Internet of Things_?
+
+### We will.
 
 
 
