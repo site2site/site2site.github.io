@@ -2,6 +2,77 @@
 layout: intro
 title: Site to Site
 ---
+### Many platform wars have been raging
+
+
+### Another is brewing with vast architectural consequences
+
+
+### Platforms engineer the conditions of design
+
+*	__![Like](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-ash3/851581_371114989659302_1663619632_n.png)__
+*	__![Embed](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-ash3/851581_524655644256118_1549229881_n.jpg)__
+*	__![]
+
+
+
+### Who will provide the meta-design for the _Internet of Things_?
+
+###### \*\*\*
+
+### We will.
+
+##### 2004
+
+*	![Flickr API](http://img.clickonf5.org/it/HowToCreateAPIForFlickrAccountsToSharePi_D24B/flickr_api_request.gif)
+*	__Flickr API__
+	
+	__Flickr was the first major web service to open its API for public use in a strategy coined "biz dev 2.0" by co-founder Caterina Fake.__
+
+*	![Stamen's Mappr](http://stamen.com/files/route66.jpg)
+*	__Mappr by Stamen__
+	
+	__Quickly after the launch of the API, San Francisco-based Stamen built Mappr, a photo geo-location interface for the Flickr database. Many more such applications followed.__
+
+The Flickr API has since provided the foundation for numerous apps and mashups
+
+*	__![Haiku](http://www.programmableweb.com/images/links/md12821.jpg)__
+*	__![10 Camera](http://www.programmableweb.com/images/links/md12905.jpg)__
+*	__![44tips](http://www.programmableweb.com/images/links/md15267.jpg)__
+*	__![Actually](http://www.programmableweb.com/images/links/md24381.jpg)__
+*	__![Airplane Specs](http://www.programmableweb.com/images/links/md11514.jpg)__
+*	__![Alkemis](http://www.programmableweb.com/images/links/md207.jpg)__
+*	__![Ibiza](http://www.programmableweb.com/images/links/md7452.jpg)__
+*	__![AlphaLearnr](http://www.programmableweb.com/images/links/md6215.jpg)__
+*	__![AllorNone](http://www.programmableweb.com/images/links/md5432.jpg)__
+*	__![Animated Flickr Gif](http://www.programmableweb.com/images/links/md6155.jpg)__
+*	__![Animal Photos](http://www.programmableweb.com/images/links/md9150.jpg)__
+*	__![Clay Fox](http://www.clayfox.com/images/blog/flickrgraph.jpg)__
+*	__![Crackunit](http://www.crackunit.com/wp-content/uploads/2006/04/Picture%204.jpg)__
+*	__![Flappr](http://www.crackunit.com/wp-content/uploads/2006/04/Picture%205.jpg)__
+*	__![Flickr Fling](http://www.crackunit.com/wp-content/uploads/2006/04/Picture%203.jpg)__
+*	__![Processing and Flickr API](http://api.ning.com/files/6CGVPUR09zgWHqiBzFexcLWniaxtO7kdN*YpTCHKGKCr3RmwcNRu-6xPcVkiKFEouiwzyK8n9fx0IuLilr2eaqPielQd2Uzf/flick13.png)__
+
+*	![API growth curve](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/API_GROWTH.jpg)
+*	__API Growth__
+	
+	__Since 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Edward Snowden](http://static4.businessinsider.com/image/51b728346bb3f7c77700000e/booz-allen-has-fired-edward-snowden.jpg)
 
 ### Something else has been happening to privacy that you probably haven't heard about.
