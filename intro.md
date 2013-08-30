@@ -85,17 +85,19 @@ title: Site to Site
 
 
 
-*	__![Chair](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/chair.svg)__
-*	__![Table](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/table.svg)__
-*	__![Lamp](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/lamp.svg)__
-*	__![Carpet](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/carpet.svg)__
-*	__![Outlet](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/outlet.svg)__
-*	__![Fan](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/fan.svg)__
-*	__![Faucet](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/faucet.svg)__
-*	__![Heater](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/heater.svg)__
-*	__![Projector](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/projector.svg)__
-*	__![Speakers](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/speakers.svg)__
-*	__![Microphone](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/microphone.svg)__
+*	__![Office Chair](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/office_chair.svg)__
+*	__![Table](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/table.svg)__
+*	__![Lamp](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/lamp.svg)__
+*	__![Carpet](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/carpet.svg)__
+*	__![Outlet](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/outlet.svg)__
+*	__![Window](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/window.svg)__
+*	__![Fan](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/fan.svg)__
+*	__![Faucet](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/faucet.svg)__
+*	__![Door Handle](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/door_handle.svg)__
+*	__![Heater](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/heater.svg)__
+*	__![Projector](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/projector.svg)__
+*	__![Speakers](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/speakers.svg)__
+*	__![Microphone](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/microphone.svg)__
 
 ### We want to tap into this
 
