@@ -85,16 +85,17 @@ title: Site to Site
 
 
 
-*	__![Chair]()__
-*	__![Table]()__
-*	__![Lamp]()__
-*	__![Carpet]()__
-*	__![Outlet]()__
-*	__![Fan]()__
-*	__![Faucet]()__
-*	__![Projector]()__
-*	__![Speakers]()__
-*	__![Microphone]()__
+*	__![Chair](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/chair.svg)__
+*	__![Table](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/table.svg)__
+*	__![Lamp](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/lamp.svg)__
+*	__![Carpet](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/carpet.svg)__
+*	__![Outlet](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/outlet.svg)__
+*	__![Fan](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/fan.svg)__
+*	__![Faucet](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/faucet.svg)__
+*	__![Heater](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/heater.svg)__
+*	__![Projector](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/projector.svg)__
+*	__![Speakers](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/speakers.svg)__
+*	__![Microphone](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/microphone.svg)__
 
 ### We want to tap into this
 
