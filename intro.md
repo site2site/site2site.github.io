@@ -4,119 +4,82 @@ title: Site to Site
 ---
 ## Architecture is online.
 
-*	__![Foursquare](http://vnfa8y5n3zndutm1.zippykid.netdna-cdn.com/wp-content/uploads/2012/04/2-foursquare-logo.jpg)__
-*	__![Instagram](http://www.blackberryed.com/wp-content/uploads/2013/03/instagram-logo.jpg)__
-*	__![iPhone](http://createdigitalmusic.com/files/2013/06/iphone5_ios7.jpg)__
-*	__![Google Glass](http://www.arikhanson.com/wp-content/uploads/2013/03/Google-Glass.jpg)__
-*	__![Kinect](http://betanews.com/wp-content/uploads/2011/11/Kinect-Doctor.jpg)__
+*	__![Foursquare map view](http://s2.cdn.memeburn.com/wp-content/uploads/2012/06/New-Foursquare-Map.jpg)__
+*	__![Instagram at MoMA Rain Room](http://24.media.tumblr.com/d3b5f277825c7e5d2779255c26bdfee4/tumblr_mox2yr0XcB1r1thfzo8_1280.jpg)__
+*	__![Skybox Imaging](http://eijournal.com/newsite/wp-content/uploads/2011/08/SKYBOX.jpg)__
+*	__![Google Street View in Burj Khalifa](http://9to5google.files.wordpress.com/2013/06/skyscraper.png?w=704&h=502)__
+*	__![Illumiroom diagram](http://www.extremetech.com/wp-content/uploads/2013/01/microsoft-immersive-display-patent.jpg)__
+*	__![Illumiroom concept video still](http://i2.cdnds.net/13/02/618x347/gaming-microsoft-illumi-room-concept-video-still.jpg)__
 *	__![Nike+](http://cdn2.ubergizmo.com/wp-content/uploads/2013/01/Nike.jpg)__
-*	__![Pebble Watch](https://s3.amazonaws.com/ksr/projects/111694/photo-main.jpg?1334081632)__
-*	__![Jawbone UP](http://the-gadgeteer.com/wp-content/uploads/2013/04/jawbone-up-4.jpg)__
-*	__![Arduino](http://www.liquidware.com/system/0000/3648/Arduino_Uno_Angle.jpg)__
-*	__![Google Now](http://reliablesoftwares.com/blog/wp-content/uploads/2013/02/Google-Now-Logo.gif)__
-*	__![Gimbal SDK](https://evbdn.eventbrite.com/s3-s3/eventlogos/12533029/gimballogovertrgb.jpg)__
-*	__![Surveilance](http://www.howtovanish.com/images/surveillance-cameras.jpg)__
-*	__![IBM Smarter Cities](https://a248.e.akamai.net/engage.vevent.com/env1/ec_556/13618333.jpg)__
-*	__![Disneyland scanner](http://land.allears.net/blogs/dnews/magic-band.jpg)__
-*	__![Xively](http://blog.logmein.com/wp-content/uploads/2013/07/xively-logo-rgb-bluebg.png)__
-*	__![EVRYTHNG](http://www.evrythng.com/wp-content/themes/evrytheme/img/logo.png)__
-*	__![SmartThings](http://uncrate.com/p/2012/08/smartthings.jpg)__
+*	__![Nike+ runners visualization NYC](http://popupcity.net/wp-content/uploads/2011/08/Nike-Plus-visualization-1.jpg)__
+*	__![Fitbit personal wellness monitor](http://www.healthyobsessions.net/wp-content/uploads/2010/12/fitbit-personal-wellness-monitor-xl.jpg)__
+*	__![Fitbit sleep monitor](http://www.2wired2tired.com/wp-content/uploads/2013/03/Fitbit-Sleep.jpg)__
 *	__![Philips Hue](http://cdn.macrumors.com/article-new/2013/05/philips_hue_starter_pack_iphone.jpg)__
 *	__![Nest](http://cdn.macrumors.com/article-new/2012/05/nest_thermostat_iphone_app.jpg)__
-*	__![Firefly](http://static.squarespace.com/static/5029c46be4b0ce22e4c31cb6/t/510c2da0e4b0b50dd94e07c0/1359752613110/MacBookPro_06.png?format=1000w)__
-*	__![Spacebrew](http://makezineblog.files.wordpress.com/2013/02/adminpage3.jpg?w=598&h=237)__
+*	__![Arduino](http://www.liquidware.com/system/0000/3648/Arduino_Uno_Angle.jpg)__
+*	__![Arduino advanced sensor kit](http://www.dfrobot.com/image/cache/data/KIT0011/kit0011-600x600.jpg)__
+*	__![Google Glass](http://www.arikhanson.com/wp-content/uploads/2013/03/Google-Glass.jpg)__
+*	__![IBM Smarter Cities](https://a248.e.akamai.net/engage.vevent.com/env1/ec_556/13618333.jpg)__
+*	__![Disneyland scanner](http://land.allears.net/blogs/dnews/magic-band.jpg)__
 
 
-### There are already platform wars raging for virtual space
+### But architects are not equipped to design for it
+
+##### The Stakes
 
 *	__![Facebook](http://www.webplatform.org/stewards/facebook/facebook_logo.png)__
 *	__![Google+](http://www.n3rdabl3.co.uk/wp-content/uploads/2013/05/Google-Plus-Logo.png)__
 *	__![Twitter](http://cdn.skattertech.com/files/2011/05/twitter-logo.jpg)__
-*	__![Apple](http://isource.com/wp-content/uploads/2013/02/apple-logo.jpg)__
+*	__![Amazon](http://www.toxel.com/wp-content/uploads/2010/06/logo04.jpg)__
+*	__![iOS](http://readingonscreen.files.wordpress.com/2013/04/ios-logo.jpg?w=750)__
+*	__![Android](http://images.wallstcheatsheet.com/wp-content/uploads/2012/05/android-logo-white.png)__
+*	__![Windows Surface](http://www.telos.com/emerging-technologies/capabilities/images/Microsoft-Surface-Logo.jpg)__
+*	__![Xiaomi](http://androidspin.com/wp-content/uploads/2012/10/MIUIEs-Logo.png)__
 
+### [Platform wars](http://techcrunch.com/2013/03/09/bring-on-the-platform-wars/) are being waged for virtual space
 
-### The market for physical space is even greater
 
 *	![Internet](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/imageOfTheInternet.png)
-*	![Earth](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/imageOfTheInternet.png)
+*	![Earth](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/blueMarble-Earth_650px.png)
+
+### The [market](http://postscapes.com/internet-of-things-market-size) for physical space is even greater
 
 
-*	__![Facebook places](http://www.chrisrawlinson.com/wp-content/uploads/2010/08/FacebookPlacesLogo.png)__
-*	__![Open Street Map](http://www.lacantine-brest.net/wp-content/uploads/2013/07/OSM-logo.png)__
-*	__![Google Maps](http://cdn.slashgear.com/wp-content/uploads/2012/11/photo.png)__
-*	__![Apple Maps](http://technorians.com/wp-content/uploads/2013/06/l-ancien-logo-d-apple-maps3.jpeg)__
-
-
-#### to public, personal and enterprise clouds
-
-*	__![Google Apps](http://habrastorage.org/storage2/805/89c/a3d/80589ca3dd7dd1aa8c75e9c2772d35d3.jpg)__
-*	__![Salesforce.com](http://cdn.ndtv.com/tech/images/gadgets/salesforce-logo-635.JPG)__
-*	__![Dropbox](http://img.talkandroid.com/uploads/2012/12/Dropbox-Logo.png)__
-*	__![Box.net](http://cloudtimes.org/wp-content/uploads/2011/08/box_logo.png)__
-*	__![Google Drive](http://3.bp.blogspot.com/-M4rl_vu7Zdg/T5WxmasD4hI/AAAAAAAAAZU/phNKLsdkYwc/s1600/google+drive+logo.jpg)__
-*	__![iCloud](http://info.lecturetools.com/Portals/16036/images/icloud_logo.png)__
-*	__![Amazon Web Services](http://setiquest.org/wiki/images/f/f1/AWS_LOGO_RGB_300px.jpg)__
-*	__![Heroku](https://dzpp79ucibp5a.cloudfront.net/groups_logos/624_normal_1371632222_heroku-logo-light-300x100.png)__
-*	__![Nodejitsu](http://docs.nodejitsu.com/img/logo.png)__
-
-
-#### to mobile devices
-
-*	__![iPhone](http://createdigitalmusic.com/files/2013/06/iphone5_ios7.jpg)__
-*	__![Android](http://images.wallstcheatsheet.com/wp-content/uploads/2012/05/android-logo-white.png)__
-*	__![Windows Phone](http://static4.businessinsider.com/image/50bfa9b2eab8ea7379000000/video-review-htcs-windows-phone-8x.jpg)__
-*	__![iPad](http://images.worldofapple.com/2010/03/ipad_advert-e1268053004115.png)__
-*	__![Samsung Windows 8](http://www.extremetech.com/wp-content/uploads/2012/08/samsung-ativ-tab.jpg)__
-
-
-#### and more recently, embedded devices.
+*	__![Xively](http://blog.logmein.com/wp-content/uploads/2013/07/xively-logo-rgb-bluebg.png)__
+*	__![EVRYTHNG](http://www.evrythng.com/wp-content/themes/evrytheme/img/logo.png)__
+*	__![SmartThings](http://minnov8.com/site/wp-content/uploads/2013/03/smartthings-logo.jpg)__
+*	__![Sensinode](https://partner.m2m.telekom.com/upload/CompanyImages/Sensinode%20Logo_344.jpg)__
+*	__![Withings](http://tactiosoft.com/wp-content/uploads/2013/04/partners_withings.png)__
+*	__![Ninjablocks](http://new.ninjablocks.com/media/logo_thumb.png)__
+*	__![Osito](http://www.getosito.com/downloads/Osito.Logo.Stacked.png)__
+*	__![Zonoff](https://si0.twimg.com/profile_images/1408173359/zonoff_cyan_on_square_480_px.jpg)__
+*	__![Thingspeak](http://iobridge.com/technology/thingspeak/ThingSpeak_Logo.jpg)__
 
 
 
+### A [silent war](http://www.wired.com/gadgetlab/2013/05/internet-of-things/) is underway between companies you've likely never heard of to determine the meta-design for the connected, responsive architecture of the very near future
+
+## Rather than join a side, we're assembling an [army](https://github.com/organizations/site2site)
+
+
+##### Methodology
+
+### We will build an architecture API
+
+
+### We will build an architecture OS
+
+### We will work as an office
+
+
+### We will take on the architecture office
 
 
 
-
-
-### But what is a plaform?
-
-
-*	![Flickr API](http://img.clickonf5.org/it/HowToCreateAPIForFlickrAccountsToSharePi_D24B/flickr_api_request.gif)
-*	__Flickr API (2004)__
-	
-	__Flickr was the first major web service to open its API for public use in a strategy coined "biz dev 2.0" by co-founder Caterina Fake.__
-
-*	![Stamen's Mappr](http://stamen.com/files/route66.jpg)
-*	__Mappr by Stamen (2004)__
-	
-	__Quickly after the launch of the API, San Francisco-based Stamen built Mappr, a photo geo-location interface for the Flickr database. Many more such applications followed.__
-
-#### The Flickr API has since provided the foundation for numerous apps and mashups
-
-*	![Flickr and Twitter Mapping](http://farm7.static.flickr.com/6023/5912385701_470d2b97ac.jpg)
-*	![Processing and Flickr API](http://api.ning.com/files/6CGVPUR09zgWHqiBzFexcLWniaxtO7kdN*YpTCHKGKCr3RmwcNRu-6xPcVkiKFEouiwzyK8n9fx0IuLilr2eaqPielQd2Uzf/flick13.png)
-*	![Crackunit](http://www.crackunit.com/wp-content/uploads/2006/04/Picture%204.jpg)
-*	![Clay Fox](http://www.clayfox.com/images/blog/flickrgraph.jpg)
-
-
-#### Flickr quickly showed the value of becoming a platform
-
-
-
-
-
-
-
-
-
-
-
-
-### As of August 30, there were 9860 APIs registered in the Programmable Web database
 
 ![API growth curve](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/API_GROWTH.png)
 
-### This includes a surprising range of organizations, all vying to be the platform for your next project
+### As of August 30, 2013, there were 9878 APIs registered in the [Programmable Web](http://www.programmableweb.com/) database, including:
 
 *	__![Mastercard](http://upload.wikimedia.org/wikipedia/en/b/b7/MasterCard_Logo.svg)__
 *	__![World Bank](http://www.ranklogos.com/wp-content/uploads/2012/05/World-Bank-logo.jpg)__
@@ -126,12 +89,13 @@ title: Site to Site
 *	__![jStor](http://blogs.warwick.ac.uk/images/libraryartsnews/2009/07/14/jstor_logo.jpg?maxWidth=500)__
 *	__![Nasa](http://upload.wikimedia.org/wikipedia/commons/2/25/Nasa-logo.gif)__
 *	__![NY Public Library](http://2.bp.blogspot.com/_6Y672X_Bfv0/TIYmsWqwxII/AAAAAAAAAVo/9V9nVlRRXr4/s320/NYPL_logo1_black_pos.JPG)__
-*	__![MIT](http://web.mit.edu/graphicidentity/images/mitlogo.gif)__
-*	__![Ford](http://1.bp.blogspot.com/-zHweeQTdX2Y/ULjQMypaoJI/AAAAAAAABIs/tlGzS_tTjdY/s1600/ford-logo.jpg)__
+*	__![Subway sandwiches](http://lonelyconservative.com/wp-content/uploads/2013/07/subway-logo-eat-fresh-2.jpg)__
+*	__![Oxford English Dictionary](http://a0.twimg.com/profile_images/845695415/OED_logo.jpg)__
+*	__![MTA](http://statepolitics.lohudblogs.com/files/2011/12/mta-logo.jpg)__
+*	__![PBS](http://www.nerdist.com/wp-content/uploads/2010/10/pbs_logo-365x300.jpg)__
 
 
-
-
+### Because platforms engineer the conditions of design
 
 
 
@@ -146,7 +110,7 @@ title: Site to Site
 *	__![]
 
 
-### Because platforms engineer the conditions of design
+
 
 ###### \*\*\*
 

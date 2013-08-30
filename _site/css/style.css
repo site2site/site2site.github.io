@@ -64,9 +64,8 @@ h5{
   font-weight: normal;
   line-height: 1em;
   color:salmon;
-  margin:120px auto 40px;
+  margin:200px auto 40px;
   max-width:650px;
-  text-decoration: underline;
 }
 
 h6{
@@ -84,7 +83,7 @@ a#logo{
 a{
   color:blue;
   text-decoration: none;
-  border-bottom:1px solid;
+  border-bottom:3px dotted;
 }
 
 .menu{
