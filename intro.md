@@ -101,6 +101,23 @@ title: Site to Site
 
 ### Architecture has yet to adopt this ethos
 
+## We are going to build an Architecture API
+
+###### \*\*\*
+
+##### Partnership
+
+![US Pavilion, Venice](http://photos.state.gov/libraries/italy/164264/Images_001_001/20130123venice500x234.jpg)
+
+### Working in tandem with the seminar _Corporate Avant Garde_ (A6453), we will take a hypothetical construct as our object: the US Pavilion in Venice as the site for an architecture office, Office_US_
+
+![Architecture office of the past](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Architects-office.jpg/800px-Architects-office.jpg)
+
+### We will assume the site of architecture production spans a programmatic spectrum...
+
+![Work spectrum](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/work_spectrum.png)
+
+### supported by a constellation of objects...
 
 *	__![Office Chair](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/office_chair.svg)__
 *	__![Table](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/table.svg)__
@@ -116,30 +133,32 @@ title: Site to Site
 *	__![Speakers](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/speakers.svg)__
 *	__![Microphone](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/microphone.svg)__
 
-## We will build an Architecture API to tap into these
+### that are connected and responsive...
 
 
-##### Partnership
 
-![US Pavilion, Venice](http://photos.state.gov/libraries/italy/164264/Images_001_001/20130123venice500x234.jpg)
-
-*	__![Eva Franch](http://www.storefrontnews.org/images/event/607.jpg)__
-*	__![Dominic Leong](http://d3seu6qyu1a8jw.cloudfront.net/sites/default/files/DominicLeong-cropped.jpg)__
-*	__![Chris Leong](http://d3seu6qyu1a8jw.cloudfront.net/sites/default/files/ChrisLeong_cropped.jpg)__
-*	__![Carlos Minquez Carrasco](http://farm9.staticflickr.com/8469/8077388289_b660061904_b.jpg)__
+### powered by cheap and easy to use technology...
 
 
-### Working in tandem with the seminar _Corporate Avant Garde_ (A6453), we will take a hypothetical construct as our object: the US Pavilion in Venice as the site for an architecture office, Office_US_
+### running on easy to learn languages...
 
 
-![Work spectrum](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/work_spectrum.png)
+### that will allow us to program applications for spaces...
 
-### We will assume the site of architecture production spans a programmatic spectrum
+
+
+
+### and connect them to others around the world.
+
+
+### We will use Studio-X NYC as a test environment
 
 ![Studio-X Animated GIF](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/studioX_worm.gif)
 
 
+### And then we will distribute our Architecture API around the world
 
+![Studio-X Global Network](http://templatizer.gsappcloud.org/sites/default/files/global_network_map_online.png)
 
 
 
