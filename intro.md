@@ -135,7 +135,7 @@ title: Site to Site
 
 ### that are connected and responsive...
 
-
+![Connected Objects](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/connected_objects.gif)
 
 ### powered by cheap and easy to use technology...
 
