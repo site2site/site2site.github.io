@@ -123,10 +123,12 @@ title: Site to Site
 
 ##### Partnership
 
-### Working in tandem with the seminar _Corporate Avant Garde_ (A6453), we will take a hypothetical construct as our object: the US Pavilion in Venice as the site for an architecture office, Office_US_
-
 ![US Pavilion, Venice](http://photos.state.gov/libraries/italy/164264/Images_001_001/20130123venice500x234.jpg)
 
+### Working in tandem with the seminar _Corporate Avant Garde_ (A6453), we will take a hypothetical construct as our object: the US Pavilion in Venice as the site for an architecture office, Office_US_
+
+
+![Work spectrum](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/work_spectrum.png)
 
 
 
