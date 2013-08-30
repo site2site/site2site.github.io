@@ -14,30 +14,31 @@ title: Site to Site
 *	__![Jawbone UP](http://the-gadgeteer.com/wp-content/uploads/2013/04/jawbone-up-4.jpg)__
 *	__![Arduino](http://www.liquidware.com/system/0000/3648/Arduino_Uno_Angle.jpg)__
 *	__![Google Now](http://reliablesoftwares.com/blog/wp-content/uploads/2013/02/Google-Now-Logo.gif)__
+*	__![Gimbal SDK](https://evbdn.eventbrite.com/s3-s3/eventlogos/12533029/gimballogovertrgb.jpg)__
+*	__![Surveilance](http://www.howtovanish.com/images/surveillance-cameras.jpg)__
+*	__![IBM Smarter Cities](https://a248.e.akamai.net/engage.vevent.com/env1/ec_556/13618333.jpg)__
+*	__![Disneyland scanner](http://land.allears.net/blogs/dnews/magic-band.jpg)__
 *	__![Xively](http://blog.logmein.com/wp-content/uploads/2013/07/xively-logo-rgb-bluebg.png)__
 *	__![EVRYTHNG](http://www.evrythng.com/wp-content/themes/evrytheme/img/logo.png)__
-*	__![SmartThings](http://minnov8.com/site/wp-content/uploads/2013/03/smartthings-logo.jpg)__
-*	__![Sensinode](https://partner.m2m.telekom.com/upload/CompanyImages/Sensinode%20Logo_344.jpg)__
+*	__![SmartThings](http://uncrate.com/p/2012/08/smartthings.jpg)__
+*	__![Philips Hue](http://cdn.macrumors.com/article-new/2013/05/philips_hue_starter_pack_iphone.jpg)__
+*	__![Nest](http://cdn.macrumors.com/article-new/2012/05/nest_thermostat_iphone_app.jpg)__
 *	__![Firefly](http://static.squarespace.com/static/5029c46be4b0ce22e4c31cb6/t/510c2da0e4b0b50dd94e07c0/1359752613110/MacBookPro_06.png?format=1000w)__
 *	__![Spacebrew](http://makezineblog.files.wordpress.com/2013/02/adminpage3.jpg?w=598&h=237)__
 
 
-### We no longer have the luxury of speaking of architecture online in the future tense
-
-
-
-### You've perhaps heard about the platform wars that are raging
-
-#### From communities and self-expression engines
+### There are already platform wars raging for virtual space
 
 *	__![Facebook](http://www.webplatform.org/stewards/facebook/facebook_logo.png)__
 *	__![Google+](http://www.n3rdabl3.co.uk/wp-content/uploads/2013/05/Google-Plus-Logo.png)__
 *	__![Twitter](http://cdn.skattertech.com/files/2011/05/twitter-logo.jpg)__
-*	__![Tumblr](http://1.bp.blogspot.com/-dSjfvHiQlDg/UQAcwYxwMmI/AAAAAAAAD58/0u5KwTR4-rQ/s640/tumblr-logo-rectangle-white-on-blue-839x385px.png)__
+*	__![Apple](http://isource.com/wp-content/uploads/2013/02/apple-logo.jpg)__
 
 
-#### to location-based services and maps
+### The market for physical space is even greater
 
+*	![Internet](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/imageOfTheInternet.png)
+*	![Earth](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/imageOfTheInternet.png)
 
 
 *	__![Facebook places](http://www.chrisrawlinson.com/wp-content/uploads/2010/08/FacebookPlacesLogo.png)__
