@@ -2,28 +2,63 @@
 layout: intro
 title: Site to Site
 ---
-### Many platform wars have been raging of late
+### You've perhaps heard about the platform wars that are raging
 
-*	__![Facebook](http://www.bloggingtipstoday.com/wp-content/uploads/2013/06/facebook-logo-reversed.png)__
-*	__![Google](http://www.seomofo.com/downloads/new-google-logo-knockoff.png)__
-*	__![Twitter](http://images.wikia.com/moshimonsters/images/a/a7/Twitter_Logo.jpg)__
-*	__![App.net](http://www.besttechie.com/wp-content/uploads/2013/02/app-net.jpg)__
+#### From communities and self-expression engines
+
+*	__![Facebook](http://www.webplatform.org/stewards/facebook/facebook_logo.png)__
+*	__![Google+](http://www.n3rdabl3.co.uk/wp-content/uploads/2013/05/Google-Plus-Logo.png)__
+*	__![Twitter](http://cdn.skattertech.com/files/2011/05/twitter-logo.jpg)__
+*	__![Tumblr](http://1.bp.blogspot.com/-dSjfvHiQlDg/UQAcwYxwMmI/AAAAAAAAD58/0u5KwTR4-rQ/s640/tumblr-logo-rectangle-white-on-blue-839x385px.png)__
+
+
+#### to location-based services and maps
+
+*	__![Foursquare](http://vnfa8y5n3zndutm1.zippykid.netdna-cdn.com/wp-content/uploads/2012/04/2-foursquare-logo.jpg)__
+*	__![Instagram](http://www.blackberryed.com/wp-content/uploads/2013/03/instagram-logo.jpg)__
+*	__![Google Now](http://reliablesoftwares.com/blog/wp-content/uploads/2013/02/Google-Now-Logo.gif)__
+*	__![Facebook places](http://www.chrisrawlinson.com/wp-content/uploads/2010/08/FacebookPlacesLogo.png)__
+*	__![Open Street Map](http://www.lacantine-brest.net/wp-content/uploads/2013/07/OSM-logo.png)__
+*	__![Google Maps](http://cdn.slashgear.com/wp-content/uploads/2012/11/photo.png)__
+*	__![Apple Maps](http://technorians.com/wp-content/uploads/2013/06/l-ancien-logo-d-apple-maps3.jpeg)__
+
+
+#### to public, personal and enterprise clouds
+
+*	__![Google Apps](http://habrastorage.org/storage2/805/89c/a3d/80589ca3dd7dd1aa8c75e9c2772d35d3.jpg)__
+*	__![Salesforce.com](http://cdn.ndtv.com/tech/images/gadgets/salesforce-logo-635.JPG)__
+*	__![Dropbox](http://img.talkandroid.com/uploads/2012/12/Dropbox-Logo.png)__
+*	__![Box.net](http://cloudtimes.org/wp-content/uploads/2011/08/box_logo.png)__
+*	__![Google Drive](http://3.bp.blogspot.com/-M4rl_vu7Zdg/T5WxmasD4hI/AAAAAAAAAZU/phNKLsdkYwc/s1600/google+drive+logo.jpg)__
+*	__![iCloud](http://info.lecturetools.com/Portals/16036/images/icloud_logo.png)__
 *	__![Amazon Web Services](http://setiquest.org/wiki/images/f/f1/AWS_LOGO_RGB_300px.jpg)__
 *	__![Heroku](https://dzpp79ucibp5a.cloudfront.net/groups_logos/624_normal_1371632222_heroku-logo-light-300x100.png)__
 *	__![Nodejitsu](http://docs.nodejitsu.com/img/logo.png)__
 
-### Why?
 
-*	__![Like](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-ash3/851581_371114989659302_1663619632_n.png)__
-*	__![Embed](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-ash3/851581_524655644256118_1549229881_n.jpg)__
-*	__![]
+#### to mobile devices
+
+*	__![iPhone](http://createdigitalmusic.com/files/2013/06/iphone5_ios7.jpg)__
+*	__![Android](http://images.wallstcheatsheet.com/wp-content/uploads/2012/05/android-logo-white.png)__
+*	__![Windows Phone](http://static4.businessinsider.com/image/50bfa9b2eab8ea7379000000/video-review-htcs-windows-phone-8x.jpg)__
+*	__![iPad](http://images.worldofapple.com/2010/03/ipad_advert-e1268053004115.png)__
+*	__![Samsung Windows 8](http://www.extremetech.com/wp-content/uploads/2012/08/samsung-ativ-tab.jpg)__
 
 
-### Because platforms engineer the conditions of design
+#### and more recently, embedded devices.
 
-###### \*\*\*
+*	__![Google Glass](http://www.arikhanson.com/wp-content/uploads/2013/03/Google-Glass.jpg)__
+*	__![Nike+](http://cdn2.ubergizmo.com/wp-content/uploads/2013/01/Nike.jpg)__
+*	__![Pebble Watch](https://s3.amazonaws.com/ksr/projects/111694/photo-main.jpg?1334081632)__
+*	__![Jawbone UP](http://the-gadgeteer.com/wp-content/uploads/2013/04/jawbone-up-4.jpg)__
 
-##### Background
+
+
+
+
+
+### But what is a plaform?
+
 
 *	![Flickr API](http://img.clickonf5.org/it/HowToCreateAPIForFlickrAccountsToSharePi_D24B/flickr_api_request.gif)
 *	__Flickr API (2004)__
@@ -43,6 +78,19 @@ title: Site to Site
 *	![Clay Fox](http://www.clayfox.com/images/blog/flickrgraph.jpg)
 
 
+#### Flickr quickly showed the value of becoming a platform
+
+
+
+
+
+
+
+
+
+
+
+
 ### As of August 30, there were 9860 APIs registered in the Programmable Web database
 
 ![API growth curve](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/API_GROWTH.png)
@@ -59,6 +107,30 @@ title: Site to Site
 *	__![NY Public Library](http://2.bp.blogspot.com/_6Y672X_Bfv0/TIYmsWqwxII/AAAAAAAAAVo/9V9nVlRRXr4/s320/NYPL_logo1_black_pos.JPG)__
 *	__![MIT](http://web.mit.edu/graphicidentity/images/mitlogo.gif)__
 *	__![Ford](http://1.bp.blogspot.com/-zHweeQTdX2Y/ULjQMypaoJI/AAAAAAAABIs/tlGzS_tTjdY/s1600/ford-logo.jpg)__
+
+
+
+
+
+
+
+
+
+
+
+
+
+*	__![Like](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-ash3/851581_371114989659302_1663619632_n.png)__
+*	__![Embed](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-ash3/851581_524655644256118_1549229881_n.jpg)__
+*	__![]
+
+
+### Because platforms engineer the conditions of design
+
+###### \*\*\*
+
+##### Background
+
 
 
 

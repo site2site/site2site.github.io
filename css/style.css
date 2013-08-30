@@ -157,7 +157,7 @@ strong img{
     max-height:650px;
   }
 
-  ul li strong{
+  ul li strong p{
     max-width:250px;
   }
 }
