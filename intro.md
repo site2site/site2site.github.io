@@ -107,13 +107,15 @@ title: Site to Site
 
 ##### Partnership
 
+#### Working in tandem with the seminar _Corporate Avant Garde_ (A6453), we will take a hypothetical construct as our object: the US Pavilion in Venice as the site for an architecture office, Office_US_
+
 ![US Pavilion, Venice](http://photos.state.gov/libraries/italy/164264/Images_001_001/20130123venice500x234.jpg)
 
-### Working in tandem with the seminar _Corporate Avant Garde_ (A6453), we will take a hypothetical construct as our object: the US Pavilion in Venice as the site for an architecture office, Office_US_
+### Office_US_ will not look like this...
 
 ![Architecture office of the past](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Architects-office.jpg/800px-Architects-office.jpg)
 
-### We will assume the site of architecture production spans a programmatic spectrum...
+### it will span a vast programmatic spectrum...
 
 ![Work spectrum](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/work_spectrum.png)
 
@@ -139,27 +141,28 @@ title: Site to Site
 
 ### powered by cheap and easy to use technology...
 
+*	![Eben Upton with Raspberry Pi](http://i2.cdn.turner.com/cnn/dam/assets/121220065212-raspberry-pi-close-up-horizontal-gallery.jpg)
+*	![Raspberry Pi kids](http://www.raspberrypi.org/wp-content/uploads/2012/10/SSLHoF-Rpi-and-Lego-WeDo-5.jpeg)
 
-### running on easy to learn languages...
+### controlled by easy to learn languages.
 
-
-### that will allow us to program applications for spaces...
-
-
-
-
-### and connect them to others around the world.
+![HTML CSS Javascript](http://www.virtualsciences.nl/over-ons/expertise/open-source-software/html5fam.jpg)
 
 
-### We will use Studio-X NYC as a test environment
+### We will install and test our Architecture API at Studio-X NYC...
 
 ![Studio-X Animated GIF](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/studioX_worm.gif)
 
 
-### And then we will distribute our Architecture API around the world
+### and then we will distribute our Architecture API around the world...
 
 ![Studio-X Global Network](http://templatizer.gsappcloud.org/sites/default/files/global_network_map_online.png)
 
 
+### so that we can connect remote spaces.
 
 ###### \*\*\*
+
+##### Collaboration
+
+### We will work as an office
