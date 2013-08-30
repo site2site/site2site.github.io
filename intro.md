@@ -64,19 +64,6 @@ title: Site to Site
 
 ##### Methodology
 
-### We will build an architecture API
-
-
-### We will build an architecture OS
-
-### We will work as an office
-
-
-### We will take on the architecture office
-
-
-
-
 ![API growth curve](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/API_GROWTH.png)
 
 ### As of August 30, 2013, there were 9878 APIs registered in the [Programmable Web](http://www.programmableweb.com/) database, including:
@@ -94,8 +81,22 @@ title: Site to Site
 *	__![MTA](http://statepolitics.lohudblogs.com/files/2011/12/mta-logo.jpg)__
 *	__![PBS](http://www.nerdist.com/wp-content/uploads/2010/10/pbs_logo-365x300.jpg)__
 
+### Today, you can tap into almost anything
 
-### Because platforms engineer the conditions of design
+
+
+*	__![Chair]()__
+*	__![Table]()__
+*	__![Lamp]()__
+*	__![Carpet]()__
+*	__![Outlet]()__
+*	__![Fan]()__
+*	__![Faucet]()__
+*	__![Projector]()__
+*	__![Speakers]()__
+*	__![Microphone]()__
+
+### We want to tap into this
 
 
 
