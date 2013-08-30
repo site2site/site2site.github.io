@@ -8,6 +8,7 @@ title: Site to Site
 *	__![Instagram](http://www.blackberryed.com/wp-content/uploads/2013/03/instagram-logo.jpg)__
 *	__![iPhone](http://createdigitalmusic.com/files/2013/06/iphone5_ios7.jpg)__
 *	__![Google Glass](http://www.arikhanson.com/wp-content/uploads/2013/03/Google-Glass.jpg)__
+*	__![Kinect](http://betanews.com/wp-content/uploads/2011/11/Kinect-Doctor.jpg)__
 *	__![Nike+](http://cdn2.ubergizmo.com/wp-content/uploads/2013/01/Nike.jpg)__
 *	__![Pebble Watch](https://s3.amazonaws.com/ksr/projects/111694/photo-main.jpg?1334081632)__
 *	__![Jawbone UP](http://the-gadgeteer.com/wp-content/uploads/2013/04/jawbone-up-4.jpg)__
