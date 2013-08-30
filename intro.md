@@ -2,6 +2,29 @@
 layout: intro
 title: Site to Site
 ---
+## Architecture is online.
+
+*	__![Foursquare](http://vnfa8y5n3zndutm1.zippykid.netdna-cdn.com/wp-content/uploads/2012/04/2-foursquare-logo.jpg)__
+*	__![Instagram](http://www.blackberryed.com/wp-content/uploads/2013/03/instagram-logo.jpg)__
+*	__![iPhone](http://createdigitalmusic.com/files/2013/06/iphone5_ios7.jpg)__
+*	__![Google Glass](http://www.arikhanson.com/wp-content/uploads/2013/03/Google-Glass.jpg)__
+*	__![Nike+](http://cdn2.ubergizmo.com/wp-content/uploads/2013/01/Nike.jpg)__
+*	__![Pebble Watch](https://s3.amazonaws.com/ksr/projects/111694/photo-main.jpg?1334081632)__
+*	__![Jawbone UP](http://the-gadgeteer.com/wp-content/uploads/2013/04/jawbone-up-4.jpg)__
+*	__![Arduino](http://www.liquidware.com/system/0000/3648/Arduino_Uno_Angle.jpg)__
+*	__![Google Now](http://reliablesoftwares.com/blog/wp-content/uploads/2013/02/Google-Now-Logo.gif)__
+*	__![Xively](http://blog.logmein.com/wp-content/uploads/2013/07/xively-logo-rgb-bluebg.png)__
+*	__![EVRYTHNG](http://www.evrythng.com/wp-content/themes/evrytheme/img/logo.png)__
+*	__![SmartThings](http://minnov8.com/site/wp-content/uploads/2013/03/smartthings-logo.jpg)__
+*	__![Sensinode](https://partner.m2m.telekom.com/upload/CompanyImages/Sensinode%20Logo_344.jpg)__
+*	__![Firefly](http://static.squarespace.com/static/5029c46be4b0ce22e4c31cb6/t/510c2da0e4b0b50dd94e07c0/1359752613110/MacBookPro_06.png?format=1000w)__
+*	__![Spacebrew](http://makezineblog.files.wordpress.com/2013/02/adminpage3.jpg?w=598&h=237)__
+
+
+### We no longer have the luxury of speaking of architecture online in the future tense
+
+
+
 ### You've perhaps heard about the platform wars that are raging
 
 #### From communities and self-expression engines
@@ -14,9 +37,8 @@ title: Site to Site
 
 #### to location-based services and maps
 
-*	__![Foursquare](http://vnfa8y5n3zndutm1.zippykid.netdna-cdn.com/wp-content/uploads/2012/04/2-foursquare-logo.jpg)__
-*	__![Instagram](http://www.blackberryed.com/wp-content/uploads/2013/03/instagram-logo.jpg)__
-*	__![Google Now](http://reliablesoftwares.com/blog/wp-content/uploads/2013/02/Google-Now-Logo.gif)__
+
+
 *	__![Facebook places](http://www.chrisrawlinson.com/wp-content/uploads/2010/08/FacebookPlacesLogo.png)__
 *	__![Open Street Map](http://www.lacantine-brest.net/wp-content/uploads/2013/07/OSM-logo.png)__
 *	__![Google Maps](http://cdn.slashgear.com/wp-content/uploads/2012/11/photo.png)__
@@ -47,10 +69,7 @@ title: Site to Site
 
 #### and more recently, embedded devices.
 
-*	__![Google Glass](http://www.arikhanson.com/wp-content/uploads/2013/03/Google-Glass.jpg)__
-*	__![Nike+](http://cdn2.ubergizmo.com/wp-content/uploads/2013/01/Nike.jpg)__
-*	__![Pebble Watch](https://s3.amazonaws.com/ksr/projects/111694/photo-main.jpg?1334081632)__
-*	__![Jawbone UP](http://the-gadgeteer.com/wp-content/uploads/2013/04/jawbone-up-4.jpg)__
+
 
 
 
