@@ -156,7 +156,7 @@ title: Site to Site
 
 ### and then distribute it around the world...
 
-![Studio-X Global Network](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/studio-x_continuousInterior_animated.gif)
+![Studio-X Global Network](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/studio-x_continuousInterior_animated_LR.gif)
 
 
 ### allowing us to connect remote spaces into a single interior.
