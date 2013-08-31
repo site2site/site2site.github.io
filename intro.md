@@ -154,12 +154,12 @@ title: Site to Site
 ![Studio-X Animated GIF](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/studioX_worm.gif)
 
 
-### and then we will distribute our Architecture API around the world...
+### and then distribute it around the world...
 
-![Studio-X Global Network](http://templatizer.gsappcloud.org/sites/default/files/global_network_map_online.png)
+![Studio-X Global Network](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/studio-x_continuousInterior_animated.gif)
 
 
-### so that we can connect remote spaces.
+### allowing us to connect remote spaces into a single interior.
 
 ###### \*\*\*
 
