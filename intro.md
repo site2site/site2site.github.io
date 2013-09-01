@@ -51,7 +51,7 @@ title: Site to Site
 ![Stamen's Mappr](http://stamen.com/files/route66.jpg)
 
 
-### The Flickr API has since provided the foundation for numerous apps and mashups
+### The Flickr API has since provided the foundation for numerous [apps and mashups](http://www.flickr.com/services/)
 
 *	![Flickr and Twitter Mapping](http://farm7.static.flickr.com/6023/5912385701_470d2b97ac.jpg)
 *	![Processing and Flickr API](http://api.ning.com/files/6CGVPUR09zgWHqiBzFexcLWniaxtO7kdN*YpTCHKGKCr3RmwcNRu-6xPcVkiKFEouiwzyK8n9fx0IuLilr2eaqPielQd2Uzf/flick13.png)
@@ -84,7 +84,7 @@ title: Site to Site
 
 ##### Partnership, Object, Objective
 
-### Working in tandem with the seminar _Corporate Avant Garde_ (A6453), we will take a hypothetical construct as our object: the US Pavilion in Venice as the site for an architecture office, Office_US_
+### Working in tandem with the seminar [_Corporate Avant Garde_](https://courseworks.columbia.edu/portal/site/ARCHA6453_001_2013_3/page/46c75ce5-e9b2-4cbd-9b1d-097576cb48b0/page/c4527fc2-4fe2-4cfa-b7bb-c154b3c6cffa/page/f3c68329-0508-4779-b408-3e09ca266b92) (A6453), we will take a hypothetical construct as our object: the [US Pavilion in Venice](http://www.labiennale.org/en/architecture/venues/pavilions.html?back=true) as the site for an architecture office, Office_US_
 
 ![US Pavilion, Venice](http://photos.state.gov/libraries/italy/164264/Images_001_001/20130123venice500x234.jpg)
 
@@ -165,7 +165,7 @@ title: Site to Site
 *	__![BarePaint](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/5/2/1/11521-03.jpg)__
 
 
-### controlled by cheap and easy to use technology...
+### controlled by [cheap](http://arduino.cc/) and [easy to use](http://www.raspberrypi.org/) technology...
 
 *	![Eben Upton with Raspberry Pi](http://i2.cdn.turner.com/cnn/dam/assets/121220065212-raspberry-pi-close-up-horizontal-gallery.jpg)
 *	![Kid Arduino teacher](http://www.popsci.com/files/imagecache/article_image_big/articles/PSC0913_DY_052.jpg)
@@ -175,7 +175,7 @@ title: Site to Site
 ![Cloud Diagram](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/cloud_connected.gif)
 
 
-### to store values and perform complex analysis...
+### to [store](http://www.mongodb.org/) values and perform [complex analysis](https://github.com/peterbraden/node-opencv)...
 
 ![Database](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/cloud_elements.svg)
 
@@ -191,10 +191,11 @@ title: Site to Site
 ###### \*\*\*
 
 
+
 ##### Installation and Hackathon Review
 
 
-### We will install our Architecture API at Studio-X NYC...
+### We will install our Architecture API at [Studio-X NYC](http://studiox-nyc.tumblr.com/)...
 
 ![Studio-X Animated GIF](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/studioX_worm.gif)
 
@@ -210,7 +211,7 @@ title: Site to Site
 
 ##### Session B - ArchitectureOS
 
-### We will distribute our Architecture API around the world...
+### We will distribute our Architecture API around the [world](http://www.arch.columbia.edu/studio-x-global/locations)...
 
 ![Studio-X Global Network](http://templatizer.gsappcloud.org/sites/default/files/global_network_map_online.png)
 
@@ -220,7 +221,7 @@ title: Site to Site
 ![Studio-X Global Continous Interior](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/studio-x_panorama.png)
 
 
-### by collectively designing and building an online Architecture Operating System...
+### by collectively designing and building an online [Architecture Operating System](http://a-os.co/)...
 
 ![ArchitectureOS](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/ArchitectureOS.png)
 
@@ -237,6 +238,8 @@ title: Site to Site
 ##### Office_Us_
 
 ### We will work collaboratively as an office
+
+#### blah blah blah
 
 
 ![Generator](http://1.bp.blogspot.com/_tpF2_7rzFMU/Swrv1rrCULI/AAAAAAAADEc/R6wnltTbsW4/s1600/gn01.jpg)
