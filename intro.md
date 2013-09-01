@@ -171,7 +171,7 @@ title: Site to Site
 
 ### streaming information to a cloud...
 
-![Cloud Diagram]()
+![Cloud Diagram](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/cloud_connected.gif)
 
 
 ### to store values in a persistent database...
