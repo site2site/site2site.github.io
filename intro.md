@@ -82,7 +82,7 @@ title: Site to Site
 
 ###### \*\*\*
 
-##### Partnership
+##### Partnership, Object, Objective
 
 ### Working in tandem with the seminar _Corporate Avant Garde_ (A6453), we will take a hypothetical construct as our object: the US Pavilion in Venice as the site for an architecture office, Office_US_
 
@@ -93,7 +93,7 @@ title: Site to Site
 ###### \*\*\*
 
 
-##### Session A - The Platform
+##### Session A - Architecture API
 
 ### Office_US_ will span a vast programmatic spectrum...
 
@@ -117,7 +117,7 @@ title: Site to Site
 *	__![Microphone](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/microphone.svg)__
 
 
-### embedded with a vast array of sensors and other inputs...
+### embedded with a diverse array of sensors...
 
 *	__![Alcohol gas sensor](https://dlnmh9ip6v2uc.cloudfront.net//images/products/8/8/8/0/08880-03-L.jpg)__
 *	__![Electret Microphone](https://dlnmh9ip6v2uc.cloudfront.net//images/products/8/6/3/5/08635-03-L.jpg)__
@@ -131,37 +131,38 @@ title: Site to Site
 *	__![Mini Push Button Switch](https://dlnmh9ip6v2uc.cloudfront.net//images/products/9/7/00097-03-L.jpg)__
 *	__![Infrared Emitters and Detectors](https://dlnmh9ip6v2uc.cloudfront.net//images/products/2/4/1/00241-02.jpg)__
 *	__![Infrared Thermometer](https://dlnmh9ip6v2uc.cloudfront.net//images/products/9/5/7/0/09570-01.jpg)__
+*	__![Geophone](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/7/4/4/11744-02.jpg)__
 *	__![Load Sensor](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/0/2/4/5/10245-01.jpg)__
 *	__![Mini Photocell](https://dlnmh9ip6v2uc.cloudfront.net//images/products/9/0/8/8/09088-02-L.jpg)__
 *	__![Piezo Element](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/0/2/9/3/10293=01.jpg)__
 *	__![PIR Motion Sensor](https://dlnmh9ip6v2uc.cloudfront.net//images/products/8/6/3/0/08630-03-L.jpg)__
 *	__![Tilt Sensor](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/0/3/1/3/10313-01.jpg)__
+*	__![Raspberry Pi Camera](http://www.mcmelectronics.com/content/productimages/s3/28-17733.jpg)__
+*	__![Hall Effect Sensor](https://dlnmh9ip6v2uc.cloudfront.net//images/products/9/3/1/2/09312-1.jpg)__
 *	__![Ultrasonic Range Finder](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/3/0/7/11307-01a.jpg)__
 *	__![Humidity Sensor](https://dlnmh9ip6v2uc.cloudfront.net//images/products/9/5/6/9/09569-03-Working.jpg)__
 *	__![Barometric Pressure Sensor](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/2/8/2/11282-01a.jpg)__
-
-### connected by traditional and contemporary means...
-
-*	__![CAT 6 Cable](https://dlnmh9ip6v2uc.cloudfront.net//images/products/8/9/1/5/08915-03.jpg)__
-*	__![Conductive thread](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/0/1/1/9/10119-01.jpg)__
-*	__![Conductive Fabric](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/0/0/7/0/09769-01.jpg)__
-*	__![BarePaint](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/5/2/1/11521-01.jpg)__
-*	__![BarePaint](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/5/2/1/11521-03.jpg)__
+*	__![Solar Cell](https://dlnmh9ip6v2uc.cloudfront.net//images/products/7/8/4/5/07845-04-L.jpg)__
 
 
 ### and animated by actuators and hypermaterials...
 
 *	__![Heating Pad](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/2/8/8/11288-01.jpg)__
-*	__![Hobby Motor](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/6/9/6/11696-01.jpg)__
+*	__![Stepper Motor](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/0/8/4/6/10846-04.jpg)__
 *	__![Electro Luminescent Tape](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/0/7/9/3/10793-01.jpg)__
 *	__![Electro Luminescent Tape](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/0/7/9/3/EL_Tape,_Panel-00.jpg)__
 *	__![DC Brushless Fan](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/7/1/8/11718-01.jpg)__
-*	__![7-Segment Display](https://dlnmh9ip6v2uc.cloudfront.net//images/products/8/5/3/0/08530-05-L.jpg)__
+*	__![HUB-ee Wheel](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/6/6/6/11666,68-01.jpg)__
 *	__![LED](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/3/7/2/11372-01b.jpg)__
 *	__![LED](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/3/7/2/11372-05.jpg)__
 *	__![LED Matrix](https://dlnmh9ip6v2uc.cloudfront.net//images/products/6/8/2/LED-Matrix-Medium.jpg)__
 *	__![RGB LED Strip](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/2/7/2/11272-01a.jpg)__
-*	__![Thermochromatic Pigment](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/5/5/5/11555-01.jpg)__
+*	__![RGB LED Chain](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/0/2/0/11020-06.jpg)__
+*	__![Serial Enabled 16x2 LCD](https://dlnmh9ip6v2uc.cloudfront.net//images/products/9/3/9/5/09395_action-01.jpg)__
+*	__![Conductive thread](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/0/1/1/9/10119-01.jpg)__
+*	__![Conductive Fabric](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/0/0/7/0/09769-01.jpg)__
+*	__![BarePaint](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/5/2/1/11521-01.jpg)__
+*	__![BarePaint](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/5/2/1/11521-03.jpg)__
 
 
 ### controlled by cheap and easy to use technology...
