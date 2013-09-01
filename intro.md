@@ -213,21 +213,39 @@ title: Site to Site
 
 ### in lieu of a final review.
 
+###### \*\*\*
 
+
+##### Session B - ArchitectureOS
+
+### We will distribute our Architecture API around the world...
 
 ![Studio-X Global Network](http://templatizer.gsappcloud.org/sites/default/files/global_network_map_online.png)
 
-### and then distribute it around the world...
+
+### to create a platform for a continuous global interior...
 
 ![Studio-X Global Continous Interior](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/studio-x_panorama.png)
 
-### to create a platform for a continuous global interior.
+
+### by collectively designing and building an online Architecture Operating System...
+
+![ArchitectureOS]()
+
+### and building a set of apps for each location...
+
+![ArchitectureOS App Interface]()
+
+
+### to control our ecosystem of connected objects.
+
+
 
 
 
 ###### \*\*\*
 
-##### Collaboration
+##### Office_Us_
 
 
 
