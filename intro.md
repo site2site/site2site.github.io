@@ -93,7 +93,7 @@ title: Site to Site
 ###### \*\*\*
 
 
-##### Session A
+##### Session A - The Platform
 
 ### Office_US_ will span a vast programmatic spectrum...
 
@@ -187,17 +187,10 @@ title: Site to Site
 *	__![Facial Recognition](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/facial_recognition.svg)__
 *	__![Natural Language Processing](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/nlp.svg)__
 
-### where complex analysis can be performed...
-
-![Facial Recognition](http://www.ecse.rpi.edu/~cvrl/wp/face_detect_result.jpg)
-
-
-
-
 
 ### to provide the platform for a connected and responsive environment...
 
-![Connected Objects](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/connected_objects.gif)
+![Connected Objects](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/cloud_connected_download.gif)
 
 ### using exclusively easy to learn web languages.
 
