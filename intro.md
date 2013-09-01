@@ -196,19 +196,32 @@ title: Site to Site
 
 ![HTML CSS Javascript](http://www.virtualsciences.nl/over-ons/expertise/open-source-software/html5fam.jpg)
 
+###### \*\*\*
 
-### We will install and test our Architecture API at Studio-X NYC...
+
+##### Installation and Hackathon Review
+
+
+### We will install our Architecture API at Studio-X NYC...
 
 ![Studio-X Animated GIF](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/studioX_worm.gif)
 
 
-### and then distribute it around the world...
+### and will test it by inviting technologists to a hackathon...
+
+![Hackathon](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/newhabitat.jpg)
+
+### in lieu of a final review.
+
+
 
 ![Studio-X Global Network](http://templatizer.gsappcloud.org/sites/default/files/global_network_map_online.png)
 
-### allowing us to connect remote spaces into a single interior.
+### and then distribute it around the world...
 
 ![Studio-X Global Continous Interior](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/studio-x_panorama.png)
+
+### to create a platform for a continuous global interior.
 
 
 
