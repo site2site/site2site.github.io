@@ -2,6 +2,31 @@
 layout: intro
 title: Site to Site
 ---
+## Architecture is online.
+
+*	__![Foursquare map view](http://s2.cdn.memeburn.com/wp-content/uploads/2012/06/New-Foursquare-Map.jpg)__
+*	__![Instagram at MoMA Rain Room](http://24.media.tumblr.com/d3b5f277825c7e5d2779255c26bdfee4/tumblr_mox2yr0XcB1r1thfzo8_1280.jpg)__
+*	__![Skybox Imaging](http://eijournal.com/newsite/wp-content/uploads/2011/08/SKYBOX.jpg)__
+*	__![Google Street View in Burj Khalifa](http://9to5google.files.wordpress.com/2013/06/skyscraper.png?w=704&h=502)__
+*	__![Illumiroom diagram](http://www.extremetech.com/wp-content/uploads/2013/01/microsoft-immersive-display-patent.jpg)__
+*	__![Illumiroom concept video still](http://i2.cdnds.net/13/02/618x347/gaming-microsoft-illumi-room-concept-video-still.jpg)__
+*	__![Nike+](http://cdn2.ubergizmo.com/wp-content/uploads/2013/01/Nike.jpg)__
+*	__![Nike+ runners visualization NYC](http://popupcity.net/wp-content/uploads/2011/08/Nike-Plus-visualization-1.jpg)__
+*	__![Fitbit personal wellness monitor](http://www.healthyobsessions.net/wp-content/uploads/2010/12/fitbit-personal-wellness-monitor-xl.jpg)__
+*	__![Fitbit sleep monitor](http://www.2wired2tired.com/wp-content/uploads/2013/03/Fitbit-Sleep.jpg)__
+*	__![Philips Hue](http://cdn.macrumors.com/article-new/2013/05/philips_hue_starter_pack_iphone.jpg)__
+*	__![Nest](http://cdn.macrumors.com/article-new/2012/05/nest_thermostat_iphone_app.jpg)__
+*	__![Arduino](http://www.liquidware.com/system/0000/3648/Arduino_Uno_Angle.jpg)__
+*	__![Arduino advanced sensor kit](http://www.dfrobot.com/image/cache/data/KIT0011/kit0011-600x600.jpg)__
+*	__![Google Glass](http://www.arikhanson.com/wp-content/uploads/2013/03/Google-Glass.jpg)__
+*	__![IBM Smarter Cities](https://a248.e.akamai.net/engage.vevent.com/env1/ec_556/13618333.jpg)__
+*	__![Disneyland scanner](http://land.allears.net/blogs/dnews/magic-band.jpg)__
+
+
+### But architects are not equipped to design for it
+
+
+
 ##### The Stakes
 
 *	__![Facebook](http://www.webplatform.org/stewards/facebook/facebook_logo.png)__
@@ -209,6 +234,8 @@ title: Site to Site
 
 ##### Collaboration
 
+
+![Smog in Beijing China](http://graphics8.nytimes.com/images/2013/09/01/world/bull-china1/bull-china1-articleLarge.jpg)
 
 
 ### We will work as an office
