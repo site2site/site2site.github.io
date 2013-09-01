@@ -181,10 +181,10 @@ title: Site to Site
 ### and perform complex analysis...
 
 
-*	__![Bar Graph]()__
-*	__![Pie Chart]()__
-*	__![Facial Recognition]()__
-*	__![Natural Language Processing]()__
+*	__![Bar Graph](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/bar_graph.svg)__
+*	__![Pie Chart](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/pie_chart.svg)__
+*	__![Facial Recognition](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/facial_recognition.svg)__
+*	__![Natural Language Processing](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/nlp.svg)__
 
 ### where complex analysis can be performed...
 
