@@ -175,18 +175,9 @@ title: Site to Site
 ![Cloud Diagram](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/cloud_connected.gif)
 
 
-### to store values in a persistent database...
+### to store values and perform complex analysis...
 
-![Database](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/database.svg)
-
-### and perform complex analysis...
-
-
-*	__![Bar Graph](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/bar_graph.svg)__
-*	__![Pie Chart](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/pie_chart.svg)__
-*	__![Statistics](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/statistics.svg)__
-*	__![Facial Recognition](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/facial_recognition.svg)__
-*	__![Natural Language Processing](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/nlp.svg)__
+![Database](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/cloud_elements.svg)
 
 
 ### to provide the platform for a connected and responsive environment...
@@ -210,7 +201,7 @@ title: Site to Site
 
 ### and will test it by inviting technologists to a hackathon...
 
-![Hackathon](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/newhabitat.jpg)
+*	![Hackathon](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/newhabitat.jpg)
 
 ### in lieu of a final review.
 
