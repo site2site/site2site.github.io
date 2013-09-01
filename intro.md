@@ -4,6 +4,8 @@ title: Site to Site
 ---
 ##### The Stakes
 
+### [Platform wars](http://techcrunch.com/2013/03/09/bring-on-the-platform-wars/) are being waged for virtual space
+
 *	__![Facebook](http://www.webplatform.org/stewards/facebook/facebook_logo.png)__
 *	__![Google+](http://www.n3rdabl3.co.uk/wp-content/uploads/2013/05/Google-Plus-Logo.png)__
 *	__![Twitter](http://cdn.skattertech.com/files/2011/05/twitter-logo.jpg)__
@@ -13,14 +15,15 @@ title: Site to Site
 *	__![Windows Surface](http://www.telos.com/emerging-technologies/capabilities/images/Microsoft-Surface-Logo.jpg)__
 *	__![Xiaomi](http://androidspin.com/wp-content/uploads/2012/10/MIUIEs-Logo.png)__
 
-### [Platform wars](http://techcrunch.com/2013/03/09/bring-on-the-platform-wars/) are being waged for virtual space
 
+### The [market](http://postscapes.com/internet-of-things-market-size) for physical space is even greater
 
 *	![Internet](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/imageOfTheInternet.png)
 *	![Earth](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/blueMarble-Earth_650px.png)
 
-### The [market](http://postscapes.com/internet-of-things-market-size) for physical space is even greater
 
+
+### A [silent war](http://www.wired.com/gadgetlab/2013/05/internet-of-things/) is underway between companies you've likely never heard of to determine the meta-design for the connected, responsive architecture of the very near future
 
 *	__![Xively](http://blog.logmein.com/wp-content/uploads/2013/07/xively-logo-rgb-bluebg.png)__
 *	__![EVRYTHNG](http://www.evrythng.com/wp-content/themes/evrytheme/img/logo.png)__
@@ -32,9 +35,6 @@ title: Site to Site
 *	__![Zonoff](https://si0.twimg.com/profile_images/1408173359/zonoff_cyan_on_square_480_px.jpg)__
 *	__![Thingspeak](http://iobridge.com/technology/thingspeak/ThingSpeak_Logo.jpg)__
 
-
-
-### A [silent war](http://www.wired.com/gadgetlab/2013/05/internet-of-things/) is underway between companies you've likely never heard of to determine the meta-design for the connected, responsive architecture of the very near future
 
 ## Rather than joining a side, we're assembling an [army](https://github.com/organizations/site2site)
 
@@ -84,11 +84,11 @@ title: Site to Site
 
 ##### Partnership
 
-#### Working in tandem with the seminar _Corporate Avant Garde_ (A6453), we will take a hypothetical construct as our object: the US Pavilion in Venice as the site for an architecture office, Office_US_
+### Working in tandem with the seminar _Corporate Avant Garde_ (A6453), we will take a hypothetical construct as our object: the US Pavilion in Venice as the site for an architecture office, Office_US_
 
 ![US Pavilion, Venice](http://photos.state.gov/libraries/italy/164264/Images_001_001/20130123venice500x234.jpg)
 
-## We will design, build and install a new architecture for the site of architecture production.
+### We will design, build and install a new architecture for the site of architecture production.
 
 ###### \*\*\*
 
@@ -192,7 +192,7 @@ title: Site to Site
 
 ![Connected Objects](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/cloud_connected_download.gif)
 
-### using exclusively easy to learn web languages.
+### using easy to learn web languages.
 
 ![HTML CSS Javascript](http://www.virtualsciences.nl/over-ons/expertise/open-source-software/html5fam.jpg)
 
@@ -230,26 +230,21 @@ title: Site to Site
 
 ### by collectively designing and building an online Architecture Operating System...
 
-![ArchitectureOS]()
+![ArchitectureOS](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/ArchitectureOS.png)
 
 ### and building a set of apps for each location...
 
-![ArchitectureOS App Interface]()
+![ArchitectureOS App Interface](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/ArchitectureOS_apps.png)
 
 
 ### to control our ecosystem of connected objects.
-
-
-
 
 
 ###### \*\*\*
 
 ##### Office_Us_
 
-
-
-### We will work as an office
+### We will work collaboratively as an office
 
 
 ![Generator](http://1.bp.blogspot.com/_tpF2_7rzFMU/Swrv1rrCULI/AAAAAAAADEc/R6wnltTbsW4/s1600/gn01.jpg)
