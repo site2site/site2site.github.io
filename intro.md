@@ -176,13 +176,14 @@ title: Site to Site
 
 ### to store values in a persistent database...
 
-![Database]()
+![Database](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/database.svg)
 
 ### and perform complex analysis...
 
 
 *	__![Bar Graph](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/bar_graph.svg)__
 *	__![Pie Chart](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/pie_chart.svg)__
+*	__![Statistics](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/statistics.svg)__
 *	__![Facial Recognition](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/facial_recognition.svg)__
 *	__![Natural Language Processing](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/nlp.svg)__
 
