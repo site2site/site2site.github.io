@@ -56,6 +56,7 @@ h4{
   font-size:16px;
   font-weight: bold;
   line-height: 1.5em;
+  max-width: 650px;
 }
 
 h5{
@@ -135,9 +136,12 @@ strong img{
   ul li{
     width:100%;
   }
+  img{
+    max-width:90%;
+  }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 769px){
   h1,h2,h3,h4{
     width:90%;
   }

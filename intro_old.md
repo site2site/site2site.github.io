@@ -78,6 +78,8 @@ title: Site to Site
 *	__![NYC.gov](http://www.nyc.gov/html/misc/html/tour/images/NYCgov_logo.gif)__
 
 
+### Architecture has yet to adopt this ethos
+
 ## We are going to build an Architecture API
 
 ###### \*\*\*
@@ -164,39 +166,24 @@ title: Site to Site
 *	__![Thermochromatic Pigment](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/5/5/5/11555-01.jpg)__
 
 
+### to provide the platform for a connected and responsive environment...
+
+![Connected Objects](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/connected_objects.gif)
+
 ### controlled by cheap and easy to use technology...
 
 *	![Eben Upton with Raspberry Pi](http://i2.cdn.turner.com/cnn/dam/assets/121220065212-raspberry-pi-close-up-horizontal-gallery.jpg)
 *	![Kid Arduino teacher](http://www.popsci.com/files/imagecache/article_image_big/articles/PSC0913_DY_052.jpg)
 
-### streaming information to a cloud...
+### streaming to a cloud...
 
 ![Cloud Diagram]()
 
 
-### to store values in a persistent database...
-
-![Database]()
-
-### and perform complex analysis...
-
-
-*	__![Bar Graph]()__
-*	__![Pie Chart]()__
-*	__![Facial Recognition]()__
-*	__![Natural Language Processing]()__
-
-### where complex analysis can be performed...
+### where complex computation can be performed...
 
 ![Facial Recognition](http://www.ecse.rpi.edu/~cvrl/wp/face_detect_result.jpg)
 
-
-
-
-
-### to provide the platform for a connected and responsive environment...
-
-![Connected Objects](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/connected_objects.gif)
 
 ### using exclusively easy to learn web languages.
 
