@@ -27,7 +27,7 @@ menu: programs
 
 ### Global
 
-*	[Global Surround Sound](/programs/global-surround-sound.html): A globally distributed PA system
+*	[Global Surround Sound](/programs/global-surround-sound/scenario.html): A globally distributed PA system
 
 ### Local
 
