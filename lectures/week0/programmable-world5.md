@@ -207,7 +207,7 @@ Application Programming Interface (API)
 
 *	__![Jawbone UP](http://assets.coolhunting.com/coolhunting/mt_asset_cache/2011/11/03/jawbone-up-duo.jpg)__
 
-*	__![Smart Citie](http://blog.iesve.com/wp-content/uploads/2012/03/smart-cities.jpg)__
+*	__![Smart Cities](http://blog.iesve.com/wp-content/uploads/2012/03/smart-cities.jpg)__
 
 
 

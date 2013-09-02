@@ -9,6 +9,20 @@ perex: Programmable World Lecture Notes
 
 
 
+We are not doing Internet of Things: this is about RFIDs, EPC ([Electronic Product Code](http://www.gs1.org/gsmp/kc/epcglobal/tds)), and so on. What we're talking about is Architecture Online. It is the Web of Spaces. We may be making objects, but it's not about those objects themselves, but about using them to transfer and connect environmental qualities. Also, we're not using some new URI (eg. the EPC standard), but rather using IP. Each object gets its own IPv4 URI.
+
+> If we had computers that knew everything there was to know about things—using data they gathered without any help from us—we would be able to track and count everything, and greatly reduce waste, loss and cost. We would know when things needed replacing, repairing or recalling, and whether they were fresh or past their best. - See more at: http://www.rfidjournal.com/articles/view?4986#sthash.rIngJ2Rd.dpuf
+
+This is not what we are doing! We are about connecting spaces to change programming.
+
+This is what we are interested in:
+> We need to empower computers with their own means of gathering information, so they can see, hear and smell the world for themselves, in all its random glory. RFID and sensor technology enable computers to observe, identify and understand the world—without the limitations of human-entered data. - See more at: http://www.rfidjournal.com/articles/view?4986#sthash.rIngJ2Rd.dpuf
+
+
+
+
+
+
 *	<iframe src="https://www.slideshare.net/slideshow/embed_code/24507454" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/Cisco/ccs-re-ioe-connection-counter1306-v003" title="The Internet of Everything Connections Counter #IoE" target="_blank">The Internet of Everything Connections Counter #IoE</a> </strong> from <strong><a href="http://www.slideshare.net/Cisco" target="_blank">Cisco Systems</a></strong> </div>
 
 *	![Vers une Architecture](http://farm3.static.flickr.com/2439/3926773892_e3470e5960.jpg)
