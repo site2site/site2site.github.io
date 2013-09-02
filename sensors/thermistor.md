@@ -17,9 +17,8 @@ Source: [Wikipedia](http://en.wikipedia.org/wiki/Thermistor)
 
 ##### Specs
 
-### $1.95/unit from [Sparkfun](https://www.sparkfun.com/products/250)
-
-*	[Datasheet](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/Temp/ntcle100.pdf)
+*	$1.95/unit from [Sparkfun](https://www.sparkfun.com/products/250)
+*	Sparkfun [Datasheet](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/Temp/ntcle100.pdf)
 
 
 
