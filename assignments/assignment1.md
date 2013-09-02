@@ -9,7 +9,7 @@ assignment: 1
 
 Each student is responsible to propose one local program/app for Studio-X NYC, and one global program/app to connect two or more spaces across the Studio-X Global Network.
 
-To begin, make a copy of the [Global Surround Sound](/programs/global-surround-sound) folder as a template. Change the name of the global-surround-sound folder to the name of your program/app (in lowercase, using dashes to separate words), and use the scenario.md file as a template for the assignment below. Do this twice: once for your local app, once for your global.
+To begin, fork the [Global Surround Sound](!!!) repository as a template. Change the name of the global-surround-sound folder to the name of your program/app (in lowercase, using dashes to separate words), and use the scenario.md file as a template for the assignment below. Do this twice: once for your local app, once for your global.
 
 Each program/app must include:
 
@@ -50,4 +50,10 @@ A key consideration throughout this course will be on aesthetics. In order to op
 Each student is requested to visit Studio-X NYC before the week 2 class session and take photos of the space in general, and details of whichever elements the student thinks they may eventually wish to hack. Please upload these images to the [Studio-X photos folder](/locations/Studio-X%20NYC/photos).
 
 Each student is also requested to collect at least one 3D model in .STL format of an object in Studio-X, or an object their program/app specifies. This model can come from any source, or be self-generated, though they must provide a license that will allow others to use them free of charge for any activity (equivalent to the MIT license).
+
+## Deadlines and Collective Critique
+
+Each program/app scenario and contributions to the Object Index must be online by 11:59pm on Tuesday, September 10, 2013.
+
+By noon on Thursday, September 12, 2013, each student must have offered comments to exactly - no more, no less - one other student, on both their local and global app. You will do this by forking each of their repositories, adding a Critique section to the bottom of both scenario.md files, and adding your comments here. You will then issue a pull request on both repositories. The student who created the original repository will then accept your pull request and merge your changes into their master branch.
 
