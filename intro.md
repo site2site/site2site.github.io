@@ -4,7 +4,7 @@ title: Site to Site
 ---
 ##### The Stakes
 
-### [Platform wars](http://techcrunch.com/2013/03/09/bring-on-the-platform-wars/) are being waged for virtual space
+### The [platform wars](http://techcrunch.com/2013/03/09/bring-on-the-platform-wars/) for virtual space are well-known
 
 *	__![Facebook](http://www.webplatform.org/stewards/facebook/facebook_logo.png)__
 *	__![Google+](http://www.n3rdabl3.co.uk/wp-content/uploads/2013/05/Google-Plus-Logo.png)__
@@ -23,7 +23,7 @@ title: Site to Site
 
 
 
-### A [silent war](http://www.wired.com/gadgetlab/2013/05/internet-of-things/) is underway between companies you've likely never heard of to determine the meta-design for the connected, responsive architecture of the very near future
+### A lesser-known [war](http://www.wired.com/gadgetlab/2013/05/internet-of-things/) is underway between companies you've likely never heard of to determine the meta-design for the connected, responsive architecture of the very near future
 
 *	__![Xively](http://blog.logmein.com/wp-content/uploads/2013/07/xively-logo-rgb-bluebg.png)__
 *	__![EVRYTHNG](http://www.evrythng.com/wp-content/themes/evrytheme/img/logo.png)__
