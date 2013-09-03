@@ -52,7 +52,7 @@ For example, the iPhone constitutes a platform, consisting of:
 
 ## The Stakes
 
-### These are [platform wars](http://techcrunch.com/2013/03/09/bring-on-the-platform-wars/) you know.
+### These are the [platform wars](http://techcrunch.com/2013/03/09/bring-on-the-platform-wars/) you know.
 
 *	__![Facebook](http://www.webplatform.org/stewards/facebook/facebook_logo.png)__
 *	__![Google+](http://www.n3rdabl3.co.uk/wp-content/uploads/2013/05/Google-Plus-Logo.png)__
