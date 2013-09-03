@@ -2,7 +2,9 @@ pygments: true
 markdown: redcarpet
 # posts per page where you use pagination
 paginate: 2
-baseurl: file:///Users/troytherrien/Insync/info@th-ey.co/Teaching/Fall%202013/Site%20to%20Site/Github%20Repos/site2site.github.io/_site
+source: _site
+baseurl: site2site.github.io
+#file:///Users/troytherrien/Insync/info@th-ey.co/Teaching/Fall%202013/Site%20to%20Site/Github%20Repos/site2site.github.io/_site
 #http://site2site.github.io
 timezone: America/New_York
 exclude:

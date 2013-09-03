@@ -14,7 +14,7 @@ style: lecture
 
 ### to take a hypothetical construct as its object: an architecture office installed at the US Pavilion of the Venice Biennale this summer, Office_US_.
 
-__This office will present a prototype for a new way of practicing architecture in terms of the design of the office environment, its programming, and the methodology and infrastructure for collaboration and design. The prototype will be inhabited by working architects over the course of the 6 month biennale, stress testing the ideas we will put forth not only in public, but admist the highest biannual concentration of architects.__
+__This office will present a prototype for a new way of practicing architecture in terms of the design of the office environment, its programming, and the methodology and infrastructure for collaboration and design. We will restrict ourselves to technologies available to us right now that we aren't taking advantage of. The prototype will be inhabited by working architects over the course of the 6 month biennale, stress testing the ideas we will put forth not only in public, but admist the highest biannual concentration of architects.__
 
 
 ## Platform
