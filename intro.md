@@ -48,9 +48,24 @@ For example, the iPhone constitutes a platform, consisting of:
 	Marketplace
 
 
-__You've probably heard of the so-called platform wars between Facebook and Google+, or Twitter and App.net, or Apple and Google or Apple and Samsung.__
+## The Stakes
 
-### A [platform war](http://www.wired.com/gadgetlab/2013/05/internet-of-things/) is being waged between companies you've likely never heard of with major architectural consequences
+> Within the next five years we will be surrounded by embedded devices and services. ([Wired](http://www.wired.com/design/2013/08/design-and-the-digital-world/), August 2013)
+
+### These are the [platform wars](http://techcrunch.com/2013/03/09/bring-on-the-platform-wars/) you've likely heard of.
+
+*	__![Facebook](http://www.webplatform.org/stewards/facebook/facebook_logo.png)__
+*	__![Google+](http://www.n3rdabl3.co.uk/wp-content/uploads/2013/05/Google-Plus-Logo.png)__
+*	__![Twitter](http://cdn.skattertech.com/files/2011/05/twitter-logo.jpg)__
+*	__![Amazon](http://www.toxel.com/wp-content/uploads/2010/06/logo04.jpg)__
+*	__![iOS](http://readingonscreen.files.wordpress.com/2013/04/ios-logo.jpg?w=750)__
+*	__![Android](http://images.wallstcheatsheet.com/wp-content/uploads/2012/05/android-logo-white.png)__
+*	__![Windows Phone 8](http://images.hacktabs.com//2013/04/Windows-Phone-8-Logo.jpg)__
+*	__![iPad](http://skimnapp.com/assets/images/skimn-ipad.png)__
+*	__![Samsung Tablet](http://cloud2.baohe.org/allimg/geekgadgettouchcom-1348154892/samsung-galaxy-tab-2-10-1-android-tablet_1.jpg)__
+*	__![Windows Surface Tablet](http://osxdaily.com/wp-content/uploads/2012/06/surface-tablet.jpg)__
+
+### [Those](http://www.wired.com/gadgetlab/2013/05/internet-of-things/) you likely haven't heard of will have greater architectural consequences.
 
 *	__![Xively](http://blog.logmein.com/wp-content/uploads/2013/07/xively-logo-rgb-bluebg.png)__
 *	__![EVRYTHNG](http://www.evrythng.com/wp-content/themes/evrytheme/img/logo.png)__

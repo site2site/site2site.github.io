@@ -70,6 +70,18 @@ p img{
   max-width: 100%;
 }
 
+blockquote{
+  margin:100px auto 0;
+  font-size: 48px;
+  font-family:"Apercu Bold Italic", "Apercu", Calibri, sans-serif;
+  font-size-adjust:0.508;
+  font-weight:bold;
+  font-style:italic;
+  width:92%;
+  padding:4%;
+  color: salmon;
+}
+
 
 ul{
   list-style: none;
