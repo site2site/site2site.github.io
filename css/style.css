@@ -19,8 +19,8 @@ body{
   color:white;
 
   background: #aaa; /* fallback for older/unsupporting browsers */
-  background: -moz-linear-gradient(top, #aaa 77%, white 100%);
-  background: -webkit-gradient(linear, 0 77%, 0 100%, from(#aaa), to(white));
+  background: -moz-linear-gradient(top, #aaa 73%, white 100%);
+  background: -webkit-gradient(linear, 0 73%, 0 100%, from(#aaa), to(white));
 }
 
 #footer{
