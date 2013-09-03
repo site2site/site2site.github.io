@@ -52,7 +52,7 @@ For example, the iPhone constitutes a platform, consisting of:
 
 ## The Stakes
 
-### These are the [platform wars](http://techcrunch.com/2013/03/09/bring-on-the-platform-wars/) you've likely heard of.
+### These are the [platform wars](http://techcrunch.com/2013/03/09/bring-on-the-platform-wars/) you know.
 
 *	__![Facebook](http://www.webplatform.org/stewards/facebook/facebook_logo.png)__
 *	__![Google+](http://www.n3rdabl3.co.uk/wp-content/uploads/2013/05/Google-Plus-Logo.png)__
@@ -65,7 +65,7 @@ For example, the iPhone constitutes a platform, consisting of:
 *	__![Windows Surface Tablet](http://osxdaily.com/wp-content/uploads/2012/06/surface-tablet.jpg)__
 
 
-### Another [war](http://www.wired.com/gadgetlab/2013/05/internet-of-things/), less public war us being waged that will have much greater architectural consequences.
+### A less public [war](http://www.wired.com/gadgetlab/2013/05/internet-of-things/) us being waged that will have much greater architectural consequences.
 
 *	__![Xively](http://blog.logmein.com/wp-content/uploads/2013/07/xively-logo-rgb-bluebg.png)__
 *	__![EVRYTHNG](http://www.evrythng.com/wp-content/themes/evrytheme/img/logo.png)__
