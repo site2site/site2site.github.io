@@ -48,6 +48,8 @@ For example, the iPhone constitutes a platform, consisting of:
 	Marketplace
 
 
+
+
 ## The Stakes
 
 ### These are the [platform wars](http://techcrunch.com/2013/03/09/bring-on-the-platform-wars/) you've likely heard of.
@@ -61,6 +63,7 @@ For example, the iPhone constitutes a platform, consisting of:
 *	__![iPad](http://skimnapp.com/assets/images/skimn-ipad.png)__
 *	__![Samsung Tablet](http://cloud2.baohe.org/allimg/geekgadgettouchcom-1348154892/samsung-galaxy-tab-2-10-1-android-tablet_1.jpg)__
 *	__![Windows Surface Tablet](http://osxdaily.com/wp-content/uploads/2012/06/surface-tablet.jpg)__
+
 
 ### Another [war](http://www.wired.com/gadgetlab/2013/05/internet-of-things/), less public war us being waged that will have much greater architectural consequences.
 
