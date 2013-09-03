@@ -18,9 +18,9 @@ body{
   padding:20px 40px 0;
   color:white;
 
-  background: #dadada; /* fallback for older/unsupporting browsers */
-  background: -moz-linear-gradient(top, #dadada 77%, white 100%);
-  background: -webkit-gradient(linear, 0 77%, 0 100%, from(#dadada), to(white));
+  background: #aaa; /* fallback for older/unsupporting browsers */
+  background: -moz-linear-gradient(top, #aaa 77%, white 100%);
+  background: -webkit-gradient(linear, 0 77%, 0 100%, from(#aaa), to(white));
 }
 
 #footer{
