@@ -216,7 +216,7 @@ For example, the iPhone constitutes a platform, consisting of:
 
 ### Github allows many people to collaborate, structuring the way they contribute
 
-![Github Contributors]()
+![Github Contributors](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/github_johnny-five_contributors.png)
 
 
 
