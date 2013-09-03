@@ -236,5 +236,9 @@ For example, the iPhone constitutes a platform, consisting of:
 
 ![Node.js for ARM](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/node_for_ARM.png)
 
+### though, there's nothing new about the idea or ambition.
+
+![Generator](http://4.bp.blogspot.com/_tpF2_7rzFMU/Swrv1YV-EGI/AAAAAAAADEU/16Ia7vRONAk/s1600/gn02.jpg)
+
 
 
