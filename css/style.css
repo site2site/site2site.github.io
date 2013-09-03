@@ -26,7 +26,7 @@ body{
 #footer{
   clear:both;
   display: block;
-  bottom:20px;
+  margin-bottom:20px;
 }
 
 #title{
@@ -40,6 +40,10 @@ body{
 a#logo{
   text-decoration: none;
   border:none;
+}
+
+#logo img{
+  margin-top:0;
 }
 
 a{

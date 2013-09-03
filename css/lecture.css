@@ -23,9 +23,10 @@ h3{
 }
 
 h4{
-  margin:80px auto 0;
+  margin:20px auto 0;
   font-size:16px;
   font-weight: bold;
+  color:salmon;
   line-height: 1.5em;
   max-width: 650px;
 }

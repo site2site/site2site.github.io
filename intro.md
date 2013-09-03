@@ -1,29 +1,55 @@
 ---
 layout: intro
 title: Site to Site
+style: lecture
 ---
-##### The Stakes
+## Office_US_
 
-### The [platform wars](http://techcrunch.com/2013/03/09/bring-on-the-platform-wars/) for virtual space are well-known
+### This course will partner with the seminar, _Corporate Avant Garde_ (A6453)
 
-*	__![Facebook](http://www.webplatform.org/stewards/facebook/facebook_logo.png)__
-*	__![Google+](http://www.n3rdabl3.co.uk/wp-content/uploads/2013/05/Google-Plus-Logo.png)__
-*	__![Twitter](http://cdn.skattertech.com/files/2011/05/twitter-logo.jpg)__
-*	__![Amazon](http://www.toxel.com/wp-content/uploads/2010/06/logo04.jpg)__
-*	__![iOS](http://readingonscreen.files.wordpress.com/2013/04/ios-logo.jpg?w=750)__
-*	__![Android](http://images.wallstcheatsheet.com/wp-content/uploads/2012/05/android-logo-white.png)__
-*	__![Windows Surface](http://www.telos.com/emerging-technologies/capabilities/images/Microsoft-Surface-Logo.jpg)__
-*	__![Xiaomi](http://androidspin.com/wp-content/uploads/2012/10/MIUIEs-Logo.png)__
+#### Note time change: 7-9pm Thursdays, 200 Buell
 
+*	![US Pavilion, Venice](http://photos.state.gov/libraries/italy/164264/Images_001_001/20130123venice500x234.jpg)
+*	![Venice Biennale map](http://universes-in-universe.org/var/storage/images/media/images/biennials/venice/2011/special_features/venues/970240-2-eng-GB/venues.gif)
 
-### The [market](http://postscapes.com/internet-of-things-market-size) for physical space is even greater
+### to take a hypothetical construct as its object: an architecture office installed at the US Pavilion of the Venice Biennale this summer, Office_US_.
 
-*	![Internet](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/imageOfTheInternet.png)
-*	![Earth](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/blueMarble-Earth_650px.png)
+__This office will present a prototype for a new way of practicing architecture in terms of the design of the office environment, its programming, and the methodology and infrastructure for collaboration and design. The prototype will be inhabited by working architects over the course of the 6 month biennale, stress testing the ideas we will put forth not only in public, but admist the highest biannual concentration of architects.__
 
 
+## Platform
 
-### A lesser-known [war](http://www.wired.com/gadgetlab/2013/05/internet-of-things/) is underway between companies you've likely never heard of to determine the meta-design for the connected, responsive architecture of the very near future
+__Our approach will be reflexive, we will produce both a responsive physical environment in which these architects will practice, and simultaneously provide and test new tools they will use inside this environment to create similar forms of responsive architecture around the world. That is, we will produce the platform for a new architecture practice.__
+
+### Our contribution will be to design and build the platform for Office_US_.
+
+For example, the iPhone constitutes a platform, consisting of:
+
+*	![iPhone 4 teardown](http://cdn.macrumors.com/article-new/2011/10/isuppli_iphone_4s_teardown.jpg)
+
+	Hardware, computation, sensors, displays, etc.
+
+*	![iOS](http://logonoid.com/images/ios-logo.jpg)
+
+	Operating System
+
+*	![iOS 7 interface](http://www.digitaltrends.com/wp-content/uploads/2013/06/ios-7.png)
+
+	Interface and design standards
+
+*	![xCode](https://devimages.apple.com.edgekey.net/technologies/images/tools_overview_xcode_20110711.jpg)
+
+	Application Programming Interface (API) and  
+	Integrated Development Environment (IDE)
+
+*	![App Store](http://www.digitaltrends.com/wp-content/uploads/2011/02/url7.png)
+
+	Marketplace
+
+
+__You've probably heard of the so-called platform wars between Facebook and Google+, or Twitter and App.net, or Apple and Google or Apple and Samsung.__
+
+### A [platform war](http://www.wired.com/gadgetlab/2013/05/internet-of-things/) is being waged between companies you've likely never heard of with major architectural consequences
 
 *	__![Xively](http://blog.logmein.com/wp-content/uploads/2013/07/xively-logo-rgb-bluebg.png)__
 *	__![EVRYTHNG](http://www.evrythng.com/wp-content/themes/evrytheme/img/logo.png)__
@@ -36,71 +62,18 @@ title: Site to Site
 *	__![Thingspeak](http://iobridge.com/technology/thingspeak/ThingSpeak_Logo.jpg)__
 
 
-## Rather than joining a side, we're assembling an [army](https://github.com/organizations/site2site)
-
-###### \*\*\*
-
-##### Methodology
+### Rather than joining a side, we're assembling an [army](https://github.com/organizations/site2site) to design and build our own and test it in Venice.
 
 
-#### Flickr API (2004)  
-![Flickr API](http://img.clickonf5.org/it/HowToCreateAPIForFlickrAccountsToSharePi_D24B/flickr_api_request.gif)
 
+## Session A – Hardware and API
 
-#### Mappr by Stamen (2004)
-![Stamen's Mappr](http://stamen.com/files/route66.jpg)
-
-
-### The Flickr API has since provided the foundation for numerous [apps and mashups](http://www.flickr.com/services/)
-
-*	![Flickr and Twitter Mapping](http://farm7.static.flickr.com/6023/5912385701_470d2b97ac.jpg)
-*	![Processing and Flickr API](http://api.ning.com/files/6CGVPUR09zgWHqiBzFexcLWniaxtO7kdN*YpTCHKGKCr3RmwcNRu-6xPcVkiKFEouiwzyK8n9fx0IuLilr2eaqPielQd2Uzf/flick13.png)
-*	![Crackunit](http://www.crackunit.com/wp-content/uploads/2006/04/Picture%204.jpg)
-*	![Clay Fox](http://www.clayfox.com/images/blog/flickrgraph.jpg)
-
-
-### As of August 30, 2013, there were 9878 APIs registered in the [Programmable Web](http://www.programmableweb.com/) database, allowing you to tap into almost anything
-
-![API growth curve](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/API_GROWTH.png)
-
-
-*	__![Mastercard](http://upload.wikimedia.org/wikipedia/en/b/b7/MasterCard_Logo.svg)__
-*	__![World Bank](http://www.ranklogos.com/wp-content/uploads/2012/05/World-Bank-logo.jpg)__
-*	__![The White House](http://www.concordia.lib.la.us/images/Links/the%20white%20house.jpg)__
-*	__![New York Times](http://breadandwinechicago.com/wordpress/wp-content/uploads/2011/06/nytLogo.jpg)__
-*	__![NFL](http://www.thebloggerconnection.com/wp-content/uploads/2012/09/nfl-logo.gif)__
-*	__![jStor](http://blogs.warwick.ac.uk/images/libraryartsnews/2009/07/14/jstor_logo.jpg?maxWidth=500)__
-*	__![Nasa](http://upload.wikimedia.org/wikipedia/commons/2/25/Nasa-logo.gif)__
-*	__![NY Public Library](http://2.bp.blogspot.com/_6Y672X_Bfv0/TIYmsWqwxII/AAAAAAAAAVo/9V9nVlRRXr4/s320/NYPL_logo1_black_pos.JPG)__
-*	__![Subway sandwiches](http://lonelyconservative.com/wp-content/uploads/2013/07/subway-logo-eat-fresh-2.jpg)__
-*	__![MTA](http://statepolitics.lohudblogs.com/files/2011/12/mta-logo.jpg)__
-*	__![PBS](http://www.nerdist.com/wp-content/uploads/2010/10/pbs_logo-365x300.jpg)__
-*	__![NYC.gov](http://www.nyc.gov/html/misc/html/tour/images/NYCgov_logo.gif)__
-
-
-## We are going to build an Architecture API
-
-###### \*\*\*
-
-##### Partnership, Object, Objective
-
-### Working in tandem with the seminar [_Corporate Avant Garde_](https://courseworks.columbia.edu/portal/site/ARCHA6453_001_2013_3/page/46c75ce5-e9b2-4cbd-9b1d-097576cb48b0/page/c4527fc2-4fe2-4cfa-b7bb-c154b3c6cffa/page/f3c68329-0508-4779-b408-3e09ca266b92) (A6453), we will take a hypothetical construct as our object: the [US Pavilion in Venice](http://www.labiennale.org/en/architecture/venues/pavilions.html?back=true) as the site for an architecture office, Office_US_
-
-![US Pavilion, Venice](http://photos.state.gov/libraries/italy/164264/Images_001_001/20130123venice500x234.jpg)
-
-### We will design, build and install a new architecture for the site of architecture production.
-
-###### \*\*\*
-
-
-##### Session A - Architecture API
-
-### Office_US_ will span a vast programmatic spectrum...
+### Office_US_ will assume a wide programmatic spectrum
 
 ![Work spectrum](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/work_spectrum.png)
 
 
-### supported by a constellation of objects...
+### supported by a constellation of objects
 
 *	__![Office Chair](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/office_chair.svg)__
 *	__![Table](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/table.svg)__
@@ -117,7 +90,7 @@ title: Site to Site
 *	__![Microphone](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/microphone.svg)__
 
 
-### embedded with a diverse array of sensors...
+### embedded with a diverse array of sensors
 
 *	__![Alcohol gas sensor](https://dlnmh9ip6v2uc.cloudfront.net//images/products/8/8/8/0/08880-03-L.jpg)__
 *	__![Electret Microphone](https://dlnmh9ip6v2uc.cloudfront.net//images/products/8/6/3/5/08635-03-L.jpg)__
@@ -145,7 +118,7 @@ title: Site to Site
 *	__![Solar Cell](https://dlnmh9ip6v2uc.cloudfront.net//images/products/7/8/4/5/07845-04-L.jpg)__
 
 
-### and animated by actuators and hypermaterials...
+### animated by actuators and hypermaterials
 
 *	__![Heating Pad](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/2/8/8/11288-01.jpg)__
 *	__![Stepper Motor](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/0/8/4/6/10846-04.jpg)__
@@ -165,84 +138,123 @@ title: Site to Site
 *	__![BarePaint](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/5/2/1/11521-03.jpg)__
 
 
-### controlled by [cheap](http://arduino.cc/) and [easy to use](http://www.raspberrypi.org/) technology...
+### controlled by [cheap](http://arduino.cc/) and [easy to use](http://www.raspberrypi.org/) technology
 
 *	![Eben Upton with Raspberry Pi](http://i2.cdn.turner.com/cnn/dam/assets/121220065212-raspberry-pi-close-up-horizontal-gallery.jpg)
 *	![Kid Arduino teacher](http://www.popsci.com/files/imagecache/article_image_big/articles/PSC0913_DY_052.jpg)
 
-### streaming information to a cloud...
+### streaming information to a cloud
 
 ![Cloud Diagram](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/cloud_connected.gif)
 
 
-### to [store](http://www.mongodb.org/) values and perform [complex analysis](https://github.com/peterbraden/node-opencv)...
+### to [store](http://www.mongodb.org/) values and perform [complex analysis](https://github.com/peterbraden/node-opencv)
 
 ![Database](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/cloud_elements.svg)
 
 
-### to provide the platform for a connected and responsive environment...
-
-![Connected Objects](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/cloud_connected_download.gif)
-
-### using easy to learn web languages.
+### using only easy to learn web languages
 
 ![HTML CSS Javascript](http://www.virtualsciences.nl/over-ons/expertise/open-source-software/html5fam.jpg)
 
-###### \*\*\*
+
+### looking something like [this](http://voodootikigod.com/nodebots-the-rise-of-js-robotics/).
+
+{% highlight javascript %}
+	$("livingroom").bind("motion", function() {
+		$(this).find("lights").brightness("75%").dimAfter("120s");
+	});
+{% endhighlight %}
+
+### This hardware and API will be applied to Office_US_, to create an orchestrated environment for the production of architecture.
+
+![Connected Objects](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/cloud_connected_download.gif)
 
 
 
-##### Installation and Hackathon Review
-
-
-### We will install our Architecture API at [Studio-X NYC](http://studiox-nyc.tumblr.com/)...
+## Test/Review A – Hack
 
 ![Studio-X Animated GIF](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/studioX_worm.gif)
 
+### We will install our hardware at [Studio-X NYC](http://studiox-nyc.tumblr.com/) as a test environment.
 
-### and will test it by inviting technologists to a hackathon...
 
 *	![Hackathon](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/newhabitat.jpg)
 
-### in lieu of a final review.
-
-###### \*\*\*
+### As our final review, we will invite creative technologists to hack our hardware and API.
 
 
-##### Session B - ArchitectureOS
 
-### We will distribute our Architecture API around the [world](http://www.arch.columbia.edu/studio-x-global/locations)...
+
+
+## Session B – Operating System and Apps
+
+### We will then distribute our hardware catalog around the [Studio-X Global Network](http://www.arch.columbia.edu/studio-x-global/locations)
 
 ![Studio-X Global Network](http://templatizer.gsappcloud.org/sites/default/files/global_network_map_online.png)
 
 
-### to create a platform for a continuous global interior...
-
-![Studio-X Global Continous Interior](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/studio-x_panorama.png)
-
-
-### by collectively designing and building an online [Architecture Operating System](http://a-os.co/)...
+### and build an [Architecture Operating System](http://a-os.co/) (aOS) accessible through the web
 
 ![ArchitectureOS](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/ArchitectureOS.png)
 
-### and building a set of apps for each location...
+### allowing us to build programs/apps for each site
 
 ![ArchitectureOS App Interface](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/ArchitectureOS_apps.png)
 
 
-### to control our ecosystem of connected objects.
+### and programs/apps to connect the network into a continuous global interior.
+
+![Studio-X Global Continous Interior](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/studio-x_panorama.png)
 
 
-###### \*\*\*
 
-##### Office_Us_
+## Test/Review B – Demo Event
 
-### We will work collaboratively as an office
+### As our final review, we will stage linked events at Studio-X NYC and Studio-X Rio to  discuss architecture online using our creations.
 
-#### blah blah blah
+*	![Studio-X NYC event](http://farm4.staticflickr.com/3357/3412123257_01392479ee_o.jpg)
+*	![Studio-X Rio event](http://templatizer.gsappcloud.org/sites/default/files/imagecache/primary500/rio.png)
 
 
-![Generator](http://1.bp.blogspot.com/_tpF2_7rzFMU/Swrv1rrCULI/AAAAAAAADEc/R6wnltTbsW4/s1600/gn01.jpg)
 
-![Generator](http://4.bp.blogspot.com/_tpF2_7rzFMU/Swrv1YV-EGI/AAAAAAAADEU/16Ia7vRONAk/s1600/gn02.jpg)
+## Office_Us_
+
+### To create Office_US_ we will work as an office ourselves, using an open source workflow based on Github.
+
+![Github Social Coding](http://blog.imaginea.com/wp-content/uploads/2013/07/github-logo.jpg)
+
+
+### With 4.1M users, Github has fueled the open source explosion since it launched in 2008.
+
+![Github Global Users](https://github-camo.global.ssl.fastly.net/e210e2c029a1b0b818b5f2b6d20b1e5b91c66c5b/687474703a2f2f692e696d6775722e636f6d2f7748654a3977472e706e67)
+
+
+### Github allows many people to collaborate, structuring the way they contribute.
+
+![Github Johnny-Five Contributors](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/github_johnny-five_contributors.png)
+
+
+### We will use it to collaborate amongst ourselves, the seminar, and a community of developers
+
+*	__![Eva Franch](http://www.storefrontnews.org/images/event/607.jpg)__
+*	__![Chris Leong](http://d3seu6qyu1a8jw.cloudfront.net/sites/default/files/ChrisLeong_cropped.jpg)__
+*	__![Dominic Leong](http://d3seu6qyu1a8jw.cloudfront.net/sites/default/files/DominicLeong-cropped.jpg)__
+*	__![Carlos Minguez Carrasco](http://farm9.staticflickr.com/8203/8188692548_9a92b0df6b_z.jpg)__
+*	__![Rick Waldron](https://si0.twimg.com/profile_images/732025391/rick_jedi_avatar.jpg)__
+*	__![Charlie Robbins](http://wearenytech.com/uploads/humans/119-charlie-robbins.jpg?1302784712)__
+*	__![Raquel Velez](https://si0.twimg.com/profile_images/3003501029/95174deb90dd9450c1f7815e0d364ea0.jpeg)__
+
+### and open up the pedagogy of the course, from the lectures and tutorials to the syllabus itself.
+
+
+
+## Note the time change
+
+#### 7-9pm Thursdays in 200 Buell
+
+### Additional announcement to be made Thursday.
+
+
+
 

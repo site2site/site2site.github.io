@@ -7,6 +7,8 @@ style: lecture
 
 ### This course will partner with the seminar, _Corporate Avant Garde_ (A6453)
 
+#### Note time change: 7-9pm Thursdays, 200 Buell
+
 *	![US Pavilion, Venice](http://photos.state.gov/libraries/italy/164264/Images_001_001/20130123venice500x234.jpg)
 *	![Venice Biennale map](http://universes-in-universe.org/var/storage/images/media/images/biennials/venice/2011/special_features/venues/970240-2-eng-GB/venues.gif)
 
@@ -154,7 +156,7 @@ For example, the iPhone constitutes a platform, consisting of:
 ![HTML CSS Javascript](http://www.virtualsciences.nl/over-ons/expertise/open-source-software/html5fam.jpg)
 
 
-### looking something like this.
+### looking something like [this](http://voodootikigod.com/nodebots-the-rise-of-js-robotics/).
 
 {% highlight javascript %}
 	$("livingroom").bind("motion", function() {
@@ -205,11 +207,14 @@ For example, the iPhone constitutes a platform, consisting of:
 
 
 
-## Test/Review B – Demo & Shenzhen
+## Test/Review B – Demo Event
 
-### As our final review, we will 
+### As our final review, we will stage linked events at Studio-X NYC and Studio-X Rio to  discuss architecture online using our creations.
 
-![Shenzhen Biennale](http://ad009cdnb.archdaily.net/wp-content/uploads/2013/02/1360019380-2013uabb-sz-venues--curatorial-team-425x500.jpg)
+*	![Studio-X NYC event](http://farm4.staticflickr.com/3357/3412123257_01392479ee_o.jpg)
+*	![Studio-X Rio event](http://templatizer.gsappcloud.org/sites/default/files/imagecache/primary500/rio.png)
+
+
 
 ## Office_Us_
 
@@ -223,37 +228,37 @@ For example, the iPhone constitutes a platform, consisting of:
 ![Github Global Users](https://github-camo.global.ssl.fastly.net/e210e2c029a1b0b818b5f2b6d20b1e5b91c66c5b/687474703a2f2f692e696d6775722e636f6d2f7748654a3977472e706e67)
 
 
-### Github allows many people to collaborate, structuring the way they contribute
+### Github allows many people to collaborate, structuring the way they contribute.
 
 ![Github Johnny-Five Contributors](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/github_johnny-five_contributors.png)
 
 
-### allowing them to make requests and submit their own additions
+### We will use it to collaborate amongst ourselves, the seminar, and a community of developers
 
-*	![Github Johnny-Five Issues](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/github_johnny-five_issues.png)
-*	![Github Johnny-Five Pull Requests](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/github_johnny-five_pull-requests-closed.png)
-
-
-
-### We will use it to open up everything, including the pedagogy of the course and to connect to a community of programmers in NYC and around the world.
-
+*	__![Eva Franch](http://www.storefrontnews.org/images/event/607.jpg)__
+*	__![Chris Leong](http://d3seu6qyu1a8jw.cloudfront.net/sites/default/files/ChrisLeong_cropped.jpg)__
+*	__![Dominic Leong](http://d3seu6qyu1a8jw.cloudfront.net/sites/default/files/DominicLeong-cropped.jpg)__
+*	__![Carlos Minguez Carrasco](http://farm9.staticflickr.com/8203/8188692548_9a92b0df6b_z.jpg)__
 *	__![Rick Waldron](https://si0.twimg.com/profile_images/732025391/rick_jedi_avatar.jpg)__
 *	__![Charlie Robbins](http://wearenytech.com/uploads/humans/119-charlie-robbins.jpg?1302784712)__
 *	__![Raquel Velez](https://si0.twimg.com/profile_images/3003501029/95174deb90dd9450c1f7815e0d364ea0.jpeg)__
-*	__![Tim Park](https://si0.twimg.com/profile_images/344513261579622494/759344977015993d40b73f718088c07a.jpeg)__
+
+### and open up the pedagogy of the course, from the lectures and tutorials to the syllabus itself.
 
 
 
 
 ## Historical Note
 
-### The conditions of possibility for our project are historically new, we couldn't conceive of it last year
+### The conditions of possibility for this project are historically new
 
 ![Node.js for ARM](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week0/programmable-web/node_for_ARM.png)
 
-### though, there's nothing new about the idea or ambition.
+### but it's an old idea.
 
 ![Generator](http://4.bp.blogspot.com/_tpF2_7rzFMU/Swrv1YV-EGI/AAAAAAAADEU/16Ia7vRONAk/s1600/gn02.jpg)
 
+
+## NOTE THE TIME CHANGE: __7-9pm__ Thursdays in 200 Buell
 
 
