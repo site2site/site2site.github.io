@@ -22,7 +22,7 @@ __This office will present a prototype for a new way of practicing architecture 
 
 __Our approach will be reflexive, we will produce both a responsive physical environment in which these architects will practice, and simultaneously provide and test new tools they will use inside this environment to create similar forms of responsive architecture around the world. That is, we will produce the platform for a new architecture practice.__
 
-### Our contribution will be to design and build the platform for Office_US_.
+### Our contribution will be to design, build and test the platform for Office_US_.
 
 For example, the iPhone constitutes a platform, consisting of:
 
