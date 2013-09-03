@@ -149,9 +149,18 @@ For example, the iPhone constitutes a platform, consisting of:
 ![Database](https://rawgithub.com/site2site/site2site.github.io/master/images/introduction/cloud_elements.svg)
 
 
-### using only easy to learn web languages.
+### using only easy to learn web languages
 
 ![HTML CSS Javascript](http://www.virtualsciences.nl/over-ons/expertise/open-source-software/html5fam.jpg)
+
+
+### looking something like this.
+
+{% highlight javascript %}
+	$("livingroom").bind("motion", function() {
+		$(this).find("lights").brightness("75%").dimAfter("120s");
+	});
+{% endhighlight %}
 
 ### This hardware and API will be applied to Office_US_, to create an orchestrated environment for the production of architecture.
 
@@ -216,7 +225,13 @@ For example, the iPhone constitutes a platform, consisting of:
 
 ### Github allows many people to collaborate, structuring the way they contribute
 
-![Github Contributors](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/github_johnny-five_contributors.png)
+![Github Johnny-Five Contributors](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/github_johnny-five_contributors.png)
+
+
+### allowing them to make requests and submit their own additions
+
+*	![Github Johnny-Five Issues](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/github_johnny-five_issues.png)
+*	![Github Johnny-Five Pull Requests](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/github_johnny-five_pull-requests-closed.png)
 
 
 
