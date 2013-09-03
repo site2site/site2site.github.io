@@ -81,7 +81,7 @@ For example, the iPhone constitutes a platform, consisting of:
 *	__![Thingspeak](http://iobridge.com/technology/thingspeak/ThingSpeak_Logo.jpg)__
 
 
-### Rather than joining a side, we're assembling an [army](https://github.com/organizations/site2site) of architects, urban designers, planners, preservationists, developers, historians and curators to join us and some technologists to design and build our own architecture plaform and test it in Venice.
+### Rather than joining a side, we're assembling an [army](https://github.com/site2site/site2site.github.io/blob/master/people.md) of architects, urban designers, planners, preservationists, developers, historians and curators to join us and some technologists to design and build our own architecture plaform and test it in Venice.
 
 
 
