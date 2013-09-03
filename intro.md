@@ -1,7 +1,8 @@
 ---
-layout: intro
+layout: base
 title: Site to Site
 style: lecture
+menu: intro
 ---
 ## Office_US_
 

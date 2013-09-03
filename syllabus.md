@@ -1,6 +1,7 @@
 ---
 layout: intro
 title: Site to Site
+menu: syllabus
 ---
 ### The Stakes
 
