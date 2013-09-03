@@ -206,7 +206,7 @@ For example, the iPhone constitutes a platform, consisting of:
 
 
 
-## Session B – Operating System and Apps
+## Session B – Operating System and Programs/Apps
 
 ### We will then distribute our hardware catalog around the [Studio-X Global Network](http://www.arch.columbia.edu/studio-x-global/locations)
 
