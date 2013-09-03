@@ -63,6 +63,9 @@ For example, the iPhone constitutes a platform, consisting of:
 *	__![iPad](http://skimnapp.com/assets/images/skimn-ipad.png)__
 *	__![Samsung Tablet](http://cloud2.baohe.org/allimg/geekgadgettouchcom-1348154892/samsung-galaxy-tab-2-10-1-android-tablet_1.jpg)__
 *	__![Windows Surface Tablet](http://osxdaily.com/wp-content/uploads/2012/06/surface-tablet.jpg)__
+*	__![Nike+ Fuel Band](http://tinysurprise.com/wp-content/uploads/2012/08/nike-plus-fuel-band-03-500x3941.jpg)__
+*	__![Jawbone UP](http://www.wired.com/images_blogs/gadgetlab/2013/03/20121130-JAWBONE-UP-2012-011edit.jpeg)__
+*	__![Pebble Watch](http://images.techhive.com/images/article/2013/01/pebble_watch-100020692-large.jpeg)__
 
 
 ### A less public [war](http://www.wired.com/gadgetlab/2013/05/internet-of-things/) us being waged that will have much greater architectural consequences.
