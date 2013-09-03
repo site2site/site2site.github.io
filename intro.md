@@ -68,7 +68,7 @@ For example, the iPhone constitutes a platform, consisting of:
 *	__![Pebble Watch](http://images.techhive.com/images/article/2013/01/pebble_watch-100020692-large.jpeg)__
 
 
-### A less public [war](http://www.wired.com/gadgetlab/2013/05/internet-of-things/) us being waged that will have much greater architectural consequences.
+### A less well-known [war](http://www.wired.com/gadgetlab/2013/05/internet-of-things/) us being waged that will have much greater architectural consequences.
 
 *	__![Xively](http://blog.logmein.com/wp-content/uploads/2013/07/xively-logo-rgb-bluebg.png)__
 *	__![EVRYTHNG](http://www.evrythng.com/wp-content/themes/evrytheme/img/logo.png)__
