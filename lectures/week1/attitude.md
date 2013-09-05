@@ -93,7 +93,7 @@ Parametric
 
 
 
-![R&Sie(n)](https://raw.github.com/site2site/site2site.github.io/master/images/week1/rsien.png)
+![R&Sie(n)](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/rsien.png)
 
 Grammatical
 
@@ -127,7 +127,12 @@ DIY
 
 *	![Juergen Mayer H.](http://www.bustler.net/images/news2/audi_urban_future_award_1g.jpg)
 *	![Juergen Mayer H.](http://www.d-talks.com/wp-content/uploads/2010/09/profile_sex.jpg)
-*	![Juergen Mayer H.](http://assets.knowledge.allianz.com/img/car_experience_machine_juergen_mayer_55502.jpg)
+
+Interactive
+
+
+
+
 *	![Juergen Mayer H.](http://www.stylepark.com/db-images/cms/article/img/l2_v343197_958_600_424-2.jpg)
 *	![Juergen Mayer H.](http://www.domusweb.it/content/dam/domusweb/en/architecture/2010/06/09/future-mobility-what-will-be-the-world-in-2030-/big_253806_4626_Thesis_Conference_London_JMayerH_1_big.jpg)
 
@@ -154,29 +159,25 @@ Indeterminate
 
 
 
-*	![Fuller Cloud Nine](http://www.cabinetmagazine.org/issues/11/fig08_fuller.jpg)
 *	![Liam Young Under Tomorrow's Sky](http://undertomorrowssky.liamyoung.org/wp-content/uploads/2012/10/daniel-dociu-UrbanTectonics1-web.jpg)
 *	![Liam Young Under Tomorrow's Sky](http://undertomorrowssky.liamyoung.org/wp-content/uploads/2012/08/undertomorrowssky_factoryfifteen_web.jpg)
 
 Futuristic
 
 
-
+![Cedric Price Generator](http://payload97.cargocollective.com/1/9/291963/4241777/gen-01-00-original.jpg)
 
 Cybernetic
 
 
 
-### The aesthetics of techno-fetishism compromises architecture's ability to participate in comtemporary technological innovation.
+### The aesthetics of techno-fetishism have the capacity to compromise architecture's ability to participate in comtemporary technological innovation.
 
 *	![Alice Tully Hall](http://pdoinc.com/wp-content/uploads/2012/04/DSR-Alice-Tully-5935.jpg)
 *	![Audi Interior](http://media.caranddriver.com/images/12q3/475098/2014-audi-a3-sportback-s-line-interior-euro-spec-photo-475253-s-1280x782.jpg)
 
-### We propose a more sober relationship to the future.
 
-
-
-### Rule Nº2: The future is no more than 7 years away.
+### Rule Nº2: Our future will be assembed with elements of the present.
 
 
 
