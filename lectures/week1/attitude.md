@@ -207,25 +207,6 @@ Cybernetic
 
 
 
-### \*\*\*
-
-
-
-
-
-### This is not a new idea.
-
-*	![Cedric Price Generator](http://www.moma.org/collection_images/resized/687/w500h420/CRI_62687.jpg)
-
-### But its conditions of possibility are historically new.
-
-![Node.js compiled for ARM](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/node_for_ARM.png)
-
-### This year, open source software collided with open source hardware.
-
-
-
-
 
 
 
