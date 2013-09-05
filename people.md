@@ -6,4 +6,3 @@ menu: people
 ---
 ## People
 
-coming soon...
