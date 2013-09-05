@@ -46,9 +46,6 @@ lecture: 1_attitude
 
 *	![Corporate vs. Avant Garde](http://workbench.cadenhead.org/media/apple-pc-mac-people.jpg)
 
-### The concept car model.
-
-*	![Audi Concept Car](http://www.ingbase.com/wp-content/gallery/audi-concept-cars/irobot-audi-concept.jpg)
 
 ### To break down this formula we will consciously operate on both the architecture imaginary and architecture practice.
 
