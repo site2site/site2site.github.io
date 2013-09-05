@@ -61,12 +61,23 @@ lecture: 1_attitude
 
 *	![Architecture Firm](http://upload.wikimedia.org/wikipedia/commons/b/b2/Architects-office.jpg)
 
-### This produces an equivocal, reflexive situation and a fracturing of boundary problems.
+### Designing the furniture of the architecture office produces a reflexive situation and a series of boundary problems, problematizing the fundamentals architecture practice.
 
 *	![Velazquez Las Meninas](http://4.bp.blogspot.com/-sOX5BZPGKA4/T5RFd19OfYI/AAAAAAAANeg/TuwYxJu9iy8/s1600/velazquez_lasmeninas_large.jpg)
 
 
 ### Representation, documentation, fabrication, materials, workflow, protocols, systems, product design, interaction design, convention design... you will chose which domain or domains you want to contribute to, and your mode of contribution.
+
+
+
+
+## 
+
+
+
+
+
+
 
 
 
@@ -190,6 +201,11 @@ Cybernetic
 
 ### The aesthetics of techno-fetishism have the capacity to sever architecture from technological reality.
 
+>	"We will no longer say experiment, laboratory, global."
+	-Mark Wigley
+
+### How can we normalize technology through representation?
+
 *	![Iain Hamilton Grant, Graham Harman, Quentin Meillasoux, Ray Brassier](http://xylem.aegean.gr/~modestos/mo.blog/wp-content/uploads/2009/04/speculative-realism-materialism.jpg)
 
 
@@ -199,12 +215,9 @@ Cybernetic
 
 ### What are the aesthetics of a platform?
 
->	"We will no longer say experiment, laboratory, global."
-	-Mark Wigley
-
-### How can we normalize technology through representation?
 
 
+### \*\*\*
 
 
 
