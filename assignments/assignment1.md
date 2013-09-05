@@ -28,9 +28,9 @@ Each program/app must include:
 
 *	a name for the program/app
 *	a short, single sentence description
-*	a programmatic category (design, exhibition, event, etc., see [/programs/index.md](/programs/index.md) for a complete list - add a new programmatic category to this file if necessary)
 *	an illustrated narrative scenario (details below)
-*	a diagram showing the functional relationship between objects (details below)
+*	a diagram showing the relationship between objects (details below)
+*	a collage to illustrate the experience
 *	a collection of objects and the sensors/actuators/materials they will employ (details below)
 
 
@@ -43,12 +43,12 @@ The scenario is the principal means by which you will simultaneously pitch your 
 *	a list of the objects it will employ and any key sensors/actuators/materials they will use
 *	a diagram of how the objects will be connected together
 
-When you are finished, add your program/app to the [Program Index](/programs/index.md). Complete this process for a local program/app and a global program/app.
+When you are finished, add your program/app to the wiki [Programs/App](https://github.com/site2site/site2site.github.io/wiki/Programs-Apps) index page using the example there. Be sure to list the programmatic areas your app supports (eg. design, event, exhibition, etc).
 
 
 ### The Objects
 
-For each of the objects you propose, you will need to add them to the course Object Index. To begin, make a copy of the [Hand-held Event Microphone](/objects/hand-held-event-microphone) folder as a template. Change the name of the hand-held-event-microphone folder to the name of your object (in lowercase, using dashes to separate words), and use the object.md file as a template for documenting your object. Do this for each object. Your app should specify as many connected objects as you deem necessary, but you are only responsible for adding a maximum of three to the Object Index.
+For each of the objects you propose, you will need to add them to the course Object Index. To begin, make a copy of the [boilerplate](/objects/hand-held-event-microphone) folder as a template. Change the name of the hand-held-event-microphone folder to the name of your object (in lowercase, using dashes to separate words), and use the object.md file as a template for documenting your object. Do this for each object. Your app should specify as many connected objects as you deem necessary, but you are only responsible for adding a maximum of three to the Object Index.
 
 When you are finished, add your object to the [Object Index](/objects/index.md).
 
