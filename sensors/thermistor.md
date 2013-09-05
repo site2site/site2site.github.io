@@ -24,57 +24,12 @@ Source: [Wikipedia](http://en.wikipedia.org/wiki/Thermistor)
 
 ##### Code
 
-	var five = require("johnny-five"), Thermistor;
-
-	(function() {
-  		var adcres, beta, kelvin, rb, ginf;
-
-		adcres = 1023;
-		// Beta parameter
-		beta = 3950;
-		// 0°C = 273.15 K
-		kelvin = 273.15;
-		// 10 kOhm
-		rb = 10000;
-		// Ginf = 1/Rinf
-		ginf = 120.6685;
-
-		Thermistor = {
-			c: function( raw ) {
-				var rthermistor, tempc;
-
-				rthermistor = rb * (adcres / raw - 1);
-				tempc = beta / ( Math.log( rthermistor * ginf ) );
-
-				return tempc - kelvin;
-			},
-			f: function( raw ) {
-				return ( this.c(raw) * 9 ) / 5 + 32;
-			}
-		};
-	}());
-
-	new five.Board().on("ready", function() {
-		new five.Sensor("I0").on("change", function() {
-			console.log( "F: ", Thermistor.f(this.value) );
-			console.log( "C: ", Thermistor.c(this.value) );
-		});
-	});
-
-Code sample from @rwaldron, [Johnny-Five examples](https://github.com/rwaldron/johnny-five/blob/master/docs/tinkerkit-thermistor.md)
-
+_Ignore for now._
 
 ##### Phone-home to Louis Identifier
 
-JSON identifier to be used in machine.json file of any object incorporating this sensor using Phone-home to connect to the Louis server.
-
-	"thermistor": {
-    	"name": "thermistor",
-      	"type": "analog",
-      	"source": "arduino",
-      	"pin": "A2",
-      	"range": [0, 1000],
-      	"freq": 1000
-    }
+_Ignore for now._
 
 ##### Examples in Use
+
+_Optional._
