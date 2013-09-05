@@ -45,28 +45,52 @@ The scenario is the principal means by which you will simultaneously pitch your 
 
 When you are finished, add your program/app to the wiki [Programs/App](https://github.com/site2site/site2site.github.io/wiki/Programs-Apps) index page using the example there. Be sure to list the programmatic areas your app supports (eg. design, event, exhibition, etc).
 
-
-### The Objects
-
-For each of the objects you propose, you will need to add them to the course Object Index. To begin, make a copy of the [boilerplate](/objects/hand-held-event-microphone) folder as a template. Change the name of the hand-held-event-microphone folder to the name of your object (in lowercase, using dashes to separate words), and use the object.md file as a template for documenting your object. Do this for each object. Your app should specify as many connected objects as you deem necessary, but you are only responsible for adding a maximum of three to the Object Index.
-
-When you are finished, add your object to the [Object Index](/objects/index.md).
+Finally, submit a pull request for the site2site.github.io repository.
 
 
-## Aesthetics
 
-A key consideration throughout this course will be on aesthetics. In order to operate on the architecture imaginary - specifically, on the way architects think - we must avoid using the visual rhetoric of futurology. One polemic of the course is that architecture is online, already. It must be registered throughout the production of the course that the work we are doing is simply catching architecture up to the present state of technology, rather than projecting a forecast into the distant future.
+### The Object
+
+Choose one of the objects that your program/app takes advantage of and complete the same process above for that object.
+
+*	begin by using the boilerplate directory in the `objects` directory as your template
+*	be sure to give your object a descriptive name
+*	add your object to the [Object Index](https://github.com/site2site/site2site.github.io/wiki/Object-Index) page of the wiki
+
+Finally, submit a pull request for the site2site.github.io repository.
 
 
-## Studio-X NYC Visit and Collective Database
 
-Each student is requested to visit Studio-X NYC before the week 2 class session and take photos of the space in general, and details of whichever elements the student thinks they may eventually wish to hack. Please upload these images to the [Studio-X photos folder](/locations/Studio-X%20NYC/photos).
+### The Sensor
 
-Each student is also requested to collect at least one 3D model in .STL format of an object in Studio-X, or an object their program/app specifies. This model can come from any source, or be self-generated, though they must provide a license that will allow others to use them free of charge for any activity (equivalent to the MIT license).
+Choose one of the sensors that your object takes advantage of and complete the same process above for that sensor.
 
-## Deadlines and Collective Critique
+*	begin by using the `boilerplate.md` file in the `sensor` directory as your template
+*	be sure to give your sensor a descriptive name and name the file with that name (separating multiple words with dashes, not spaces)
+*	add your sensor to the [Sensor Index](https://github.com/site2site/site2site.github.io/wiki/Sensor-Index) page of the wiki
 
-Each program/app scenario and contributions to the Object Index must be online by 11:59pm on Tuesday, September 10, 2013.
+Finally, submit a pull request for the site2site.github.io repository.
 
-By noon on Thursday, September 12, 2013, each student must have offered comments to exactly - no more, no less - one other student, on both their local and global app. You will do this by forking each of their repositories, adding a Critique section to the bottom of both scenario.md files, and adding your comments here. You will then issue a pull request on both repositories. The student who created the original repository will then accept your pull request and merge your changes into their master branch.
+
+### The Actuator
+
+Choose one of the actuators that your object takes advantage of and complete the same process above for that actuator.
+
+*	begin by using the `boilerplate.md` file in the `actuator` directory as your template
+*	be sure to give your actuator a descriptive name and name the file with that name (separating multiple words with dashes, not spaces)
+*	add your sensor to the [Actuator Index](https://github.com/site2site/site2site.github.io/wiki/Actuator-Index) page of the wiki
+
+Finally, submit a pull request for the site2site.github.io repository.
+
+
+
+## Partner Critique
+
+Each program/app scenario and contributions to the Object, Sensor and Actuator Index must be online by 11:59pm on Tuesday, September 10, 2013.
+
+By noon on 11:59pm on Wednesday, September 11, 2013, each student must have offered comments to exactly - no more, no less - one other student, on their app. To organize this, first sign up on the [Programs/App](https://github.com/site2site/site2site.github.io/wiki/Programs-Apps) index of the wiki by putting your Github username next to someone else's project (see the example on the wiki). You can only sign up to critique someone that doesn't already have a critic, so each program/app will be critiqued.
+
+Once the student you have signed up to crit has had their program/app merged with the master branch of the original repository, delete your local forked version of site2site.github.io. Then, fork it again.
+
+Open their program/app `scenario.md` file and add a Critique section to the bottom with your comments. You will then issue a pull request.
 
