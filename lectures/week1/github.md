@@ -67,3 +67,16 @@ lecture: 1_github
 ![Github Social Coding](http://blog.imaginea.com/wp-content/uploads/2013/07/github-logo.jpg)
 
 ### We will use Github to enable this structure.
+
+
+
+## Git
+
+### Linus Torvalds invented the git protocol to structure contributions to his open source Linux kernel.
+
+*	![Linus Torvalds](http://www.webassite.com/lectures/img/1991_linusTorvalds.png)
+
+
+### Github commercialed and socialized this protocol.
+
+![Github protocol diagram](http://tianhsky.ueuo.com/blog/wp-content/uploads/2012/03/git-transport.png)
