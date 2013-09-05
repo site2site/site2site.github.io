@@ -5,7 +5,7 @@ style: lecture
 menu: lecture
 lecture: 1_github
 ---
-## Modalities of Contribution
+## Structuring Collaboration
 
 ### There are three principal types of contribution
 
@@ -51,7 +51,7 @@ lecture: 1_github
 
 
 
-## Contribution
+## Curricular Profile
 
 ### Your trajectory through the course may be simple
 
