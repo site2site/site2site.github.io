@@ -94,3 +94,8 @@ Once the student you have signed up to crit has had their program/app merged wit
 
 Open their program/app `scenario.md` file and add a Critique section to the bottom with your comments. You will then issue a pull request.
 
+
+## Code Academy
+
+Next week, @rwaldron will be giving a workshop on programming in Javascript, and perhaps incorporating Node.js on the Raspberry Pi. If you have never programmed in Javascript before, please attempt the Javascript tutorial on [Code Academy](http://www.codecademy.com/learn).
+
