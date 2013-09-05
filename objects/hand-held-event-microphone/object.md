@@ -7,4 +7,12 @@ menu: objects
 
 ## Description
 
-Blah
+Description of the object
+
+## Sensors
+
+*   [Thermistor](https://github.com/site2site/site2site.github.io/blob/master/sensors/thermistor.md)
+
+## Actuators
+
+
