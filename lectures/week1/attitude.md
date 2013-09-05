@@ -31,7 +31,7 @@ lecture: 1_attitude
 > 	“Communications tools don't get socially interesting until they get technologically boring.”  
 	-Clay Shirky, _Here Comes Everybody_
 
-### Rule Nº 1: We will be confine ourselves to the technological banal.
+### Rule: We will limit our techno-obsessions to the banal.
 
 
 
@@ -51,6 +51,26 @@ lecture: 1_attitude
 *	![Audi Concept Car](http://www.ingbase.com/wp-content/gallery/audi-concept-cars/irobot-audi-concept.jpg)
 
 ### To break down this formula we will consciously operate on both the architecture imaginary and architecture practice.
+
+
+
+
+## Practice
+
+>	"You could say that one definition of architecture is anything with furniture in it."
+	-Mark Wigley
+
+### To put it another way, architecture is produced with furniture.
+
+*	![Architecture Firm](http://upload.wikimedia.org/wikipedia/commons/b/b2/Architects-office.jpg)
+
+### This produces an equivocal, reflexive situation and a fracturing of boundary problems.
+
+*	![Velazquez Las Meninas](http://4.bp.blogspot.com/-sOX5BZPGKA4/T5RFd19OfYI/AAAAAAAANeg/TuwYxJu9iy8/s1600/velazquez_lasmeninas_large.jpg)
+
+
+### Representation, documentation, fabrication, materials, workflow, protocols, systems, product design, interaction design, convention design... you will chose which domain or domains you want to contribute to, and your mode of contribution.
+
 
 
 
@@ -171,28 +191,48 @@ Cybernetic
 
 
 
-### The aesthetics of techno-fetishism have the capacity to compromise architecture's ability to participate in comtemporary technological innovation.
+### The aesthetics of techno-fetishism have the capacity to sever architecture from technological reality.
 
-*	![Alice Tully Hall](http://pdoinc.com/wp-content/uploads/2012/04/DSR-Alice-Tully-5935.jpg)
-*	![Audi Interior](http://media.caranddriver.com/images/12q3/475098/2014-audi-a3-sportback-s-line-interior-euro-spec-photo-475253-s-1280x782.jpg)
-
-
-### Rule Nº2: Our future will be assembed with elements of the present.
+*	![Iain Hamilton Grant, Graham Harman, Quentin Meillasoux, Ray Brassier](http://xylem.aegean.gr/~modestos/mo.blog/wp-content/uploads/2009/04/speculative-realism-materialism.jpg)
 
 
+### Can we combine speculation and realism in techno-aesthetics?
+
+*	![Oil Platform](http://www.alaska-in-pictures.com/data/media/17/monopod-oil-platform_3221.jpg)
+
+### What are the aesthetics of a platform?
+
+>	"We will no longer say experiment, laboratory, global."
+	-Mark Wigley
+
+### How can we normalize technology through representation?
 
 
 
 
-## History
+
+
 
 ### This is not a new idea.
 
-![Cedric Price Generator](http://www.moma.org/collection_images/resized/687/w500h420/CRI_62687.jpg)
+*	![Cedric Price Generator](http://www.moma.org/collection_images/resized/687/w500h420/CRI_62687.jpg)
 
 ### But its conditions of possibility are historically new.
 
-![]
+![Node.js compiled for ARM](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/node_for_ARM.png)
+
+### This year, open source software collided with open source hardware.
+
+
+
+
+
+
+
+## Curatorial
+
+
+
 
 
 ## Open Source S/W &amp; H/W
