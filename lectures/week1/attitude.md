@@ -31,7 +31,7 @@ lecture: 1_attitude
 > 	“Communications tools don't get socially interesting until they get technologically boring.”  
 	-Clay Shirky, _Here Comes Everybody_
 
-### Rule: We will limit our techno-obsessions to the banal.
+### We will limit our techno-obsessions to the banal.
 
 
 
