@@ -1,9 +1,69 @@
 ---
-title: FTP and Github Tutorial
-layout: lecture
-perex: FTP & Github Tutorial
-category: week1
+layout: base
+title: Site to Site | Week 1
+style: lecture
+menu: lecture
+lecture: 1_github
 ---
-*   FTP & Github Tutorial
-*	something else here
-*	<embed name="player1" width="100%" id="player1" height="100%" tabindex="0" type="application/x-shockwave-flash" src="http://s.ytimg.com/yts/swfbin/watch_as3-vflFUe8yq.swf" allowfullscreen="true" allowscriptaccess="always" bgcolor="#000000" flashvars="ldpj=-29&amp;hl=en_US&amp;iurl=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FElnthxeE7ys%2Fhqdefault.jpg&amp;is_html5_mobile_device=false&amp;fexp=916903%2C910100%2C936206%2C922912%2C909546%2C906397%2C916914%2C929117%2C929121%2C929906%2C929907%2C929922%2C929127%2C929129%2C929131%2C929930%2C925720%2C925722%2C925718%2C925714%2C929917%2C929919%2C929933%2C912521%2C919206%2C932306%2C913428%2C920605%2C937003%2C904830%2C919373%2C930803%2C908536%2C904122%2C938701%2C911423%2C909549%2C900816%2C912711%2C935802%2C904494%2C900375%2C906001&amp;idpj=-5&amp;allow_embed=1&amp;title=FTP%20and%20Github%20Tutorial&amp;avg_rating=0&amp;iurlsd=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FElnthxeE7ys%2Fsddefault.jpg&amp;sk=dZzOHpz523SHC4p9F4SiONRgIs6nhT3_C&amp;abd=1&amp;eurl=http%3A%2F%2Ftutorials.gsapp.org%2Fcourse%2F278&amp;enablejsapi=1&amp;user_display_name=Troy%20Conrad%20Therrien&amp;sendtmp=1&amp;endscreen_module=http%3A%2F%2Fs.ytimg.com%2Fyts%2Fswfbin%2Fendscreen-vfltgsXZ2.swf&amp;el=embedded&amp;video_id=ElnthxeE7ys&amp;iurlmaxres=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FElnthxeE7ys%2Fmaxresdefault.jpg&amp;thumbnail_num_shards=1&amp;rel=1&amp;allow_ratings=1&amp;probably_logged_in=1&amp;share_icons=http%3A%2F%2Fs.ytimg.com%2Fyts%2Fswfbin%2Fsharing-vflF4tO1T.swf&amp;authuser=0&amp;user_display_image=https%3A%2F%2Flh4.googleusercontent.com%2F--vcfPasUcEc%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FJ3bKcdThVF0%2Fs28-c-k%2Fphoto.jpg&amp;playlist_module=http%3A%2F%2Fs.ytimg.com%2Fyts%2Fswfbin%2Fplaylist_module-vfl2Wms-d.swf&amp;cr=US&amp;length_seconds=466&amp;view_count=108&amp;playerapiid=player1&amp;framer=http%3A%2F%2Ftutorials.gsapp.org%2Fcourse%2F278">
+## Modalities of Contribution
+
+### There are three principal types of contribution
+
+
+*	![create something](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure0.png)
+
+### You can create an object.
+
+
+*	![contribute](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure1.png)
+
+### You can contribute to an object that already exists.
+
+
+*	![clone](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure2.png)
+
+### Or, you can clone an object that exists and turn it into an new object.
+
+*	![clone contribute](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure3.png)
+
+### This will allow us to begin to build a constellation of objects with multiple contributors.
+
+*	![horizontal](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure4.png)
+
+### We will expand horizontally with objects that do similar things
+
+*	![vertical](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure5.png)
+
+### and verically, by creating interfaces between objects that do different things.
+
+*	![tree up](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure6.png)
+
+### We will build these up to create stacks of objects of greater abstraction
+
+*	![tree down](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure7.png)
+
+### and build them down to create stacks of objects with greater physicality.
+
+*	![vertical](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure8.png)
+
+### And then stitch these stacks together to build our platform.
+
+
+
+
+## Contribution
+
+### Your trajectory through the course may be simple
+
+![simple](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure9.png)
+
+
+### or it may be complex.
+
+![complex](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure10.png)
+
+### It will certainly be unique to you.
+
+![Github Social Coding](http://blog.imaginea.com/wp-content/uploads/2013/07/github-logo.jpg)
+
+### We will use Github to enable this structure.

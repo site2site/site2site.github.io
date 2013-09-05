@@ -10,12 +10,7 @@
         <option disabled></option>
         <option disabled>Week 1</option>
         <option {% if lecture == '1_attitude' %}selected="selected" {% endif %}value="/lectures/week1/attitude.html">Attitude</option>
-        <option>Forum</option>
-        <option value="http://www.arch.columbia.edu">Syllabus</option>
-        <option disabled></option>
-        <option disabled>Week 2</option>
-        <option>Wiki</option>
-        <option>Forum</option>
-        <option value="http://www.arch.columbia.edu">Syllabus</option>
+        <option {% if lecture == '1_github' %}selected="selected" {% endif %}value="/lectures/week1/github.html">Github</option>
+        <option {% if lecture == '1_markdown' %}selected="selected" {% endif %}value="/lectures/week1/markdown.html">Markdown</option>
     </select>
 </div>
