@@ -33,6 +33,11 @@
         <div id="main">
 
             {{ content }}
+
+            {% if page.menu == 'lecture' %}
+                {% assign lecture = page.lecture %}
+                {% include menulecture.html %}
+            {% endif %}
           
         </div>
         <footer id="footer">
