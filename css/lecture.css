@@ -130,6 +130,10 @@ pre{
   text-align: left;
 }
 
+.gist{
+  margin-top:80px;
+}
+
 .gist pre{
   background-color:inherit;
   -moz-box-shadow: none;
