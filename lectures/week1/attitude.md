@@ -99,13 +99,13 @@ Grammatical
 
 
 
-![BIM](http://buildipedia.com/images/masterformat/Channels/On_Site/BIM/DPR_Construction/Contractors_Look_to_BIM_to_Streamline_Construction_10.jpg)
+*	![BIM](http://buildipedia.com/images/masterformat/Channels/On_Site/BIM/DPR_Construction/Contractors_Look_to_BIM_to_Streamline_Construction_10.jpg)
 
 Organizational
 
 
 
-![Dogma](http://24.media.tumblr.com/tumblr_lbp2nyVptv1qzsvmgo1_500.jpg)
+*	![Dogma](http://24.media.tumblr.com/tumblr_lbp2nyVptv1qzsvmgo1_500.jpg)
 
 Reactionary
 
@@ -142,7 +142,7 @@ Organic
 
 
 
-![Francois Roche](http://c1038.r38.cf3.rackcdn.com/group5/building42101/media/eubi_fracolzweg.jpg)
+*	![Francois Roche](http://c1038.r38.cf3.rackcdn.com/group5/building42101/media/eubi_fracolzweg.jpg)
 
 Robotic
 
