@@ -11,7 +11,7 @@ lecture: 1_attitude
 
 ![Pope media comparison](http://petapixel.com/assets/uploads/2013/03/comparison1.jpg)
 
-### you [won't](http://www.newmuseum.org/blog/view/a-prompt-for-architectural-theory) make interesting architecture
+### you might think [this](http://www.newmuseum.org/blog/view/a-prompt-for-architectural-theory) is interesting.
 
 *	![Urban Think Tank](http://235bowery.s3.amazonaws.com/posts/49/thumbnails/565x565x1.jpg)
 *	![Howeller and Yoon](http://235bowery.s3.amazonaws.com/images/834/thumbnails/480x480x1.jpg)
@@ -19,7 +19,7 @@ lecture: 1_attitude
 *	![Superpool](http://235bowery.s3.amazonaws.com/images/836/thumbnails/480x480x1.jpg)
 
 
-### you will repeat the formula of modern architecture.
+### But you would be repeating the formula of modern architecture.
 
 *	![Marinetti car wreck](http://3.bp.blogspot.com/-r8Exvk2klHI/T2ZRwxZuMYI/AAAAAAAAATI/uidGbUUgZrI/s1600/marinetti+accident.jpg)
 *	![Le Corbusier Car Parthenon](http://farm3.static.flickr.com/2439/3926773892_e3470e5960.jpg)
@@ -71,74 +71,10 @@ lecture: 1_attitude
 
 
 
-## Modalities of Contribution
-
-### There are three principal types of contribution
-
-
-*	![create something](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure0.png)
-
-### You can create an object.
-
-
-*	![contribute](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure1.png)
-
-### You can contribute to an object that already exists.
-
-
-*	![clone](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure2.png)
-
-### Or, you can clone an object that exists and turn it into an new object.
-
-*	![clone contribute](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure3.png)
-
-### This will allow us to begin to build a constellation of objects with multiple contributors.
-
-*	![horizontal](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure4.png)
-
-### We will expand horizontally with objects that do similar things
-
-*	![vertical](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure5.png)
-
-### and verically, by creating interfaces between objects that do different things.
-
-*	![tree up](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure6.png)
-
-### We will build these up to create stacks of objects of greater abstraction
-
-*	![tree down](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure7.png)
-
-### and build them down to create stacks of objects with greater physicality.
-
-*	![vertical](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure8.png)
-
-### And then stitch these stacks together to build our platform.
-
-
-
-
-## Contribution
-
-### Your trajectory through the course may be simple
-
-![simple](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure9.png)
-
-
-### or it may be complex.
-
-![complex](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week1/contribution_structure10.png)
-
-### It will certainly be unique to you.
-
-![Github Social Coding](http://blog.imaginea.com/wp-content/uploads/2013/07/github-logo.jpg)
-
-### We will use Github to enable this structure.
-
-
 
 ## Representation
 
-### Architecture harbours many flavors of technological fetish.
+### Architecture has harboured many flavors of technological fetish.
 
 
 *	![Piranesi Bridge](http://media.aphelis.net/wp-content/uploads/2012/09/PIRANESI_1756_Tav_XXIII_Elevazione_del_Ponte_Ferrato.jpg)
@@ -288,53 +224,6 @@ Cybernetic
 ### This year, open source software collided with open source hardware.
 
 
-
-
-
-
-
-## Curatorial
-
-
-
-
-
-## Open Source S/W &amp; H/W
-
-
-
-
-
-### Technology often picks up the check.
-
-![Rem and Cecil Balmond](http://www.architectuur.org/beelden/oma_n208.jpg)
-
-
-
-### We're interested in the intersection of architecture and a different kind of technology, communication technology.
-
-![The Internet](https://raw.github.com/site2site/site2site.github.io/master/images/introduction/imageOfTheInternet.png)
-
-
-
-
-### This will be our mantra.
-
-
-
-
-
-
-
-
-
-## Normalization
-
-![World Wide Web Browser about](http://ns2.techstream.org/images/WorldWideWeb.jpg)
-
-World Wide Web Browser, 1989, Tim Berners-Lee
-
-![World Wide Web Browser](http://info.cern.ch/images/NextEditorBW.gif)
 
 
 
