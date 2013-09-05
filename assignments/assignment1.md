@@ -7,7 +7,7 @@ assignment: 1
 
 ## Programs/Apps
 
-Each student is responsible to propose one local program/app for Studio-X NYC, and one global program/app to connect two or more spaces across the Studio-X Global Network.
+Each student is responsible to propose _either_ one local program/app for Studio-X NYC or one global program/app to connect two or more spaces across the Studio-X Global Network.
 
 To begin, fork the [Global Surround Sound](!!!) repository as a template. Change the name of the global-surround-sound folder to the name of your program/app (in lowercase, using dashes to separate words), and use the scenario.md file as a template for the assignment below. Do this twice: once for your local app, once for your global.
 
