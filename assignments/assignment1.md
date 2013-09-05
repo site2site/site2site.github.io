@@ -5,11 +5,24 @@ assignment: 1
 ---
 # Assignment 1
 
+## Service Signup
+
+Sign up for each service listed on the course wiki [Services](https://github.com/site2site/site2site.github.io/wiki/Services) page, if you don't already have an account.
+
+Add your profile, including your usernames with links to each of the above services, to the course wiki [Class Directory](https://github.com/site2site/site2site.github.io/wiki/Class-Directory) page, following the example of Troy.
+
+
 ## Programs/Apps
 
-Each student is responsible to propose _either_ one local program/app for Studio-X NYC or one global program/app to connect two or more spaces across the Studio-X Global Network.
+Each student will propose _either_ one local program/app for Studio-X NYC _or_ one global program/app to connect two or more spaces across the Studio-X Global Network.
 
-To begin, fork the [Global Surround Sound](!!!) repository as a template. Change the name of the global-surround-sound folder to the name of your program/app (in lowercase, using dashes to separate words), and use the scenario.md file as a template for the assignment below. Do this twice: once for your local app, once for your global.
+To begin, fork the [site2site.github.io](https://github.com/site2site/site2site.github.io) repository. If you are using the local client-based workflow, you will need to then clone this forked repository to your local machine using the Github app.
+
+If you are using the browser-based workflow, go to the `programs/boilerplate` directory and open the `scenario.md` file. Select all the text inside and copy it. Then, go up a level to the `programs` directory and lick the file add button. In the input field that appears, type the name of your program/app (use dashes to link multiple words, rather than spaces) followed by a slash (/) and then the name `scenario.md`. Then paste in the text you just copied and click commit at the bottom of the page.
+
+If you are using the local client-based workflow, clone your newly forked respository to your local machine (ie. computer). Open the entire top-level directory in Sublime Text 2. Open the programs directory, and right click (or ctrl-click on a Mac) on the programs directory and choose new folder. Name the folder with the name of your program/app (use dashes to link multiple words, rather than spaces). Then, right click on this new folder and choose new file. Copy all the contents from the `programs/boilerplate/scenario.md` file into here and save the file with the name `scenario.md` in the directory you just created with the name of your program/app.
+
+From here, you can edit the `scenario.md` file to describe your program/app.
 
 Each program/app must include:
 
