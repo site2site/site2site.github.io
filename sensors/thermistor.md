@@ -1,5 +1,6 @@
 ---
-layout: sensor
+layout: base
+style: sensor
 title: Thermistor
 sensor: Thermistor
 ---
