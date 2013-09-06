@@ -12,6 +12,11 @@ Sign up for each service listed on the course wiki [Services](https://github.com
 Add your profile, including your usernames with links to each of the above services, to the course wiki [Class Directory](https://github.com/site2site/site2site.github.io/wiki/Class-Directory) page, following the example of Troy.
 
 
+## Software Install
+
+If you have access to your own computer, install the software on the wiki [Software](https://github.com/site2site/site2site.github.io/wiki/Software) page.
+
+
 ## Programs/Apps
 
 Each student will propose _either_ one local program/app for Studio-X NYC _or_ one global program/app to connect two or more spaces across the Studio-X Global Network.
