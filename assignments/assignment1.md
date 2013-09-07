@@ -7,9 +7,9 @@ assignment: 1
 
 ## Service Signup
 
-Sign up for each service listed on the course wiki [Services](https://github.com/site2site/site2site.github.io/wiki/Services) page, if you don't already have an account.
+Sign up for each service listed on the course wiki [Services](https://github.com/site2site/site2site.github.io/wiki/Services) page, if you don't already have an account. Send an email to [Troy](mailto:tct2003@columbia.edu) with your Github username once you have it and wait for him to respond that you have been added to the Site2Site organization.
 
-Add your profile, including your usernames with links to each of the above services, to the course wiki [Class Directory](https://github.com/site2site/site2site.github.io/wiki/Class-Directory) page, following the example of Troy.
+Add your profile, including your usernames with links to each of the above services, to the course wiki [Class Directory](https://github.com/site2site/site2site.github.io/wiki/Class-Directory) page, following the example of Jim.
 
 
 ## Software Install
