@@ -22,6 +22,12 @@ You can include images using the Markdown syntax like this:
 
 ![Image title](http://placehold.it/500x350)
 
+### Sub-Section
+
+In case you need it, you can break up your scenario into sub-sections using the string of hash symbols as above: \#\#\#. You can use 1-6 hashes, with 1 being the biggest section header, and 6 being the smallest.
+
+You can also add a [link](https://www.google.com/) like this.
+
 
 ## Critique
 
