@@ -80,3 +80,20 @@ lecture: 1_github
 ### Github commercialed and socialized this protocol.
 
 ![Github protocol diagram](http://tianhsky.ueuo.com/blog/wp-content/uploads/2012/03/git-transport.png)
+
+
+## Tutorials
+
+### An introduction to using Github for commiting, syncing and making a pull request.
+
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/DP1YVW9TiUs?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/DP1YVW9TiUs?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/NCg5K-P5HTw?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/NCg5K-P5HTw?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+
+### An introduction to uploading images to Github.
+
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/Uwg1B2RqDzI?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/Uwg1B2RqDzI?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/BBIZ_3pRtG4?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/BBIZ_3pRtG4?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
