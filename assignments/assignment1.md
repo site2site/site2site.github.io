@@ -21,7 +21,7 @@ If you have access to your own computer, install the software on the wiki [Softw
 
 Each student will propose _either_ one local program/app for Studio-X NYC _or_ one global program/app to connect two or more spaces across the Studio-X Global Network.
 
-To begin, fork the [site2site.github.io](https://github.com/site2site/site2site.github.io) repository. If you are using the local client-based workflow, you will need to then clone this forked repository to your local machine using the Github app.
+To begin, log in to your Github account then go to the [site2site.github.io](https://github.com/site2site/site2site.github.io) repository and click the fork button on the top right.
 
 If you are using the browser-based workflow, go to the `programs/boilerplate` directory and open the `scenario.md` file. Select all the text inside and copy it. Then, go up a level to the `programs` directory and lick the file add button. In the input field that appears, type the name of your program/app (use dashes to link multiple words, rather than spaces) followed by a slash (/) and then the name `scenario.md`. Then paste in the text you just copied and click commit at the bottom of the page.
 
