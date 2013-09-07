@@ -20,7 +20,7 @@ Be sure to include:
 
 You can include images using the Markdown syntax like this:
 
-![Image title](http://placehold.it/500x350)
+![Test Image](https://raw.github.com/troyth/site2site.github.io/master/programs/global-surround-sound/images/EoYS200_may18.png)
 
 ### Sub-Section
 
