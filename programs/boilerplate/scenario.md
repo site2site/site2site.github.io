@@ -8,6 +8,7 @@ app: Program/App Name
 
 Description of your program/app in one sentence.
 
+
 ## Scenario
 
 An illustrated scenario of how your program/app will work either locally, connecting objects in one space, or globally, connecting objects in remotely distributed spaces.
@@ -16,6 +17,10 @@ Be sure to include:
 
 *   An image in the form of a diagram of how the objects will talk to one another
 *   A collage that helps to visualize the experience
+
+You can include images using the Markdown syntax like this:
+
+![Image title](http://placehold.it/500x350)
 
 
 ## Critique
