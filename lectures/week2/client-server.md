@@ -23,7 +23,7 @@ lecture: 2_client_server
 
 ## Client-Server Model
 
-### Berners-Lee's WorldWideWeb uses a client-server model.
+### Berners-Lee's WorldWideWeb uses a client-server model that connects client to server using the Hypertext Transfer Protocol (HTTP).
 
 *   ![Client Server 2](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-2.gif)
 
