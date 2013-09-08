@@ -5,8 +5,18 @@ style: lecture
 menu: lecture
 lecture: 2_client_server
 ---
-## The Web
+## The Internet and the Web
 
+### The Internet and the Web are not the same.
+
+*	![Web-like Internet]()
+*	![Internet as pipes]()
+
+### The Web is an application of the Internet composed of a series of protocols, languages and applications, such as the browser.
+
+## Web History and Structure
+
+*	![CERN Large Hadron Collider](http://www.webassite.com/lectures/img/CERN_LHCaerialwest.jpg)
 *	![Tim Berners-Lee's 1989 Proposal for the WorldWideWeb](http://info.cern.ch/images/proposal.gif)
 
 ### In 1989, Tim Berners-Lee proposed the WorldWideWeb as a means of organizing the documentation of the Large Hadron Collider (LHC) at CERN.
