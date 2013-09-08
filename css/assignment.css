@@ -5,11 +5,6 @@
   font-size:18px;
 }
 
-h1, h2, h3, h4, h5, h6{
-  text-align: center;
-  color:salmon;
-}
-
 h1{
   font-family: Monaco, monospace;
   font-size: 30px;
@@ -24,7 +19,6 @@ h2{
   font-size: 48px;
   font-weight: normal;
   line-height: 1em;
-  color:salmon;
   margin:100px auto 0;
 }
 
@@ -33,6 +27,7 @@ h3{
   font-size:24px;
   font-weight: bold;
   line-height: 1.15em;
+  color: salmon;
 }
 
 h4{
@@ -139,9 +134,6 @@ code{
 }
 
 @media screen and (min-width: 769px){
-  h1,h2,h3,h4{
-    width:90%;
-  }
 
   ul li embed,
   ul li object{
