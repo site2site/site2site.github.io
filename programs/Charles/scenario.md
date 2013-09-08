@@ -1,10 +1,12 @@
-layout: app style: program title: Program/App Name
+layout: app style: program title: Musical Stairs
 
-app: Program/App Name
+app: Musical Stairs
 
-Program/App Name
+Musical Stairs
 
 Description of your program/app in one sentence.
+
+Musical Stairs will play different sounds as you walk up and down stairs, in hopes of promoting exercise by encouraging people to use stairs more frequently. 
 
 Scenario
 
