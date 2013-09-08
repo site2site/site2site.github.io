@@ -1,8 +1,13 @@
+#main{
+  text-align: left;
+}
+
 h1{
   margin:120px auto 0;
   font-size:80px;
   font-weight:bold;
   line-height: 1.15em;
+  text-align: center;
 }
 
 h2{
@@ -13,6 +18,7 @@ h2{
   color:salmon;
   margin:160px auto 0;
   max-width:650px;
+  text-align: center;
 }
 
 h3{
