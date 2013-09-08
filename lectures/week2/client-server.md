@@ -2,9 +2,26 @@
 layout: base
 title: Site to Site | Client-Server
 style: lecture
-menu: 2_client_server
+menu: lecture
+lecture: 2_client_server
 ---
-### The server is a remote computer that stores the files required to render web pages.
+## The Web
+
+### In 1989, Tim Berners-Lee proposed the WorldWideWeb as a means of organizing the documentation of the Large Hadron Collider (LHC) at CERN.
+
+![Tim Berners-Lee WWW Browser/Editor](http://www.webassite.com/lectures/img/1989_NextEditorBW.gif)
+
+### It consisted of a browser/editor client that could render and edit the Hypertext Markup Language (HTML)
+
+
+![Tim Berners-Lee NeXT Server](http://www.webassite.com/lectures/img/1989_TBL_NeXT.jpg)
+
+### and a server that would store the HTML files and send them to anyone on the internet with a browser/editor client who requested them.
+
+
+## Client-Server Model
+
+### Berners-Lee's WorldWideWeb used a client-server model
 
 *   ![Client Server 2](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-2.gif)
 
