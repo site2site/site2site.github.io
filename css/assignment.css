@@ -1,6 +1,7 @@
 #main{
   text-align: left;
   max-width: 650px;
+  line-height: 1.75em;
 }
 
 h1{
@@ -65,6 +66,7 @@ a{
 p{
   display: block;
   margin:20px 0 0;
+
 }
 
 img,
@@ -151,6 +153,13 @@ pre{
 pre code{
   margin: 0 0 0 10%;
   display: block;
+}
+
+code{
+  color: salmon;
+  background-color: whitesmoke;
+  padding: 2px 7px;
+  border: 1px solid gray;
 }
 
 @media screen and (max-width: 768px){
