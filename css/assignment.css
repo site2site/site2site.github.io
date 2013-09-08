@@ -78,53 +78,12 @@ pre{
   margin: 0;
 }
 
-p img{
-  margin-top:60px;/*minus the margin-top of p*/
-  max-width: 100%;
-}
 
-blockquote{
-  margin:100px auto 0;
-  font-size: 48px;
-  font-family:"Apercu Bold Italic", "Apercu", Calibri, sans-serif;
-  font-size-adjust:0.508;
-  font-weight:bold;
-  font-style:italic;
-  width:92%;
-  padding:4%;
-  color: salmon;
-}
-
-
-ul{
-  list-style: none;
-  text-align: center;
-}
 
 ul li{
-  display: inline-block;
-  margin-right:40px;
-  padding:0;
   text-align: left;
 }
 
-ul li strong{
-  font-style: normal;
-  display: block;
-  font-weight: bold;
-  line-height: 1.25em;
-}
-
-ul li em img{
-  border:3px solid salmon;
-}
-
-ul li strong img,
-strong img{
-  height:120px;
-  width:auto;
-  overflow:hidden;
-}
 
 pre{
   background-color:white;
@@ -160,6 +119,7 @@ code{
   padding: 2px 7px;
   border: 1px solid salmon;
   margin: 0 2px;
+  font-family: "Courier New", courier, monospace;
 
   -moz-border-radius: 7px;
   -webkit-border-radius: 7px;
@@ -168,9 +128,6 @@ code{
 }
 
 @media screen and (max-width: 768px){
-  ul li{
-    width:100%;
-  }
   img{
     max-width:90%;
   }
@@ -181,22 +138,9 @@ code{
     width:90%;
   }
 
-
-  ul li img,
-  ul li blockquote{
-    width:500px;
-  }
-  ul li div{
-    min-width:500px;
-  }
   ul li embed,
   ul li object{
-    width:500px;
+    width:650px;
   }
 
-}
-
-/* hide captions */
-p strong{
-  display: none;
 }
