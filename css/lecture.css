@@ -147,12 +147,37 @@ pre code{
 }
 
 @media screen and (max-width: 768px){
-  ul li{
-    width:100%;
+  ul{
+    padding:0;
   }
+
+  p{
+    text-align: left;
+  }
+
+  h2{
+    margin-top:130px;
+  }
+
+  h3{
+    margin-top: 70px;
+    font-size:30px;
+    text-align: left;
+  }
+
   img{
     max-width:90%;
   }
+
+  ul li strong img,
+  strong img{
+    width:70%;
+    height:auto;
+    overflow:hidden;
+    text-align: center;
+    margin:30px auto 0;
+  }
+
 }
 
 @media screen and (min-width: 769px){

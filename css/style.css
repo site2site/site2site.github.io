@@ -70,3 +70,12 @@ select{
 #main select{
   margin-top:200px;
 }
+
+
+@media screen and (max-width: 768px){
+  #main{
+    padding:10px 0 150px;
+    width:90%;
+  }
+}
+
