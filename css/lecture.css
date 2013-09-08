@@ -152,6 +152,10 @@ pre code{
     padding:0;
   }
 
+  ul li{
+    text-align: center;
+  }
+
   p{
     text-align: left;
   }
