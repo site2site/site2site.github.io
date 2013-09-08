@@ -190,6 +190,11 @@ pre code{
     font-size: 16px;
   }
 
+  p img{
+    width:90%;
+    padding-left:5%;
+  }
+
 }
 
 @media screen and (min-width: 769px){
