@@ -7,6 +7,8 @@ lecture: 2_client_server
 ---
 ## The Web
 
+*	![Tim Berners-Lee's 1989 Proposal for the WorldWideWeb](http://info.cern.ch/images/proposal.gif)
+
 ### In 1989, Tim Berners-Lee proposed the WorldWideWeb as a means of organizing the documentation of the Large Hadron Collider (LHC) at CERN.
 
 ![Tim Berners-Lee WWW Browser/Editor](http://www.webassite.com/lectures/img/1989_NextEditorBW.gif)
@@ -21,11 +23,13 @@ lecture: 2_client_server
 
 ## Client-Server Model
 
-### Berners-Lee's WorldWideWeb used a client-server model
+### Berners-Lee's WorldWideWeb uses a client-server model.
 
 *   ![Client Server 2](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-2.gif)
 
-*   __The general idea is this: the Internet connects a client request to the server corresponding to the URL that sends the response that the browser renders as a web page__
+*   __General Idea__
+	
+	__The Internet connects a client request to the server corresponding to the URL that sends the response that the browser renders as a web page__
 
 *   ![Client Server 3](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-3.gif)
 
