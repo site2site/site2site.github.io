@@ -1,0 +1,15 @@
+h2{
+  margin:100px auto 0;
+  font-size:48px;
+  font-weight: bold;
+  line-height: 1.15em;
+  max-width:60%;
+  text-align: left;
+}
+
+
+a{
+  color:blue;
+  text-decoration: none;
+  border-bottom:3px dotted;
+}

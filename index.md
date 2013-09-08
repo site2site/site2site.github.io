@@ -4,4 +4,6 @@ title: Site to Site
 menu: about
 style: lecture
 ---
-### Site to Site will combine physical computing with online infrastructure to translate physical space. Translation here is understood spatially and linguistically, as both the transfer from one location to another, and the transfer of information from one communication system to another. The course will begin by translating physical space to the web in Session A, followed by translating from the web back to physical space in Session B in the form of a physical installation in New York. In order to qualify for Session B, “Site to Site - From Web to Site”, students must enroll in this course (Session A).
+### Site to Site is a collaborative effort to build a platform for architecture in a world of connected objects. Focused around a course taught at the Graduate School of Architecture, Planning and Preservation (GSAPP) at Columbia University, Site to Site is a collaborative effort that brings architects, urban planners and designers, preservationists, real estate developers, curators and historians together with other designers and technologists through an open source [Github organization](https://github.com/site2site).
+
+
