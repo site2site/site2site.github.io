@@ -3,7 +3,7 @@ layout: base
 style: assignment
 title: Site to Site | Assignment 1
 menu: assignment
-secondarymenu: 1
+assignment: 1
 ---
 # Assignment 1
 
