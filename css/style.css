@@ -36,6 +36,10 @@ body{
   line-height: 1em;
 }
 
+#title a{
+  color:white;
+}
+
 #title a,
 a#logo{
   text-decoration: none;
