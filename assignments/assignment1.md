@@ -5,8 +5,6 @@ title: Site to Site | Assignment 1
 menu: assignment
 assignment: 1
 ---
-# Assignment 1
-
 ## Service Signup
 
 Sign up for each service listed on the course wiki [Services](https://github.com/site2site/site2site.github.io/wiki/Services) page, if you don't already have an account. Send an email to [Troy](mailto:tct2003@columbia.edu) with your Github username once you have it and wait for him to respond that you have been added to the Site2Site organization.
