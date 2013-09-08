@@ -8,12 +8,10 @@ menu: intro
 
 ### This course will partner with the seminar, _Corporate Avant Garde_ (A6453)
 
-#### Note time change: 7-9pm Thursdays, 200 Buell
-
 *	![US Pavilion, Venice](http://photos.state.gov/libraries/italy/164264/Images_001_001/20130123venice500x234.jpg)
 *	![Venice Biennale map](http://universes-in-universe.org/var/storage/images/media/images/biennials/venice/2011/special_features/venues/970240-2-eng-GB/venues.gif)
 
-### to take a hypothetical construct as its object: an architecture office installed at the US Pavilion of the Venice Biennale this summer, Office_US_.
+### to take the same construct as our object: an architecture office installed at the US Pavilion of the Venice Biennale this summer, Office_US_.
 
 __This office will present a prototype for a new way of practicing architecture in terms of the design of the office environment, its programming, and the methodology and infrastructure for collaboration and design. We will restrict ourselves to technologies available to us right now that we aren't taking advantage of. The prototype will be inhabited by working architects over the course of the 6 month biennale, stress testing the ideas we will put forth not only in public, but admist the highest biannual concentration of architects.__
 
@@ -265,15 +263,3 @@ For example, the iPhone constitutes a platform, consisting of:
 *	__![Raquel Velez](https://si0.twimg.com/profile_images/3003501029/95174deb90dd9450c1f7815e0d364ea0.jpeg)__
 
 ### and open up the pedagogy of the course, from the lectures and tutorials to the syllabus itself.
-
-
-
-## Note the time change
-
-#### 7-9pm Thursdays in 200 Buell
-
-### Additional announcement to be made Thursday.
-
-
-
-
