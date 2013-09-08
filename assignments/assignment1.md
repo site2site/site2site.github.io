@@ -1,7 +1,9 @@
 ---
-layout: assignment
-title: Assignment 1
-assignment: 1
+layout: base
+style: assignment
+title: Site to Site | Assignment 1
+menu: assignment
+secondarymenu: 1
 ---
 # Assignment 1
 

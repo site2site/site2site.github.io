@@ -1,0 +1,181 @@
+h1{
+  margin:120px auto 0;
+  font-size:80px;
+  font-weight:bold;
+  line-height: 1.15em;
+}
+
+h2{
+  font-family: Monaco, monospace;
+  font-size: 30px;
+  font-weight: normal;
+  line-height: 1em;
+  color:salmon;
+  margin:160px auto 0;
+  max-width:650px;
+}
+
+h3{
+  margin:100px auto 0;
+  font-size:48px;
+  font-weight: bold;
+  line-height: 1.15em;
+}
+
+h4{
+  margin:20px auto 0;
+  font-size:16px;
+  font-weight: bold;
+  color:salmon;
+  line-height: 1.5em;
+  max-width: 650px;
+}
+
+
+h6{
+  font-family: Monaco, monospace;
+  font-size: 16px;
+  font-weight:normal;
+  line-height: 18px;
+  margin: 20px auto 0;
+}
+
+a#logo{
+  text-decoration: none;
+  border:none;
+}
+
+a{
+  color:blue;
+  text-decoration: none;
+  border-bottom:3px dotted;
+}
+
+.menu{
+  margin-bottom:20px;
+}
+
+p{
+  display: block;
+  margin:20px 0 0;
+}
+
+img,
+pre{
+  margin:80px 0 0;
+}
+
+.gist pre{
+  margin: 0;
+}
+
+p img{
+  margin-top:60px;/*minus the margin-top of p*/
+  max-width: 100%;
+}
+
+blockquote{
+  margin:100px auto 0;
+  font-size: 48px;
+  font-family:"Apercu Bold Italic", "Apercu", Calibri, sans-serif;
+  font-size-adjust:0.508;
+  font-weight:bold;
+  font-style:italic;
+  width:92%;
+  padding:4%;
+  color: salmon;
+}
+
+
+ul{
+  list-style: none;
+  text-align: center;
+}
+
+ul li{
+  display: inline-block;
+  margin-right:40px;
+  padding:0;
+  text-align: left;
+}
+
+ul li strong{
+  font-style: normal;
+  display: block;
+  font-weight: bold;
+  line-height: 1.25em;
+}
+
+ul li em img{
+  border:3px solid salmon;
+}
+
+ul li strong img,
+strong img{
+  height:120px;
+  width:auto;
+  overflow:hidden;
+}
+
+pre{
+  background-color:white;
+  -moz-box-shadow:    0 0 7px #ccc;
+  -webkit-box-shadow: 0 0 7px #ccc;
+  box-shadow:         0 0 7px #ccc;
+
+  font-family: "Courier New", courier, monospace;
+  font-size: 22px;
+  padding: 4%;
+  width: 92%;
+  text-align: left;
+}
+
+.gist{
+  margin-top:80px;
+}
+
+.gist pre{
+  background-color:inherit;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+pre code{
+  margin: 0 0 0 10%;
+  display: block;
+}
+
+@media screen and (max-width: 768px){
+  ul li{
+    width:100%;
+  }
+  img{
+    max-width:90%;
+  }
+}
+
+@media screen and (min-width: 769px){
+  h1,h2,h3,h4{
+    width:90%;
+  }
+
+
+  ul li img,
+  ul li blockquote{
+    width:500px;
+  }
+  ul li div{
+    min-width:500px;
+  }
+  ul li embed,
+  ul li object{
+    width:500px;
+  }
+
+}
+
+/* hide captions */
+p strong{
+  display: none;
+}

@@ -29,6 +29,11 @@
                 {% include menulecture.html %}
             {% endif %}
 
+            {% if page.menu == 'assignment' %}
+                {% assign assignment = page.assignment %}
+                {% include menuassignment.html %}
+            {% endif %}
+
         </header>
         <div id="main">
 
