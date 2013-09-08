@@ -2,6 +2,12 @@
   text-align: left;
   max-width: 650px;
   line-height: 1.75em;
+  font-size:18px;
+}
+
+h1, h2, h3, h4, h5, h6{
+  text-align: center;
+  color:salmon;
 }
 
 h1{
@@ -9,23 +15,20 @@ h1{
   font-size:80px;
   font-weight:bold;
   line-height: 1.15em;
-  text-align: center;
 }
 
 h2{
-  font-family: Monaco, monospace;
-  font-size: 30px;
+  font-size: 48px;
   font-weight: normal;
   line-height: 1em;
   color:salmon;
   margin:100px auto 0;
   max-width:650px;
-  text-align: center;
 }
 
 h3{
   margin:60px auto 0;
-  font-size:48px;
+  font-size:24px;
   font-weight: bold;
   line-height: 1.15em;
 }
@@ -56,7 +59,7 @@ a#logo{
 a{
   color:blue;
   text-decoration: none;
-  border-bottom:3px dotted;
+  border-bottom:2px dotted;
 }
 
 .menu{
@@ -142,5 +145,4 @@ code{
   ul li object{
     width:650px;
   }
-
 }
