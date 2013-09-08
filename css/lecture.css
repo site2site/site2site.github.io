@@ -194,7 +194,6 @@ pre code{
     width:90%;
   }
 
-
   ul li img,
   ul li blockquote{
     width:500px;
@@ -205,6 +204,10 @@ pre code{
   ul li embed,
   ul li object{
     width:500px;
+  }
+
+  ul li p strong{
+    width:250px;
   }
 
 }
