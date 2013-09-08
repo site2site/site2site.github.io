@@ -11,12 +11,12 @@ lecture: 2_client_server
 
 ### In 1989, Tim Berners-Lee proposed the WorldWideWeb as a means of organizing the documentation of the Large Hadron Collider (LHC) at CERN.
 
-![Tim Berners-Lee WWW Browser/Editor](http://www.webassite.com/lectures/img/1989_NextEditorBW.gif)
+*	![Tim Berners-Lee WWW Browser/Editor](http://www.webassite.com/lectures/img/1989_NextEditorBW.gif)
 
 ### It consisted of a browser/editor client that could render and edit the Hypertext Markup Language (HTML)
 
 
-![Tim Berners-Lee NeXT Server](http://www.webassite.com/lectures/img/1989_TBL_NeXT.jpg)
+*	![Tim Berners-Lee NeXT Server](http://www.webassite.com/lectures/img/1989_TBL_NeXT.jpg)
 
 ### and a server that would store the HTML files and send them to anyone on the internet with a browser/editor client who requested them.
 
