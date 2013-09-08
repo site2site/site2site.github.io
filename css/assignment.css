@@ -157,9 +157,14 @@ pre code{
 
 code{
   color: salmon;
-  background-color: whitesmoke;
   padding: 2px 7px;
-  border: 1px solid gray;
+  border: 1px solid salmon;
+  margin: 0 2px;
+
+  -moz-border-radius: 7px;
+  -webkit-border-radius: 7px;
+  border-radius: 7px;
+  
 }
 
 @media screen and (max-width: 768px){
