@@ -1,5 +1,6 @@
 #main{
   text-align: left;
+  max-width: 650px;
 }
 
 h1{
@@ -16,13 +17,13 @@ h2{
   font-weight: normal;
   line-height: 1em;
   color:salmon;
-  margin:160px auto 0;
+  margin:100px auto 0;
   max-width:650px;
   text-align: center;
 }
 
 h3{
-  margin:100px auto 0;
+  margin:60px auto 0;
   font-size:48px;
   font-weight: bold;
   line-height: 1.15em;
