@@ -5,13 +5,13 @@ style: lecture
 menu: lecture
 lecture: 1_markdown
 ---
-## Markup3
+## Markup
 
 ### HTML, Hypertext Markup Language, is the most popular example of a markup language.
 
 <script src="https://gist.github.com/troyth/6271084.js"></script>
 
-### It provides the structure for a web page by encapulating content in \<tags\>.
+### It provides the structure for a web page by encapsulating content in \<tags\>.
 
 ## Markdown
 
