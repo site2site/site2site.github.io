@@ -2,11 +2,13 @@ layout: app style: program title: Musical Stairs
 
 app: Musical Stairs
 
-Musical Stairs
+##Musical Stairs
+
+###Description
 
 Musical Stairs will play different sounds as you walk up and down stairs, in hopes of promoting exercise by encouraging people to use stairs more frequently. 
 
-Scenario
+###Scenario
 
 When someone ascends or descends the staircase, music will play. How fast someone walks and the intensity of the impact of the step will affect how fast and how loud the music plays, respectively. 
 
@@ -21,7 +23,7 @@ Attached is the illustrated scenario.
 
 
 
-Critique
+###Critique
 
 A classmate or instructor will add their notes here. For example:
 
