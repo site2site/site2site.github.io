@@ -1,22 +1,24 @@
 ---
 layout: base
 style: sensor
-title: Sensor Name
-sensor: Sensor Name
+title: Piezoelectric Sensor
+sensor: Piezoelectric Sensor
 ---
-##	Sensor Name
+##	Piezoelectric Sensor
 
-![Sensor Image](image url)
+![piezoelectric sensor](http://josephmalloch.files.wordpress.com/2010/01/piezo.jpg)
 
 Sensor Description
 
-Source: [Link](url)
+A piezoelectric sensor measures and converts both pressure and force to electric signals.
+
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Piezoelectric_sensor)
 
 
 
 ##### Specs
 
-*	cost per unit from [link]()
+*	$4.50 from Robotmesh.com [http://www.robotmesh.com/piezo-disk-vibration-sensor?gclid=CPmoxqrtvrkCFdSd4AodcTUAyw](http://www.robotmesh.com/piezo-disk-vibration-sensor?gclid=CPmoxqrtvrkCFdSd4AodcTUAyw)
 *	[Datasheet](url)
 
 
