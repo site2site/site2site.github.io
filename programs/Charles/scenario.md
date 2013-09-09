@@ -10,21 +10,18 @@ Musical Stairs will play different sounds as you walk up and down stairs, in hop
 
 Scenario
 
-An illustrated scenario of how your program/app will work either locally, connecting objects in one space, or globally, connecting objects in remotely distributed spaces.
+When someone ascends or descends the staircase, music will play. How fast someone walks and the intensity of the impact of the step will affect how fast and how loud the music plays, respectively. 
 
-Be sure to include:
+The setup requires placing pressure and acceleration-sensing piezoelectric sensors on each step of the staircase which will collect signals. The sensors will likely need to be embbeded beneath an ornamental element, such as a strip of tape or rug in order to function well. The sensors will detect the speed and force of the steps and send them as signals to an Arduino unit, which would route the electronic signals to the computer. A computer program - yet to be determined at this point - will translate the input signals from the sensor, which measured the force and impact of the individual steps, and output the melody through two stereo speakers at a speed and loudness level corresponding to the speed and pressure of the footsteps. 
 
-An image in the form of a diagram of how the objects will talk to one another
-A collage that helps to visualize the experience
-You can include images using the Markdown syntax like this:
 
-Image title
+Music stairs will offer the individual elements of control, participation and, hopefully, immense entertainment value that the he will choose to use the stairs over the elevator more often.
 
-Sub-Section
+Attached is the illustrated scenario.
 
-In case you need it, you can break up your scenario into sub-sections using the string of hash symbols as above: ###. You can use 1-6 hashes, with 1 being the biggest section header, and 6 being the smallest.
+![Musical Stairs illustrated scenario](https://www.facebook.com/photo.php?fbid=1924972494224&set=a.1924972374221.1073741828.1539480360&type=3&theater)
 
-You can also add a link like this.
+
 
 Critique
 
