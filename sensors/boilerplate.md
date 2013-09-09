@@ -10,7 +10,7 @@ sensor: Piezoelectric Sensor
 
 Sensor Description
 
-A piezoelectric sensor measures and converts both pressure and force to electric signals.
+A piezoelectric sensor measures and converts both pressure, force, and acceleration to electric signals.
 
 Source: [Wikipedia](http://en.wikipedia.org/wiki/Piezoelectric_sensor)
 
