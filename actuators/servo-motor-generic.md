@@ -7,7 +7,7 @@ sensor: Stereo Speaker
 
 ![Logitech S150 speakers](http://www.logitech.com/assets/20147/20147.png)
 
-This is a pair of USB stereo speaker. It is a basic set of speakers intended to delivery acoustic quality stereo sound. Power and connetivity are both delivered via a single USB cable. Frequency response range from 90 Hz - 20 kHz. The total RMS power is 1.2 watts RMS (0.6 watts per satellite).
+This is a pair of USB stereo speakers. It is a basic set of speakers intended to delivery acoustic quality stereo sound. Power and connetivity are both delivered via a single USB cable. Frequency response range from 90 Hz - 20 kHz. The total RMS power is 1.2 watts RMS (0.6 watts per satellite).
 
 Additional specifications may be found in the link below.
 
