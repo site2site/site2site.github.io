@@ -1,26 +1,24 @@
 ---
 layout: sensor
-title: Servo Motor Generic
-sensor: Servo Motor Generic
+title: Stereo Speaker
+sensor: Stereo Speaker
 ---
-##	Servo Motor Generic
+##	Stereo Speaker
 
-![Servo Motor Generic](https://dlnmh9ip6v2uc.cloudfront.net//images/products/9/0/6/5/09065-01a.jpg)
+![Logitech S150 speakers](http://www.logitech.com/assets/20147/20147.png)
 
-Here is a simple, low-cost, high quality servo for all your mechatronic needs. This servo is very similar in size and specifications to the Hitec HS-55. This little guy is able to take in 6 volts and deliver 20.8 oz-in. of maximum torque at 0.10 sec/60°
+This is a pair of USB stereo speaker. It is a basic set of speakers intended to delivery acoustic quality stereo sound. Power and connetivity are both delivered via a single USB cable. Frequency response range from 90 Hz - 20 kHz. The total RMS power is 1.2 watts RMS (0.6 watts per satellite).
 
-This small servo comes with a standard 3 pin power and control cable, and all hardware listed below.
+Additional specifications may be found in the link below.
 
-Note: This servo is rated for 180° rotation, but in actuality it only hits ~160°.
-
-Source: [Sparkfun](https://www.sparkfun.com/products/9065)
+Source: [Logitech](http://www.logitech.com/en-us/product/s150-speakers-business)
 
 
 
 ##### Specs
 
-*	$8.95/unit from [Sparkfun](https://www.sparkfun.com/products/9065)
-*	Sparkfun [Datasheet](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Robotics/Small%20Servo%20-%20ROB-09065.pdf)
+*	$15.49/unit from [Amazon](http://www.amazon.com/Logitech-S150-Speakers-Digital-Sound/dp/B000ZH98LU/ref=sr_1_1?ie=UTF8&qid=1378781184&sr=8-1&keywords=speakers+usb)
+
 
 
 
