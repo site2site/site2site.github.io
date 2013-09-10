@@ -1,10 +1,10 @@
 ---
 layout: app
 style: program
-title: Program/App Name
-app: Program/App Name
+title: Program/kcApp
+app: Program/kcApp
 ---
-##	Program/App Name
+##	Program/KC
 
 Description of your program/app in one sentence.
 
