@@ -10,7 +10,6 @@ lecture: 2_client_server
 ### The Internet and the Web are not the same.
 
 *	![Web-like Internet](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week2/imageOfTheInternet_650px.png)
-*	![Internet as pipes](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week2/internet_map_information_architects.png)
 
 ### The Web is an application of the Internet composed of a series of protocols, languages and applications, such as the browser.
 
