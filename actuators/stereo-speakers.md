@@ -11,7 +11,7 @@ This is a pair of USB stereo speakers. It is a basic set of speakers intended to
 
 Additional specifications may be found in the link below.
 
-Source: [Logitech](http://www.logitech.com/en-us/product/s150-speakers-business)
+Source: [Logitech S150](http://www.logitech.com/en-us/product/s150-speakers-business)
 
 
 
