@@ -30,6 +30,10 @@ A global network of interactive projected office spaces--in plan and elevation--
 
 ![Assignment 1.5](https://raw.github.com/cbadal/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-5.png)
 
+### Collage
+
+![Assignment 1.6](https://raw.github.com/cbadal/site2site.github.io/682b13f15bf0f62dd0d81d254b025c175425ac1d/programs/networked-individuals/images/S2S-Assignment-6.png)
+
 
 ## Critique
 
