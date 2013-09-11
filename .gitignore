@@ -4,3 +4,5 @@ _site/*
 .DS_Store
 
 programs/kcApp/.DS_Store
+
+programs/.DS_Store
