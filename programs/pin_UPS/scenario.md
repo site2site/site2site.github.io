@@ -18,7 +18,7 @@ You can include images using the Markdown syntax like this:
 
 Image title
 
-(https://raw.github.com/kjscities/site2site.github.io/master/programs/pin_UPS/images/DIAGRAM2.jpg)
+![Test Image](https://raw.github.com/kjscities/site2site.github.io/master/programs/pin_UPS/images/DIAGRAM2.jpg)
 
 Sub-Section
 
@@ -26,4 +26,4 @@ In case you need it, you can break up your scenario into sub-sections using the 
 
 You can also add a link like this.
  
- (https://raw.github.com/kjscities/site2site.github.io/master/programs/pin_UPS/images/COLLAGE2.jpg)
+![Test Image] (https://raw.github.com/kjscities/site2site.github.io/master/programs/pin_UPS/images/COLLAGE2.jpg)
