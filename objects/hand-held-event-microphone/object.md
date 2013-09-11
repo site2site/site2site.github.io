@@ -1,18 +1,12 @@
 ---
 layout: object
-title: Hand-held Event Microphone
+title: Color Plotter
 menu: objects
 ---
-# Hand-held Event Microphone
+# Color Plotter
 
 ## Description
 
-Description of the object
+A color plotter with a sensor on the interior.
 
-## Sensors
-
-*   [Thermistor](https://github.com/site2site/site2site.github.io/blob/master/sensors/thermistor.md)
-
-## Actuators
-
-
+![Test Image] (https://raw.github.com/kjscities/site2site.github.io/master/programs/pin_UPS/images/plotter.jpg)
