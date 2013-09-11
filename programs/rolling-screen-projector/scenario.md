@@ -6,27 +6,20 @@ app: Rolling Screen Project
 ---
 ##	Rolling Screen Project
 
-Description of your program/app in one sentence.
-
-
-## Scenario
-
 Sensors detect occupied workstations and project their desktops onto a large screen in the office, switching screens every 15 minutes.
 
-Be sure to include:
+## Scenario
+To promote productivity and collaboration, the progress of each person working at the office will be projected in the space for 15 minutes at intervals depending on the occupancy of the office.
 
-*   An image in the form of a diagram of how the objects will talk to one another
-*   A collage that helps to visualize the experience
 
-You can include images using the Markdown syntax like this:
+![Experience Collage](https://raw.github.com/dinamahmoud/site2site.github.io/master/programs/rolling-screen-projector/images/diagram.jpg)
 
-![Image title](http://placehold.it/500x350)
+![Experience Collage](https://raw.github.com/dinamahmoud/site2site.github.io/master/programs/rolling-screen-projector/images/output_cyE3bL.gif)
 
 ### Sub-Section
 
-In case you need it, you can break up your scenario into sub-sections using the string of hash symbols as above: \#\#\#. You can use 1-6 hashes, with 1 being the biggest section header, and 6 being the smallest.
-
-You can also add a [link](https://www.google.com/) like this.
+Motion sensors will detect which workstations are occupied, and will activate that station to be put in the projector queue.
+Every 15 minutes, the display will shift to the next workstation in the queue, projecting a live feed of their wdesktop.
 
 
 ## Critique
