@@ -21,11 +21,14 @@ Attached is the illustrated scenario.
 
 ![Musical Stairs illustrated scenario](https://raw.github.com/yz2428/site2site.github.io/master/images/assignment%2001-images/Musical%20Stairs.jpg)
 
-![collage] (https://raw.github.com/yz2428/site2site.github.io/master/images/assignment%2001-images/assignment%201%20collage.jpg)
+![collage](https://raw.github.com/yz2428/site2site.github.io/master/images/assignment%2001-images/assignment%201%20collage.jpg)
 
 ###Critique
 
-A classmate or instructor will add their notes here. For example:
+I like the simplicity of the program, where a non-calculated action (taking a step) produces a sensory response. I think the simplicity is a critical building point because it has room to be expanded/reworked/subverted as the research/experimentation continues. Some things to consider here:
+*	I'm not sure if there are steps within the Studio X NYC space (embarassingly, I've never been), so are there alternative places to integrate this experience?
+*	I think you could dive a little bit deeper into the program/app's effect on how people use the space. You touch on this with the hope that it leads to a preference of stairs over elevator, but I think the response to the sound will change over time as the novelty wears off. Will the musical steps be a sonic shaming if someone arrives late to lecture/symposium/workshop?
+*	Will the effect always maintain anonymity? Is it possible to have the sonic response essentially become a signature of an individual (where you can know who just walked in before you even see them)? Can the users personalize the sounds that accompany their footsteps?
+*	Is the response always immediate? Would it be possible to log the sensor's readings as a form of documenting an event? What could the value of that documentation be in an archival sense (if any)?
 
-Lorem ipsum you should check out Raphael Lozano-Hemmer's work, it's all about orchestration and shared experiences. Lorem ipsum, ipsum lorem.
-@troyth
+@jstoddart
