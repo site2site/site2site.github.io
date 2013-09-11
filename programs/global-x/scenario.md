@@ -4,7 +4,7 @@ style: program
 title: Program/App Name
 app: Program/App Name
 ---
-##	Program/App Name
+##	Global X
 
 I propose a device that would start out in one location and can later be implemented in other. At that point the locations will become interactive and integrated.
 
