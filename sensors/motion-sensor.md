@@ -1,25 +1,23 @@
 ---
 layout: base
 style: sensor
-title: Thermistor
-sensor: Thermistor
+title: Motion Sensor
+sensor: Motion Sensor
 ---
-##	Thermistor
+##	Motion Sensor
 
-![Thermistor](https://dlnmh9ip6v2uc.cloudfront.net//images/products/2/5/0/thermistor.jpg)
+[Motion Sensor](http://www.elecfreaks.com/store/images/product_images/Sensors/Object%20detection/Sensor_PIR_SR501_8.jpg)
 
-A thermistor is a type of resistor whose resistance varies significantly with temperature, more so than in standard resistors. The word is a portmanteau of thermal and resistor. Thermistors are widely used as inrush current limiters, temperature sensors, self-resetting overcurrent protectors, and self-regulating heating elements.  
+A motion detector is a device that detects moving objects, particularly people. A motion detector is often integrated as a component of a system that automatically performs a task or alerts a user of motion in an area. Motion detectors form a vital component of security, automated lighting control, home control, energy efficiency, and other useful systems. 
 
-Thermistors differ from resistance temperature detectors (RTD) in that the material used in a thermistor is generally a ceramic or polymer, while RTDs use pure metals. The temperature response is also different; RTDs are useful over larger temperature ranges, while thermistors typically achieve a higher precision within a limited temperature range, typically −90 °C to 130 °C.  
-
-Source: [Wikipedia](http://en.wikipedia.org/wiki/Thermistor)
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Motion_detector)
 
 
 
 ##### Specs
 
-*	$1.95/unit from [Sparkfun](https://www.sparkfun.com/products/250)
-*	Sparkfun [Datasheet](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/Temp/ntcle100.pdf)
+*	$9.95/unit from [Sparkfun](https://www.sparkfun.com/products/8630)
+*	Sparkfun [Datasheet](https://www.sparkfun.com/datasheets/Sensors/Proximity/SE-10.pdf)
 
 
 
