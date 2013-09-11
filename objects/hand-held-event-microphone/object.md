@@ -1,18 +1,14 @@
 ---
 layout: object
-title: Hand-held Event Microphone
+title: Staircase
 menu: objects
 ---
-# Hand-held Event Microphone
+# Staircase
 
 ## Description
 
-Description of the object
+Staircase is a construction element which links two different vertical levels of surfaces, by dividing the distance into smaller vertical increments. 
 
-## Sensors
 
-*   [Thermistor](https://github.com/site2site/site2site.github.io/blob/master/sensors/thermistor.md)
-
-## Actuators
 
 
