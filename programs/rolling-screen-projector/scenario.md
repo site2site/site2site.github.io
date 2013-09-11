@@ -14,7 +14,7 @@ To promote productivity and collaboration, the progress of each person working a
 
 ![Experience Collage](https://raw.github.com/dinamahmoud/site2site.github.io/master/programs/rolling-screen-projector/images/diagram.jpg)
 
-![Experience Collage](https://raw.github.com/dinamahmoud/site2site.github.io/master/programs/rolling-screen-projector/images/output_cyE3bL.gif)
+![Experience Collage](https://raw.github.com/dinamahmoud/site2site.github.io/master/programs/rolling-screen-projector/images/output_nOK5Aa.gif)
 
 ### Sub-Section
 
