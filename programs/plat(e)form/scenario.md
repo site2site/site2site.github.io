@@ -11,23 +11,23 @@ PLATeFORM removes the middle-man to allow the physical surface on which architec
 
 ## Scenario
 
-![Current surfaces](http://farm6.staticflickr.com/5523/9722011812_dc7cdb9f3d_b.jpg)
+![Current surfaces](programs/plat(e)form/images/PLATeFORM concept diagrams-01.jpg)
 
 Contemporary architecture practice demands a  continuous fluency across digital and physical media and platforms.
   
-![New surface](http://farm8.staticflickr.com/7438/9718784741_342290e169_b.jpg)
+![New surface](programs/plat(e)form/images/PLATeFORM concept diagrams-02.jpg)
 
 What if we could remove the middle man and have all of this media exist in the same plane?
   
-![New interactions](http://farm4.staticflickr.com/3765/9718784739_c0b821deca_b.jpg)
+![New interactions](programs/plat(e)form/images/PLATeFORM concept diagrams-03.jpg)
 
 And what if that same surface allowed for realtime interaction across physical space?
   
-![Hardware stack](http://farm8.staticflickr.com/7313/9722011834_2c06be5dea_b.jpg)
+![Hardware stack](programs/plat(e)form/images/PLATeFORM concept diagrams-04.jpg)
 
 PLATeFORM enables low tech hardware to completely remove any line between physical and virtual, individual and collective.
   
-![PLATe Montage](http://farm6.staticflickr.com/5539/9718937823_3360ad731c_k.jpg)
+![PLATe Montage](programs/plat(e)form/images/PLATeFORM montage.jpg)
 
 
 
