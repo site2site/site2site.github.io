@@ -18,15 +18,29 @@ Be sure to include:
 *   An image in the form of a diagram of how the objects will talk to one another
 *   A collage that helps to visualize the experience
 
-You can include images using the Markdown syntax like this:
+---
+layout: app
+style: program
+title: Creative Surveillance
+app: Creative Surveillance
+---
+##	Creative Surveillance
 
-![Image title](http://placehold.it/500x350)
+Creative Surveillance will detect activity in any Studio-X location around the world using a motion sensor and simultaneously project a video feed of activity there onto a wall in the other Studio-X locations.
 
-### Sub-Section
 
-In case you need it, you can break up your scenario into sub-sections using the string of hash symbols as above: \#\#\#. You can use 1-6 hashes, with 1 being the biggest section header, and 6 being the smallest.
+## Scenario
 
-You can also add a [link](https://www.google.com/) like this.
+When a Studio-X space is occupied during a lecture, workshop, or other event, the arduino will receive informatino from one or more motion sensors in the location and prompt a video camera to start recording the room. A Raspberry Pi computer connected to the internet will relay the feed in real time to other Studio-X spaces around the globe, where a counterpart setup will play the video live on a wall by controlling a ceiling- or wall-mounted projector.
+
+Depending on the camera, occupants of one space could [zoom, focus, and record](http://controlyourcamera.blogspot.com/2011/02/arduino-powered-lanc-remote.html) remotely for playback later. It would also be possible to connect the arduino to use a [video experimenter shield](http://nootropicdesign.com/ve/index.html) connecter to a joystick/controller to overlay graphics onto the video feed.
+
+
+![diagram](http://placehold.it/500x350)
+
+
+![diagram](http://placehold.it/500x350)
+
 
 
 ## Critique
