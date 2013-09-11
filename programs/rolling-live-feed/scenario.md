@@ -13,9 +13,9 @@ To promote productivity and collaboration, the desktop of each person working at
 This can be done locally within a single office, or across multiple international workspaces.
 
 
-![Experience Collage](https://raw.github.com/dinamahmoud/site2site.github.io/master/programs/rolling-screen-projector/images/diagram.jpg)
+![Experience Collage](https://raw.github.com/dinamahmoud/site2site.github.io/master/programs/rolling-live-feed/images/diagram.jpg)
 
-![Experience Collage](https://raw.github.com/dinamahmoud/site2site.github.io/master/programs/rolling-screen-projector/images/output_nOK5Aa.gif)
+![Experience Collage](https://raw.github.com/dinamahmoud/site2site.github.io/master/programs/rolling-live-feed/images/output_nOK5Aa.gif)
 
 ### Sub-Section
 
