@@ -2,7 +2,7 @@ pin_UPS/senerio.md
 
 app: pin_UPS
 
-###pin_UPS
+##pin_UPS
 
 #Description
 
@@ -18,5 +18,5 @@ When an employee of the office prints on a certain printer, part of a wall will 
 
 The interior of each part of the wall will probably have a flexable framework that would rotate when provoked in order to change the panels. The program will provide a greater level of interaction and transformability to the interior office space. 
 
- #Idea
+#Idea
 ![Test Image] (https://raw.github.com/kjscities/site2site.github.io/master/programs/pin_UPS/images/COLLAGE2.jpg)
