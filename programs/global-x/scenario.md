@@ -1,8 +1,8 @@
 ---
 layout: app
 style: program
-title: Program/App Name
-app: Program/App Name
+title: Global X
+app: Global X
 ---
 ##	Global X
 
@@ -11,9 +11,18 @@ I propose a device that would start out in one location and can later be impleme
 
 ## Scenario
 
-This device would be able to control lights, moisture, conditioner, heat, it would also control sound and video. In a way I imagine a “smart house” without the stack of servers if that is possible. This device would allow for these things to be controlled by apps of programs as well as sensors such as: if you turn on the projector, the lights go off. If you have a screening, the other studio X location will display it automatically. When the first person enters a room, the coffee machine starts. There would be sensors that can read moisture, temperature and light.
+When the first person enters a room, the coffee machine starts.
 
-![Cat](https://raw.github.com/mashalusha/site2site.github.io/master/programs/global-x/images/cats.jpg)
+## Narrative
+
+The door will have a motion sensor that will be able to tell if someone enters the room. If there is no one in the room the sensor will send a signal to the coffee machine and the coffee will start. Entering a room is an important part of experienceing an architectural space. Coffee in a studio X location is the fuel that runds the creative group.
+
+## Objects
+
+The scenario needs a person, a door, a motion sensor and a coffee machine. 
+
+![DIAGRAM](https://raw.github.com/mashalusha/site2site.github.io/master/programs/global-x/images/diagram%20coffee.jpg)
+
 
 
 ## Critique
