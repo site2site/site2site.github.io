@@ -20,7 +20,7 @@ Hot Spot identifies areas of greatest activity (and heat) to direct air flow and
  This setup can be employed solo or in an array formation, to maintain comfort, civility, and productivity.
 
 ![Hot Spot - Collage](https://github.com/jstoddart/site2site.github.io/blob/master/programs/hot-spot/images/hotspot_collage.png?raw=true)
-Be sure to include:
+
 
 
 ## Critique
