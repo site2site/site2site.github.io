@@ -21,13 +21,7 @@ Studio X becomes a space of overlapping events.
 
 
 ![Image title](https://raw.github.com/kamillacsegzi/site2site.github.io/master/programs/kcApp/images/24-01.jpg)
-![Image title](https://raw.github.com/kamillacsegzi/site2site.github.io/master/programs/kcApp/images/24-01.jpg)
-
-### Sub-Section
-
-In case you need it, you can break up your scenario into sub-sections using the string of hash symbols as above: \#\#\#. You can use 1-6 hashes, with 1 being the biggest section header, and 6 being the smallest.
-
-You can also add a [link](https://www.google.com/) like this.
+![Image title](https://raw.github.com/kamillacsegzi/site2site.github.io/master/programs/kcApp/images/24-02.jpg)
 
 
 ## Critique
