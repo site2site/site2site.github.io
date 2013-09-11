@@ -20,16 +20,8 @@ Example scenario: - 08:00PM - Beijing - Lecture - panels (furniture) arranged ac
 Studio X becomes a space of overlapping events.                  
 
 
-An illustrated scenario of how your program/app will work either locally, connecting objects in one space, or globally, connecting objects in remotely distributed spaces.
-
-Be sure to include:
-
-*   An image in the form of a diagram of how the objects will talk to one another
-*   A collage that helps to visualize the experience
-
-You can include images using the Markdown syntax like this:
-
-![Image title](http://placehold.it/500x350)
+![Image title](https://raw.github.com/kamillacsegzi/site2site.github.io/master/programs/kcApp/images/24-01.jpg)
+![Image title](https://raw.github.com/kamillacsegzi/site2site.github.io/master/programs/kcApp/images/24-01.jpg)
 
 ### Sub-Section
 
