@@ -1,20 +1,22 @@
 ---
 layout: app
 style: program
-title: Program/J.O.E
-app: Program/J.O.E
+title: Program/joe
+app: Program/joe
 ---
-##	Program/J.O.E
+##	Program/joe
 
-[Joint. Office. Energy.] A cup of coffee fueled by office #votership. 
+[joint. office. energy.] A cup of coffee fueled by office #votership. 
 
 ## Scenario
 
-An office seeks to achieve efficiency of workflow and production, why shouldn't its appliances do the same? J.O.E. creates a need-based coffee machine to provide workers with coffee when they need it, while insuring that they receive just as much as they order. This method attempts to address (and reduce) excess coffee production, only 'running' once the machine has received a threshold of #votes. 
+j.o.e. creates a need-based coffee machine. Providing workers with coffee while insuring that they receive just as much as is ordered. This method attempts to address (and reduce) excess coffee production, only running once the machine has received a threshold of #votes. 
 
-![Diagram of Process](http://transit4.cargocollective.com/1/2/85269/6325473/JOE_01-01.jpg)
+![Diagram of Process](http://payload201.cargocollective.com/1/2/85269/6325473/JOE_01-01.jpg)
 
-A hashtag function would allow the coffee machine to process a certain number of votes (say 8 votes = 8 cups of coffee.) While this process is at first more interactive locally, there is potential for this to become a globalized interaction. Where a client abroad could 'pay' for or 'support' coffee / tea use during a deadline. This could become an opportunity for sponsorhip, where you could offer a cup of coffee to start-up offices that might not be otherwise able to afford one.  
+![Global](http://payload201.cargocollective.com/1/2/85269/6325473/JOE_collage_2.jpg)
+
+A hashtag function delivered through Twitter or Facebook would allow the coffee machine to process a certain number of votes (say 8 votes = 8 cups of coffee.) While this process is at first interactive locally, there is potential for this framework to become a globalized interaction. A client abroad could 'support' coffee or tea use during an impending deadline. This relationship might become an opportunity for sponsorship or certain incentives, where one might act as a sponsor, offering cups of coffee to start-up offices that might not be otherwise able to afford one.  
 
 ## Critique
 
