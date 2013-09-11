@@ -6,32 +6,34 @@ app: Networked Individuals
 ---
 ##	Networked Individuals
 
-Description of your program/app in one sentence.
-
+A global network of interactive projected office spaces--in plan and elevation--acting as a visual, real-time interface between Studio-X locations and visitors on the web. 
 
 ## Scenario
 
-An illustrated scenario of how your program/app will work either locally, connecting objects in one space, or globally, connecting objects in remotely distributed spaces.
+### Sources
 
-Be sure to include:
+![Assignment 1.1](https://raw.github.com/cbadal/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-1.png)
 
-*   An image in the form of a diagram of how the objects will talk to one another
-*   A collage that helps to visualize the experience
+### Tools
 
-You can include images using the Markdown syntax like this:
+![Assignment 1.2](https://raw.github.com/cbadal/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-2.png)
 
-![Image title](http://placehold.it/500x350)
+### Interface Nodes
 
-### Sub-Section
+![Assignment 1.3](https://raw.github.com/cbadal/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-3.png)
 
-In case you need it, you can break up your scenario into sub-sections using the string of hash symbols as above: \#\#\#. You can use 1-6 hashes, with 1 being the biggest section header, and 6 being the smallest.
+### Functionality
+
+![Assignment 1.4](https://raw.github.com/cbadal/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-4.png)
+
+### Network
+
+![Assignment 1.5](https://raw.github.com/cbadal/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-5.png)
+
 
 You can also add a [link](https://www.google.com/) like this.
 
 
 ## Critique
 
-A classmate or instructor will add their notes here. For example:
 
-Lorem ipsum you should check out [Raphael Lozano-Hemmer's](http://www.lozano-hemmer.com/) work, it's all about orchestration and shared experiences. Lorem ipsum, ipsum lorem.  
-@troyth
