@@ -4,11 +4,13 @@ app: pin_UPS
 
 pin_UPS
 
-This app changes a space of the office into a pin-up condusive spaces, using the printer as an intigator.
+##Description
 
-Scenario
+This app changes a space of the office into a pin-up condusive space, using the printer as an intigator.
 
-An illustrated scenario of how your program/app will work either locally, connecting objects in one space, or globally, connecting objects in remotely distributed spaces.
+##Scenario
+
+When an employee of the office prints on a certain printer, part of a wall will "flip" in segments to provide a surface to pin up on (with pins provided!). The printers will be embeded with a piezpelectric sensor and will react to the number of pages being printed in order to transform the right size of the wall. From here, the sensor will transmit this information to the office's cloud and then to the connector behind the wall. A computer program will have to translate the export signals from the printer to the wall structure. The program will provide a greater level of interaction and transformability to the interior office space. 
 
 Be sure to include:
 
