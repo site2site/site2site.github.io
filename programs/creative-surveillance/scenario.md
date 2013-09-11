@@ -36,10 +36,10 @@ When a Studio-X space is occupied during a lecture, workshop, or other event, th
 Depending on the camera, occupants of one space could [zoom, focus, and record](http://controlyourcamera.blogspot.com/2011/02/arduino-powered-lanc-remote.html) remotely for playback later. It would also be possible to connect the arduino to use a [video experimenter shield](http://nootropicdesign.com/ve/index.html) connecter to a joystick/controller to overlay graphics onto the video feed.
 
 
-![diagram](http://placehold.it/500x350)
+![diagram](https://raw.github.com/site2site/site2site.github.io/master/programs/creative-surveillance/images/diagram.jpg)
 
 
-![diagram](http://placehold.it/500x350)
+![collage](https://raw.github.com/site2site/site2site.github.io/master/programs/creative-surveillance/images/collage.jpg)
 
 
 
