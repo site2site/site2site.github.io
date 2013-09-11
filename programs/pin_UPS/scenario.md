@@ -6,7 +6,7 @@ app: pin_UPS
 
 ##Description
 
-This app changes a space of the office into a pin-up condusive space, using the printer as an intigator.
+This app changes a space of the office into a pin-up condusive space, using the printer as an instigator.
 
 ##Scenario
 
