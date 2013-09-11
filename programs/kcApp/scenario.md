@@ -1,15 +1,24 @@
 ---
-layout: app
-style: program
-title: Program/kcApp
-app: Program/kcApp
+24H
+app: 24H
 ---
-##	Program/KC
+##	24H - Insomnia
 
-Description of your program/app in one sentence.
+'The basic concept is extremely simple: an open space of collaborative work and exchange of ideas.' Mark Wigley
 
 
 ## Scenario
+The system embraces the core idea behind the Studio X Golbal - open platforms for creativity and communication interconected between each other.
+'Not a school, think-tank, gallery, performance space, communication center, or office–but elements of all.
+Studio-X is an open flexible work area with exhibition space, book gallery, lecture space, meeting space, some offices and a serious espresso machine...'
+The space is a system of modules (furniture, panles, canvas etc.) that can move along predifined axes according to the different functions.
+It is controled locally and globally through an App. 
+
+Example scenario: - 08:00PM - Beijing - Lecture - panels (furniture) arranged accordinlgy: open space, projection
+                  - 08:00AM - NYC - office - decides to join the lecture - by selecting the 'Join' option, the space rearranges
+                  
+Studio X becomes a space of overlapping events.                  
+
 
 An illustrated scenario of how your program/app will work either locally, connecting objects in one space, or globally, connecting objects in remotely distributed spaces.
 
