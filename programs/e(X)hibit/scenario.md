@@ -14,15 +14,9 @@ Description of your program/app in one sentence.
 Designer can upload their new designs (progress/product) to a dropbox, and which will be distributed to and shown in all of Studio Xs, by an exhibition display on site. Critics or visitors can comment on an input device which send them to the author.  
 
 
+![Diagram](https://raw.github.com/weimpromptu/site2site.github.io/033dc69da802a92a9339e7c70dc12792adee7d55/programs/e(X)hibit/wh/images/diagram1.png)
 
-Be sure to include:
-
-*   An image in the form of a diagram of how the objects will talk to one another
-*   A collage that helps to visualize the experience
-
-You can include images using the Markdown syntax like this:
-
-![Image title](http://placehold.it/500x350)
+![Collage](https://raw.github.com/weimpromptu/site2site.github.io/033dc69da802a92a9339e7c70dc12792adee7d55/programs/e(X)hibit/wh/images/scenario1.jpg)
 
 ### Sub-Section
 
