@@ -19,10 +19,7 @@ Designer can upload their new designs (progress/product) to a dropbox, and which
 ![Collage](https://raw.github.com/weimpromptu/site2site.github.io/033dc69da802a92a9339e7c70dc12792adee7d55/programs/e(X)hibit/wh/images/scenario1.jpg)
 
 ### Sub-Section
-
-In case you need it, you can break up your scenario into sub-sections using the string of hash symbols as above: \#\#\#. You can use 1-6 hashes, with 1 being the biggest section header, and 6 being the smallest.
-
-You can also add a [link](https://www.google.com/) like this.
+ 
 
 
 ## Critique
