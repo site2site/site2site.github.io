@@ -14,7 +14,7 @@ W.W.M (Work With Me) is a webased platform that connects essential furnitures an
 Every member of the office is connected via phone app into the space. Each work furniture has a sensor and an ID correlating to the individual who uses it. Data is organized on the website and displayed in an interface that allows members from other offices visualize the environment. Members are pinged to update their status/message to broadcasted globally. 
 
 
-![web based interface map](https://raw.github.com/kjscities/site2site.github.io/master/programs/work_with_me/images/interfacemap.jpg)
+![web based interface map](https://raw.github.com/site2site/site2site.github.io/master/programs/work_with_me/images/interfacemap.jpg)
 
 ![diagram](https://raw.github.com/kjscities/site2site.github.io/master/programs/work_with_me/images/diagram.jpg)
 
