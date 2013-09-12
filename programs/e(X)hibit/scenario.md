@@ -16,7 +16,7 @@ Designer can upload their new designs (progress/product) to a dropbox, and which
 
 ![Diagram](https://raw.github.com/weimpromptu/site2site.github.io/d3a586462806a3a8d142e6c14c7a43560693db11/programs/e(X)hibit/wh/images/diagram1.png)
 
-![Collage](https://raw.github.com/weimpromptu/site2site.github.io/d3a586462806a3a8d142e6c14c7a43560693db11/programs/e(X)hibit/wh/images/scenario1.jpg)
+![Collage](programs/e(X)hibit/images/scenario1.jpg)
 
 ### Sub-Section
  
