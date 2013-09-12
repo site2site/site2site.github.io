@@ -25,7 +25,4 @@ Every 15 minutes, the display will shift to the next workstation in the queue, p
 
 ## Critique
 
-A classmate or instructor will add their notes here. For example:
-
-Lorem ipsum you should check out [Raphael Lozano-Hemmer's](http://www.lozano-hemmer.com/) work, it's all about orchestration and shared experiences. Lorem ipsum, ipsum lorem.  
-@troyth
+This is interessting, but maybe you can have a sensor that would detect a certain software they are using, to make sure they are being productive at the time of the projection. Otherwise they might be productiove, just because they are paranoid that someone might read their email. 
