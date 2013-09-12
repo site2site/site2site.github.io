@@ -9,6 +9,8 @@ app: PLATeFORM
 PLATeFORM removes the middle-man to allow the physical surface on which architects work individually to actually become the environment in which work is produced and provides a digital and physical space for collaborative work.
 
 
+I live at \#12
+
 ## Scenario
 
 ![Current surfaces](https://raw.github.com/site2site/site2site.github.io/master/programs/plat\(e\)form/images/PLATeFORM%20concept%20diagrams-01.jpg)
