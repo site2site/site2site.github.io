@@ -11,7 +11,7 @@ PLATeFORM removes the middle-man to allow the physical surface on which architec
 
 ## Scenario
 
-![Current surfaces](programs/plat(e)form/images/PLATeFORM concept diagrams-01.jpg)
+![Current surfaces](https://raw.github.com/site2site/site2site.github.io/master/programs/plat(e)form/images/PLATeFORM%20concept%20diagrams-01.jpg)
 
 Contemporary architecture practice demands a  continuous fluency across digital and physical media and platforms.
   
