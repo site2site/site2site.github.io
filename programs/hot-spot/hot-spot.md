@@ -4,7 +4,7 @@ style: program
 title: Hot Spot
 app: Hot Spot
 ---
-##	Program/App Name
+##	Hot Spot
 
 Hot Spot identifies areas of greatest activity (and heat) to direct air flow and maintain a comfortable working environment.
 
