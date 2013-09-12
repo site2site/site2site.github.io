@@ -27,7 +27,5 @@ The scenario needs a person, a door, a motion sensor and a coffee machine.
 
 ## Critique
 
-A classmate or instructor will add their notes here. For example:
-
-Lorem ipsum you should check out [Raphael Lozano-Hemmer's](http://www.lozano-hemmer.com/) work, it's all about orchestration and shared experiences. Lorem ipsum, ipsum lorem.  
-@troyth
+Great idea, I would just add some more conditions which define in which circumstances exactly the machine will start. Does it only start when the first person of the day enters (if the room is previously empty) or is there a way to start it as each separate person enters the room for that day.
+@dinamahmoud
