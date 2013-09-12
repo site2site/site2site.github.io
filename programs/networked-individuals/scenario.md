@@ -33,4 +33,5 @@ A global network of interactive projected office spaces--in plan and elevation--
 
 ## Critique
 
+This is a wonderful start! One suggestion I have is that I think video feeds should be supplemented with a voice component. Your idea is essentially office Skype. I would like to see the program/app be somehow connected to/integrated with Skype that when you turn on the projector for collaboration, you are then automatically connected, with live sound and video feed. Excited to see the project develop further! @yz2428 
 
