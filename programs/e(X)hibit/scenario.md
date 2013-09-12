@@ -11,6 +11,7 @@ Description of your program/app in one sentence.
 
 ## Scenario
 
+this is bullshit
 Designer can upload their new designs (progress/product) to a dropbox, and which will be distributed to and shown in all of Studio Xs, by an exhibition display on site. Critics or visitors can comment on an input device which send them to the author.  
 
 
