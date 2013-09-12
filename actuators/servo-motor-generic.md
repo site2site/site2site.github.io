@@ -1,26 +1,22 @@
 ---
 layout: sensor
-title: Servo Motor Generic
-sensor: Servo Motor Generic
+title: Stepping Rotary Actuator
+sensor: Stepping Rotary Actuator
 ---
-##	Servo Motor Generic
+##	Stepping Rotary Actuator
 
-![Servo Motor Generic](https://dlnmh9ip6v2uc.cloudfront.net//images/products/9/0/6/5/09065-01a.jpg)
+![Steeping Rotary Actuator](http://www.airoil.com/uploads/assets/product_images/tolomatic_pneumatic_rodless_products-vrx_pneumatic_rotary_actuator.jpg)
 
-Here is a simple, low-cost, high quality servo for all your mechatronic needs. This servo is very similar in size and specifications to the Hitec HS-55. This little guy is able to take in 6 volts and deliver 20.8 oz-in. of maximum torque at 0.10 sec/60°
+This is a simple stepping rotating actuator provides torque to rotate a shaft at a angle. It has no ability to slow or stop its load, so it will stop at a point by other forces.
 
-This small servo comes with a standard 3 pin power and control cable, and all hardware listed below.
-
-Note: This servo is rated for 180° rotation, but in actuality it only hits ~160°.
-
-Source: [Sparkfun](https://www.sparkfun.com/products/9065)
+Source: [Rotomation](http://www.rotomation.com/)
 
 
 
 ##### Specs
 
-*	$8.95/unit from [Sparkfun](https://www.sparkfun.com/products/9065)
-*	Sparkfun [Datasheet](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Robotics/Small%20Servo%20-%20ROB-09065.pdf)
+*	Max Working Pressure psi: 150
+*	Rotomation [Datasheet](http://www.rotomation.com/s1.htm)
 
 
 
