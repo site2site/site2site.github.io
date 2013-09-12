@@ -26,3 +26,5 @@ Every 15 minutes, the display will shift to the next workstation in the queue, p
 ## Critique
 
 This is interessting, but maybe you can have a sensor that would detect a certain software they are using, to make sure they are being productive at the time of the projection. Otherwise they might be productiove, just because they are paranoid that someone might read their email. 
+
+@mashalusha
