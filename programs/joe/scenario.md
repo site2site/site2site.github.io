@@ -20,7 +20,5 @@ A hashtag function delivered through Twitter or Facebook would allow the coffee 
 
 ## Critique
 
-A classmate or instructor will add their notes here. For example:
-
-Lorem ipsum you should check out [Raphael Lozano-Hemmer's](http://www.lozano-hemmer.com/) work, it's all about orchestration and shared experiences. Lorem ipsum, ipsum lorem.  
-@troyth
+I like the idea of this program and that it can be local as well as global. I do like your first idea that it could also be tied to body language/position although it would be harder to gauge personal habits vs. tiredness. You might want to look at making this a french press if you want more of a challenge. 
+-kjscities
