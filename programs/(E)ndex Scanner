@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 (E)ndex Scanner
@@ -8,6 +9,21 @@ of information collected by the studios. The user can choose an area, scan it an
 Additionally he can choose to visualize certain design proposals which can be projected on the model.
 
 
+=======
+(E)ndex Scanner
+
+
+
+Scenario
+
+The idea is to rethink the architectural models and the the way that we store the information. The model will act as archive
+of informations collected by the studios. The user can choose an area, scan it and view the information collected for this site.
+Additionally he can choose to visualize certain design proposals which can be projected on the model.
+
+
+
+
+>>>>>>> pr/31
 Critique
 
 A classmate or instructor will add their notes here. For example:
