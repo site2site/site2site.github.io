@@ -10,8 +10,8 @@ The idea is to rethink the architectural models and the the way that we store an
 of information collected by the studios. The user can choose an area, scan it and view the information collected for this site.
 Additionally he can choose to visualize certain design proposals which can be projected on the model.
 
-![1](https://raw.github.com/site2site/site2site.github.io/master/programs/(E)ndex-Scanner/image/(E)ndex%20Scanner1.jpg)
-![2](https://raw.github.com/site2site/site2site.github.io/master/programs/(E)ndex-Scanner/image/(E)ndex%20Scanner2.jpg)
+![1](https://raw.github.com/site2site/site2site.github.io/master/programs/\(E\)ndex-Scanner/image/(E)ndex%20Scanner1.jpg)
+![2](https://raw.github.com/site2site/site2site.github.io/master/programs/\(E\)ndex-Scanner/image/(E)ndex%20Scanner2.jpg)
 
 
 ## Scenario
