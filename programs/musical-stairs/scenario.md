@@ -19,9 +19,9 @@ Music stairs will offer the individual elements of control, participation and, h
 
 Attached is the illustrated scenario.
 
-![Musical Stairs illustrated scenario](https://raw.github.com/yz2428/site2site.github.io/master/images/assignment%2001-images/Musical%20Stairs.jpg)
+![Musical Stairs illustrated scenario](https://raw.github.com/site2site/site2site.github.io/master/images/assignment%2001-images/Musical%20Stairs.jpg)
 
-![collage](https://raw.github.com/yz2428/site2site.github.io/master/images/assignment%2001-images/assignment%201%20collage.jpg)
+![collage](https://raw.github.com/site2site/site2site.github.io/master/images/assignment%2001-images/assignment%201%20collage.jpg)
 
 ###Critique
 
