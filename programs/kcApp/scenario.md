@@ -20,8 +20,8 @@ Example scenario: - 08:00PM - Beijing - Lecture - panels (furniture) arranged ac
 Studio X becomes a space of overlapping events.                  
 
 
-![Image title](https://raw.github.com/kamillacsegzi/site2site.github.io/master/programs/kcApp/images/24-01.jpg)
-![Image title](https://raw.github.com/kamillacsegzi/site2site.github.io/master/programs/kcApp/images/24-02.jpg)
+![Image title](https://raw.github.com/site2site/site2site.github.io/master/programs/kcApp/images/24-01.jpg)
+![Image title](https://raw.github.com/site2site/site2site.github.io/master/programs/kcApp/images/24-02.jpg)
 
 
 ## Critique
