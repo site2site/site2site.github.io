@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Site to Site | Research Examples
-style: lecture
+style: assignment
 menu: research
 lecture: examples
 ---
