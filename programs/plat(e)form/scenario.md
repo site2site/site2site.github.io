@@ -17,7 +17,7 @@ I live at \#12
 
 Contemporary architecture practice demands a  continuous fluency across digital and physical media and platforms.
   
-![New surface](programs/plat(e)form/images/PLATeFORM concept diagrams-02.jpg)
+![New surface](programs/plat\(e\)form/images/PLATeFORM concept diagrams-02.jpg)
 
 What if we could remove the middle man and have all of this media exist in the same plane?
   
