@@ -21,7 +21,7 @@ The door will have a motion sensor that will be able to tell if someone enters t
 
 The scenario needs a person, a door, a motion sensor and a coffee machine. 
 
-![DIAGRAM](https://raw.github.com/mashalusha/site2site.github.io/master/programs/global-x/images/diagram%20coffee.jpg)
+![DIAGRAM](https://raw.github.com/site2site/site2site.github.io/master/programs/global-x/images/diagram%20coffee.jpg)
 
 
 
