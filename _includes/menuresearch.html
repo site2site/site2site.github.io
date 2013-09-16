@@ -1,0 +1,5 @@
+<div class="menu">
+    <select onchange="window.open(this.options[this.selectedIndex].value,'_top')">
+        <option {% if lecture == 'examples' %}selected="selected" {% endif %}value="/research/examples.html">Examples</option>
+    </select>
+</div>
