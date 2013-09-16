@@ -12,27 +12,27 @@ A global network of interactive projected office spaces--in plan and elevation--
 
 ### Sources
 
-![Assignment 1.1](https://raw.github.com/cbadal/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-1.png)
+![Assignment 1.1](https://raw.github.com/site2site/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-1.png)
 
 ### Tools
 
-![Assignment 1.2](https://raw.github.com/cbadal/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-2.png)
+![Assignment 1.2](https://raw.github.com/site2site/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-2.png)
 
 ### Interface Nodes
 
-![Assignment 1.3](https://raw.github.com/cbadal/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-3.png)
+![Assignment 1.3](https://raw.github.com/site2site/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-3.png)
 
 ### Functionality
 
-![Assignment 1.4](https://raw.github.com/cbadal/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-4.png)
+![Assignment 1.4](https://raw.github.com/site2site/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-4.png)
 
 ### Network
 
-![Assignment 1.5](https://raw.github.com/cbadal/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-5.png)
+![Assignment 1.5](https://raw.github.com/site2site/site2site.github.io/master/programs/networked-individuals/images/S2S-Assignment-5.png)
 
 ### Collage
 
-![Assignment 1.6](https://raw.github.com/cbadal/site2site.github.io/682b13f15bf0f62dd0d81d254b025c175425ac1d/programs/networked-individuals/images/S2S-Assignment-6.png)
+![Assignment 1.6](https://raw.github.com/site2site/site2site.github.io/682b13f15bf0f62dd0d81d254b025c175425ac1d/programs/networked-individuals/images/S2S-Assignment-6.png)
 
 
 ## Critique
