@@ -11,15 +11,15 @@ Hot Spot identifies areas of greatest activity (and heat) to direct air flow and
 ## Scenario
 
  Infrared sensors, located either in the periphery or embedded in furniture, monitor the room for hot spots.
-![Hot Spot - Temperature Gradient](https://github.com/jstoddart/site2site.github.io/blob/master/programs/hot-spot/images/heat_gradient.gif?raw=true)
+![Hot Spot - Temperature Gradient](https://github.com/site2site/site2site.github.io/blob/master/programs/hot-spot/images/heat_gradient.gif?raw=true)
 
  The temperature gradient is processed by the micro-controller, and when temperatures reach uncomfortable levels, signals are sent to four stepper motors, each connected by cable to a corner of a suspended box fan. Through coordinated motion, the stepper motors reel in/out the cables to tilt the fans, directing the airflow for maximum cooling potential.
 
-![Hot Spot - Diagram](https://github.com/jstoddart/site2site.github.io/blob/master/programs/hot-spot/images/hotspot_diagram.png?raw=true)
+![Hot Spot - Diagram](https://github.com/site2site/site2site.github.io/blob/master/programs/hot-spot/images/hotspot_diagram.png?raw=true)
 
  This setup can be employed solo or in an array formation, to maintain comfort, civility, and productivity.
 
-![Hot Spot - Collage](https://github.com/jstoddart/site2site.github.io/blob/master/programs/hot-spot/images/hotspot_collage.png?raw=true)
+![Hot Spot - Collage](https://github.com/site2site/site2site.github.io/blob/master/programs/hot-spot/images/hotspot_collage.png?raw=true)
 
 
 
