@@ -3,7 +3,7 @@ layout: base
 title: Site to Site | Research Examples
 style: research
 menu: research
-lecture: examples
+secondmenu: examples
 ---
 ### Hello Stranger
 
