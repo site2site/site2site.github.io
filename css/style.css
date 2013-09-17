@@ -11,6 +11,7 @@ body{
 #main{
   padding:10px 100px 150px;
   margin:0 auto;
+  overflow-x:hidden;
 }
 
 #header{
