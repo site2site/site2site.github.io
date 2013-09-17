@@ -36,6 +36,8 @@ Posted by @yifeng
 
 The idea of the media installation BIX arose out of considerations on how to equip the interior of the Kunsthaus in Graz with media (≥KMA). BIX was created as an additional feature at a time when overall planning of the Kunsthaus had already reached an advanced stage.Constructed from about 1,300 individually shaped, translucent Plexiglas panels covering the biomorphic building, the so-called skin was intended to feature different nuances of transparency, which would have created varying communicative relationships between interior and exterior. (http://www.youtube.com/watch?v=Uq1lkrtAJ_0)
 
+
+* <iframe width="500" height="375" src="//www.youtube.com/embed/Uq1lkrtAJ_0" frameborder="0" allowfullscreen></iframe>
 * ![image](https://raw.github.com/YifengWu/site2site.github.io/aa25dfec92edb396f2f97c568dd6b0cc0c7404b1/programs/images/pic_detail-1.jpg)
 * ![image]
 (https://raw.github.com/YifengWu/site2site.github.io/aa25dfec92edb396f2f97c568dd6b0cc0c7404b1/programs/images/pic_detail-3.jpg)
