@@ -55,9 +55,11 @@ lecture: 3_physical_digital
 
 ## Resistance
 
-### Resistance is the opposition to the flow of electric charge.
+### Resistance is the opposition to the flow of electric charge measured in Ohms (&Omega;).
 
 ![Resistor](http://guides.machinescience.org/file.php/29/QR/Resistor2.gif)
+
+### Resistors are typically made of a resin-fixed mixture of carbon and ceramic, the ratio of which determines the amount of resistance, which is registered by a color coding system on the resistor.
 
 ![Resistor value chart](http://tronixstuff.files.wordpress.com/2010/05/resistor-colour-codes-small.jpg)
 
