@@ -127,15 +127,15 @@ lecture: 3_binary
 
 ### In our first iteration, we will use Johnny-Five to connect a laptop to the Arduino.
 
-![Johnny-Five to Arduino 1]()
+![Johnny-Five to Arduino 1](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week3/johnny-five1.png)
 
 ### In our second iteration, we will use Johnny-Five read the inputs from a sensor through the Arduino to the laptop terminal.
 
-![Johnny-Five to Arduino 2]()
+![Johnny-Five to Arduino 2](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week3/johnny-five2.png)
 
 ### Ultimately, we will swap out our laptops for a Raspberry Pi minicomputer.
 
-![Johnny-Five to Arduino 3]()
+![Johnny-Five to Arduino 3](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week3/johnny-five3.png)
 
 
 
