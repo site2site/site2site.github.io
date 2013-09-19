@@ -71,6 +71,56 @@ lecture: 3_binary
 	
 	-[Arduino website](http://arduino.cc/)
 
+## Johnny-Five
+
+>	"Johnny-Five is an Open Source, JavaScript Arduino programming framework, developed at Bocoup."
+	
+	-[Johnny-Five README](https://github.com/rwaldron/johnny-five)
+
+### Johnny-Five builds on top of the [serialport](https://github.com/voodootikigod/node-serialport) module and the [firmata](https://github.com/jgautier/firmata) protocol to connect to and control an Arduino using only javascript in the [Node.js](http://nodejs.org/) embed environment.
+
+{% highlight javascript %}
+	{
+	  "name": "johnny-five",
+	  "description": "Firmata based Arduino Programming Framework.",
+	  "version": "0.7.3",
+	  "author": {
+	    "name": "Rick Waldron <waldron.rick@gmail.com>",
+	    "email": "waldron.rick@gmail.com"
+	  },
+	  "contributors": [
+	    // MANY!!
+	  ],
+	  "keywords": [
+	    "arduino", "usb", "serial", "serialport", "firmata"
+	  ],
+	  "licenses": [
+	    {
+	      "type": "MIT",
+	      "url": "https://github.com/rwldrn/johnny-five/blob/master/LICENSE-MIT"
+	    }
+	  ],
+	  "engines": {
+	    "node": ">=0.10.0"
+	  },
+	  "dependencies": {
+	    "colors": ">=0.5.1",
+	    "firmata": ">=0.2.9",
+	    "lodash": ">=0.1.0",
+	    "es6-collections": ">=0.0.1",
+	    "socket.io": "latest",
+	    "compulsive": "latest",
+	    "temporal": "latest",
+	    "descriptor": "latest",
+	    "serialport": "latest",
+	    "optimist": "~0.5.2",
+	    "async": "~0.2.9",
+	    "keypress": "latest"
+	  }
+	}
+{% endhighlight %}
+
+### An edited sample of the Johnny-Five `package.json` file.
 
 
 
