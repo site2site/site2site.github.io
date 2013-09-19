@@ -118,7 +118,7 @@ lecture: 3_binary
 	}
 {% endhighlight %}
 
-### An edited sample of the Johnny-Five `package.json` file.
+An edited sample of the Johnny-Five `package.json` file.
 
 
 ## Technology Stack 1.0
