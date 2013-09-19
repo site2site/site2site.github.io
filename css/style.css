@@ -49,6 +49,8 @@ a#logo{
 
 #logo img{
   margin-top:0;
+  width:100px;
+  height:auto;
 }
 
 a{
