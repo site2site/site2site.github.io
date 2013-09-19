@@ -60,6 +60,7 @@ hr{
   width:10%;
 }
 
+
 img,
 pre{
   margin:80px 0 0;
@@ -106,10 +107,11 @@ ul li strong{
   line-height: 1.25em;
 }
 
-em img{
+ul li em img{
   border:3px solid salmon;
 }
 
+ul li strong img,
 strong img{
   height:120px;
   width:auto;
@@ -169,7 +171,11 @@ pre code{
     text-align: left;
   }
 
+  img{
+    max-width:90%;
+  }
 
+  ul li strong img,
   strong img{
     max-width:50%;
     max-height:140px;
@@ -197,16 +203,15 @@ pre code{
     width:90%;
   }
 
-  img,
-  blockquote{
+  ul li img,
+  ul li blockquote{
     width:500px;
   }
   ul li div{
     min-width:500px;
   }
-  
-  embed,
-  object{
+  ul li embed,
+  ul li object{
     width:500px;
   }
 
