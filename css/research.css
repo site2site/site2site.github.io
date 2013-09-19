@@ -55,6 +55,11 @@ p{
   max-width: 650px;
 }
 
+hr{
+  margin-top:40px;
+  width:10%;
+}
+
 img,
 pre{
   margin:80px 0 0;
