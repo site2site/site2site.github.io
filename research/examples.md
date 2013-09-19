@@ -1,3 +1,10 @@
+---
+layout: base
+title: Site to Site | Research Examples
+style: research
+menu: research
+secondmenu: examples
+---
 ### HYDRAMAX Port Machines
 
 Posted by @cbadal
