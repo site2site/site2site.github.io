@@ -1,10 +1,3 @@
----
-layout: base
-title: Site to Site | Research Examples
-style: research
-menu: research
-secondmenu: examples
----
 ### HYDRAMAX Port Machines
 
 Posted by @cbadal
@@ -26,11 +19,11 @@ See video of model [here](http://vimeo.com/61141055)
 
 Posted by @cbadal
 
-[Vessels](http://vessels.perte-de-signal.org/) is a robotic installation consisting of large groups of autonomous water vehicles. With roughly 50 individuals in a population, the robotic agents interact with each other and their environment to form a simple ecosystem. Their collective, emergent behaviour resembles the social interactions in a community of living creatures. While moving on water, each of the robots collect and interpret data from different environmental conditions such as water and air quality, temperature, ambient light, sound, etc. Since no single agent has more than one or two sensors, they depend on communicating with each other to form a complete awareness of their environment. However, the robots do not simply exchange scientific readings: instead they communicate through behaviours and interactions. For example, an increase in temperature sensed by one agent may cause it to act more aggressively, with erratic or irrational (random) movements. This change in behaviour will influence its neighbouring agents, who may respond with relative changes to their own behaviour. These agents will in turn influence their neighbours, thus creating a ripple effect of actions. Over time, a collective behaviour that is specific to the immediate environmental characteristics of the presentation site emerges from the agents’ interactions. 
+[Vessels] (http://vessels.perte-de-signal.org/) is a robotic installation consisting of large groups of autonomous water vehicles. With roughly 50 individuals in a population, the robotic agents interact with each other and their environment to form a simple ecosystem. Their collective, emergent behaviour resembles the social interactions in a community of living creatures. While moving on water, each of the robots collect and interpret data from different environmental conditions such as water and air quality, temperature, ambient light, sound, etc. Since no single agent has more than one or two sensors, they depend on communicating with each other to form a complete awareness of their environment. However, the robots do not simply exchange scientific readings: instead they communicate through behaviours and interactions. For example, an increase in temperature sensed by one agent may cause it to act more aggressively, with erratic or irrational (random) movements. This change in behaviour will influence its neighbouring agents, who may respond with relative changes to their own behaviour. These agents will in turn influence their neighbours, thus creating a ripple effect of actions. Over time, a collective behaviour that is specific to the immediate environmental characteristics of the presentation site emerges from the agents’ interactions. 
 
-See video [here](http://vimeo.com/63870445)
+See video [here] (http://vimeo.com/63870445)
 
-See bot specifications [here](http://vessels.perte-de-signal.org/project/)
+See bot specifications [here] (http://vessels.perte-de-signal.org/project/)
 
 
 ![Vessels1](http://i.imgur.com/SoA35Ww.jpg)
@@ -108,6 +101,7 @@ See also coverage by Architect magazine [here] (http://www.architectmagazine.com
 ![WSN5](http://blog.kierantimberlake.com/wp-content/uploads/sensor-deployment2.jpg)
 
 *** 
+
 ###"One Hundred and Eight"
 
 Posted by @kamillacsegzi
@@ -115,9 +109,12 @@ Posted by @kamillacsegzi
 Created by Nils Völker, One Hundred and Eight is an interactive wall-mounted Installation made out of ordinary garbage bags. Controlled by an Arduino and Processing, each of the bags is selectively inflated and deflated in turn by two cooling fans. The installation runs in either “patter mode” or reacting to people nearby.
 The installation consists of 108 interconnected modules made from MDF. Each single one is equipped with a white, semi transparent plastic bag, two cooling fans and a relay that switches the electric current between the fans. One program is running on an Arduino mounted to the lower side taking control of a set of shift registers that trigger the relays individually. A camera is mounted to the ceiling above and connected to a computer on which a second program (Processing) is running. The program registers and tracks movement via the camera and sends the necessary information via a serial connection to the microcontroller.
 
-*    ![One Hundred and Eight](http://www.creativeapplications.net/wp-content/uploads/2010/11/onehundredeight03-640x448.jpg)
-*    ![One Hundred and Eight](http://www.creativeapplications.net/wp-content/uploads/2010/11/onehundredeight000-640x448.jpg)
-*    ![One Hundred and Eight](http://www.creativeapplications.net/wp-content/uploads/2010/11/01011396-640x480.jpg)
+![One Hundred and Eight](http://www.creativeapplications.net/wp-content/uploads/2010/11/onehundredeight03-640x448.jpg)
+![One Hundred and Eight](http://www.creativeapplications.net/wp-content/uploads/2010/11/onehundredeight000-640x448.jpg)
+![One Hundred and Eight](http://www.creativeapplications.net/wp-content/uploads/2010/11/01011396-640x480.jpg)
+
+*** 
+
 ###"Dune"
 
 Posted by @kamillacsegzi
@@ -126,8 +123,11 @@ Designed by Studio Daan Roosegarden, it is a public interactive landscape that i
 
 For more visit: [Dune](http://www.arch2o.com/dune-studio-roosegaarde/)
 
-*    ![Dune](http://arch2o.com/wp-content/uploads/2012/07/Arch2O-Dune-installation-08.jpeg)
-*    !Dune](http://arch2o.com/wp-content/uploads/2012/07/Arch2O-Dune-installation-01-600x399.jpeg)
+![Dune](http://arch2o.com/wp-content/uploads/2012/07/Arch2O-Dune-installation-08.jpeg)
+![Dune](http://arch2o.com/wp-content/uploads/2012/07/Arch2O-Dune-installation-01-600x399.jpeg)
+
+
+*** 
 
 
 ###"Playtime Interactive Dresses"
@@ -138,9 +138,9 @@ Designer Ying Gao is showing three series of "intelligent" garments which move a
 See video [Vimeo](http://vimeo.com/25638178).
 For more visit: [Playtime](http://mocoloco.com/archives/024232.php)
 
-*    ![PLAYTIME INTERACTIVE DRESSES](http://mocoloco.com/assets_c/2011/07/playtime_interactive_dress_ying_gao-thumb-525xauto-28942.jpg)
+![PLAYTIME INTERACTIVE DRESSES](http://mocoloco.com/assets_c/2011/07/playtime_interactive_dress_ying_gao-thumb-525xauto-28942.jpg)
 
-
+*** 
 
 ###"Beast"
 
@@ -148,8 +148,12 @@ Posted by @kamillacsegzi
 
 Beast is an organic-like entity created synthetically by the incorporation of physical parameters with digital form-generation protocols. A single continuous surface, acting both as structure and as skin, is locally modulated for both structural support and corporeal aid. Beast combines structural, environmental, and corporeal performance by adapting its thickness, pattern density, stiffness, flexibility, and translucency to load, curvature, and skin-pressured areas respectively.
 
-*    ![Beast](http://web.media.mit.edu/~neri/site/projects/beast/files/smallimage_01.jpg)
-*    ![Beast](http://web.media.mit.edu/~neri/site/projects/beast/files/smallimage_04.jpg)
+![Beast](http://web.media.mit.edu/~neri/site/projects/beast/files/smallimage_01.jpg)
+![Beast](http://web.media.mit.edu/~neri/site/projects/beast/files/smallimage_04.jpg)
+
+
+*** 
+
 
 ###"Sephora Sensorium"
 
@@ -157,11 +161,12 @@ Posted by @kamillacsegzi
 
 "Sephora presents "SENSORIUM - LUCID DREAMS from the SENSORY WORLD" with magic by Firmenich. Imagine a dynamic place where smell, taste, touch, sight and sound become one complete gesture — a 4D sensorial environment dedicated to the magic of scent."
 
-See video [Vimeo](http://vimeo.com/thed4d/sensorium).
+See video on [Vimeo](http://vimeo.com/thed4d/sensorium).
 
-*    ![Sensorium](http://theinspirationroom.com/daily/experience/2011/10/sensorium-2.jpg)
+![Sensorium](http://theinspirationroom.com/daily/experience/2011/10/sensorium-2.jpg)
 
 
+***
 
 
 ###"WaterfallSwing"
@@ -171,11 +176,12 @@ Posted by @kamillacsegzi
 The swing is a collaborative project between Mike O’Toole, Andrew Ratcliff, Ian Charnas and Andrew Witte.
 Water recirculates through 273 independently controlled solenoid valves at the top of the structure to create a wall of water. This water starts from a collection pool on the ground and is pumped up to a large pipe that feeds the solenoids. Sensors mounted on the swingset gather information about the angle and speed of each swing. That information is sent to a computer that predicts the action of the rider. The computer then creates a hole in the wall of water, allowing the rider to swing through without getting wet.
 
-*    ![WaterfallSwing](http://photovide.com/wp-content/uploads/2012/10/waterfallswing.gif)
-*    ![WaterfallSwing](http://photovide.com/wp-content/uploads/2012/10/Waterfall-Swing-3.jpg)
-*    ![WaterfallSwing](http://photovide.com/wp-content/uploads/2012/10/Waterfall-Swing-6.jpg)
+![WaterfallSwing](http://photovide.com/wp-content/uploads/2012/10/waterfallswing.gif)
+![WaterfallSwing](http://photovide.com/wp-content/uploads/2012/10/Waterfall-Swing-3.jpg)
+![WaterfallSwing](http://photovide.com/wp-content/uploads/2012/10/Waterfall-Swing-6.jpg)
 
 
+***
 
 
 ###"Media Surfaces"
@@ -186,8 +192,12 @@ Posted by @warshawshaw
 
 More [info](http://berglondon.com/blog/2010/11/03/media-surfaces-the-journey/) and [both](http://vimeo.com/16423199) [videos](http://vimeo.com/16423237). 
 
-*    ![Berg](http://farm5.static.flickr.com/4125/5120036219_a7c0a75316.jpg)
-*    ![Berg](http://farm2.static.flickr.com/1145/5120035991_25778f797e.jpg)
+![Berg](http://farm5.static.flickr.com/4125/5120036219_a7c0a75316.jpg)
+![Berg](http://farm2.static.flickr.com/1145/5120035991_25778f797e.jpg)
+
+
+*** 
+
 
 ###Void
 
@@ -197,8 +207,10 @@ In a similar vein to Jürg Lehni's work, Wit Pimkanchanapong's sculpture plots i
 
 [Video](http://vimeo.com/73023693) and Wired [article](http://www.wired.com/design/2013/09/watch-spiderbot-creates-graffiti-with-light/)
 
-*    ![Void](http://www.creativeapplications.net/wp-content/uploads/2013/08/void_03.png)
-*    ![Void](http://www.creativeapplications.net/wp-content/uploads/2013/08/void_06.png)
+![Void](http://www.creativeapplications.net/wp-content/uploads/2013/08/void_03.png)
+![Void](http://www.creativeapplications.net/wp-content/uploads/2013/08/void_06.png)
+
+*** 
 
 
 ### Mirror
@@ -209,8 +221,12 @@ Posted by @warshawshaw
 
 Official [site](http://www.mirrorseattle.org/)
 
-*    ![Mirror](http://b.vimeocdn.com/ts/426/689/426689462_640.jpg)
-*    ![Mirror](http://www.fastcodesign.com/multisite_files/codesign/imagecache/960/poster/2013/04/1672258-poster-1280-mirror-sam.jpg)
+![Mirror](http://b.vimeocdn.com/ts/426/689/426689462_640.jpg)
+![Mirror](http://www.fastcodesign.com/multisite_files/codesign/imagecache/960/poster/2013/04/1672258-poster-1280-mirror-sam.jpg)
+
+
+*** 
+
 
 ###Illumiroom
 
@@ -218,10 +234,14 @@ Posted by @warshawshaw
 
 Illumiroom is an augmented reality project by Microsoft Research that uses a projector and a Kinect for Windows camera to read the visuals of a videogame being played on a normal TV and extend its contents and motion out onto surrounding walls in order to fill in peripheral information. For example, if a user were playing a car racing game, it would unite the features of the room with those portrayed on-screen by overlaying the wider angle of a tight corner or a straightaway right over any furniture or adjacent surfaces. It can also make use of the room as a 3-D environment, making the motion of objects within the gameplay sensitive to the real-life environment once they pass from screen surface to room surface.
 
-Project [website](http://research.microsoft.com/en-us/projects/illumiroom/)
+Project [website](http://research.microsoft.com/en-us/projects/illumiroom/).
 
-*    ![Illumiroom](https://static.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/51ce61c2e4b0d911b449fba7/1358176919031/1000w/IllumiRoom_Multicast_2.jpg)
-*    ![Illumiroom](http://cdn.cnet.com.au/story_media/339342990/illumi_1.jpg)
+![Illumiroom](https://static.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/51ce61c2e4b0d911b449fba7/1358176919031/1000w/IllumiRoom_Multicast_2.jpg)
+![Illumiroom](http://cdn.cnet.com.au/story_media/339342990/illumi_1.jpg)
+
+
+***
+
 
 ###Aireal
 
@@ -229,9 +249,11 @@ If Leap Motion and the Kinect allows users free gesture control for computers, g
 
 More [info](http://www.disneyresearch.com/project/aireal/) and [video](http://www.youtube.com/watch?v=xaFBjUJj00M).
 
-*    ![Aireal](http://www.creativeapplications.net/wp-content/uploads/2013/07/AIREALVortexRing1.jpg)
-*    ![Aireal](http://i1.ytimg.com/vi/3baJPtjMFJs/maxresdefault.jpg)
+![Aireal](http://www.creativeapplications.net/wp-content/uploads/2013/07/AIREALVortexRing1.jpg)
+![Aireal](http://i1.ytimg.com/vi/3baJPtjMFJs/maxresdefault.jpg)
 
+
+***
 
 
 ### Holistic Strata
@@ -242,9 +264,13 @@ In addition to the characteristic elements of light and sound in his previous wo
 
 A further leap forward from Umeda’s tried and tested concept of treating light, sound and the human body as equivalent means of expression on stage, Holistic Strata revolves around the body as a complex cluster of information that configures actual spaces. Umeda’s body data (movements of muscles and locomotion coordinates) is manipulated with the help of sensing technology and results in the creation of a scenery that integrates dance, sound, and intensely blinking light. Based on this system of freely generated imagination, Holistic Strata proposes ‘dance’ as a spatial expression, while highlighting the criticality of our perception. [link](http://brancolina.wordpress.com/2011/09/14/hiroaki-umeda-holistic-strata-media-dance-performance/)
 
-*    ![Holistic Strata 01](http://www.tempsdimages.eu/assets/images/W1siZiIsIjIwMTIvMTIvMDUvMTVfNTFfMTJfNDdfSG9saXN0aWNfc3RyYXRhXzcuanBnIl0sWyJwIiwidGh1bWIiLCI2NDZ4NDA0IyJdXQ/Holistic%20strata%207.jpg)
-*    ![Holistic Strata 02](http://static.guim.co.uk/sys-images/Observer/Pix/pictures/2012/1/18/1326884765638/Holistic-Strata-007.jpg)
-*    ![http://www.bmacmedia.net/wp-content/uploads/2013/03/HS_P0_MAIN.jpg)
+![Holistic Strata 01](http://www.tempsdimages.eu/assets/images/W1siZiIsIjIwMTIvMTIvMDUvMTVfNTFfMTJfNDdfSG9saXN0aWNfc3RyYXRhXzcuanBnIl0sWyJwIiwidGh1bWIiLCI2NDZ4NDA0IyJdXQ/Holistic%20strata%207.jpg)
+![Holistic Strata 02](http://static.guim.co.uk/sys-images/Observer/Pix/pictures/2012/1/18/1326884765638/Holistic-Strata-007.jpg)
+![](http://www.bmacmedia.net/wp-content/uploads/2013/03/HS_P0_MAIN.jpg)
+
+
+***
+
 
 ### Firewall
 
@@ -253,8 +279,12 @@ Posted by @dinamahmoud
 An interactive media installation created in collaboration with Mike Allison. A stretched sheet of spandex acts as a membrane interface sensitive to depth that people can push into and create fire-like visuals and expressively play music.
 Firewall was made using Processing, Max/MSP, Arduino and a Kinect. The Kinect measures the average depth of the spandex from the frame it's mounted on. If the material is not being pressed against, nothing happens. When someone presses into it the visuals react around where the person presses, and the music is triggered. An algorithm created with Max allows the music to speed up and slow down and get louder and softer, based on the depth. This provides a very expressive musical playing experience, even for people who have never played music before. A switch is built into the frame which toggles between two modes. The second mode is a little more aggressive than the first. [link](http://www.metalocus.es/content/en/blog/firewall-not-only-interactive-media-installation)
 
-*    ![Firewall](http://www.metalocus.es/content/en/system/files/imagecache/blog_content_images/images-lead/ml_firewall_video_01_1024.jpg)
-*    ![Firewall](http://www.metalocus.es/content/en/system/files/imagecache/blog_content_images/file-images/ml_firewall_video_02_1024.jpg)
+![Firewall](http://www.metalocus.es/content/en/system/files/imagecache/blog_content_images/images-lead/ml_firewall_video_01_1024.jpg)
+![Firewall](http://www.metalocus.es/content/en/system/files/imagecache/blog_content_images/file-images/ml_firewall_video_02_1024.jpg)
+
+
+***
+
 
 ### Maison Hermes Window Display
 
@@ -270,8 +300,12 @@ behind the scarves as if life were being breathed into them.
 the window is designed with an image of woman projected on to a monitor. the scarf softly sways 
 in the air in response to the woman’s blow. ' - TY [link](http://www.designboom.com/design/tokujin-yoshioka-maison-hermes-window-display/)
 
-*    ![Scarf 01](http://static.dezeen.com/uploads/2009/12/dzn_Maison-Hermes-installation-by-Tokujin-Yoshioka04.jpg)
-*    ![Scarf 02](http://static.dezeen.com/uploads/2009/12/dzn_Maison-Hermes-installation-by-Tokujin-Yoshioka02.jpg)
+![Scarf 01](http://static.dezeen.com/uploads/2009/12/dzn_Maison-Hermes-installation-by-Tokujin-Yoshioka04.jpg)
+![Scarf 02](http://static.dezeen.com/uploads/2009/12/dzn_Maison-Hermes-installation-by-Tokujin-Yoshioka02.jpg)
+
+
+***
+
 
 ### Snow
 
@@ -283,9 +317,13 @@ and falling down slowly is meant to remind us of the snow scape of our memories
 and the beauty of nature which often exceeds our imagination. visitors to the exhibition 
 experience the feeling of looking at or walking through a snowstorm. [link](http://www.designboom.com/design/tokujin-yoshioka-for-sensing-nature-exhibition/)
 
-*    ![Snow 01](http://www.designboom.com/cms/images/andrea09/snow01.jpg)
-*    ![Snow 02](http://media.tumblr.com/tumblr_lklq56Woc81qa25od.jpg)
-*    <iframe width="500" height="375" src="http://www.youtube.com/watch?feature=player_embedded&v=wS6IYnKlQH8" frameborder="0" allowfullscreen></iframe>
+![Snow 01](http://www.designboom.com/cms/images/andrea09/snow01.jpg)
+![Snow 02](http://media.tumblr.com/tumblr_lklq56Woc81qa25od.jpg)
+<iframe width="500" height="375" src="http://www.youtube.com/watch?feature=player_embedded&v=wS6IYnKlQH8" frameborder="0" allowfullscreen></iframe>
+
+
+***
+
 
 ### Filament Mind
 
@@ -294,31 +332,14 @@ Posted by @dinamahmoud
 Filament Mind is a human information-driven installation designed to visualize the collective curiosities and questions of Teton County Library visitors through a dynamic and interactive spatial sculpture. 
 Whenever any Wyoming public library visitor anywhere in the state performs a search of the library catalog from a computer, Filament Mind illuminates that search in a flash of color and light through glowing bundles of fiber optic cables. Each of the 1000 fiber optic cables hanging above (totaling over 5 miles of cable) corresponds to a call number in the Dewey Decimal System, which organizes the library’s collection into approximately 1000 categories of knowledge. These category titles are displayed in text on the lobby’s south and north walls at the termination points of the fiber optic cables. 
 
-*    ![Filament Mind 01](http://payload65.cargocollective.com/1/6/204791/3604869/01.jpg)
-*    ![Filament Mind 02](http://payload65.cargocollective.com/1/6/204791/3604869/09.jpg)
-*    <iframe width="500" height="375" src="//player.vimeo.com/video/59626512" frameborder="0" allowfullscreen></iframe>
-
+![Filament Mind 01](http://payload65.cargocollective.com/1/6/204791/3604869/01.jpg)
+![Filament Mind 02](http://payload65.cargocollective.com/1/6/204791/3604869/09.jpg)
+<iframe width="500" height="375" src="//player.vimeo.com/video/59626512" frameborder="0" allowfullscreen></iframe>
 
 
 ***
-### Project Name
 
-Posted by @username
 
-A one-paragraph description of the project goes here. Be sure to put [links](www.google.com) to more information about this project in this paragraph, followed by a _minimum_ of two images. Feel free to add additional elements (such as videos - see example below), but the paragraph with links and images are the minimum required.
-
-*    ![Image title](http://interactive.usc.edu/membersmedia/sfisher/LozanoHemmer_pulseroom2_572.jpg)
-*    ![Image title](http://artobserved.com/artimages/2008/08/picture-1.png)
-*    <iframe width="500" height="375" src="//www.youtube.com/embed/Uq1lkrtAJ_0" frameborder="0" allowfullscreen></iframe>
-
-***
----
-layout: base
-title: Site to Site | Research Examples
-style: assignment
-menu: research
-lecture: examples
----
 ### Hello Stranger
 
 Posted by @yifeng
@@ -335,10 +356,9 @@ Tornado - swirling lights follow you around
 Spectrum (not interactive) - possibly the world's biggest Hi-Fi spectrum analyser
 see more (http://www.ini.uzh.ch/~kynan/teaching/hellostranger/)
 
-* ![image](https://raw.github.com/YifengWu/site2site.github.io/fcbb137ff15b55be5ce8fae4fa0c92a806516ec5/programs/images/hs1.jpg)
-* ![image]
-(https://raw.github.com/YifengWu/site2site.github.io/fcbb137ff15b55be5ce8fae4fa0c92a806516ec5/programs/images/hs2.jpg)
-* ![image](https://raw.github.com/YifengWu/site2site.github.io/fcbb137ff15b55be5ce8fae4fa0c92a806516ec5/programs/images/hs3.jpg)
+![image](https://raw.github.com/YifengWu/site2site.github.io/fcbb137ff15b55be5ce8fae4fa0c92a806516ec5/programs/images/hs1.jpg)
+![image](https://raw.github.com/YifengWu/site2site.github.io/fcbb137ff15b55be5ce8fae4fa0c92a806516ec5/programs/images/hs2.jpg)
+![image](https://raw.github.com/YifengWu/site2site.github.io/fcbb137ff15b55be5ce8fae4fa0c92a806516ec5/programs/images/hs3.jpg)
 
 
 ***
@@ -350,10 +370,9 @@ Posted by @yifeng
 
 The idea of the media installation BIX arose out of considerations on how to equip the interior of the Kunsthaus in Graz with media (≥KMA). BIX was created as an additional feature at a time when overall planning of the Kunsthaus had already reached an advanced stage.Constructed from about 1,300 individually shaped, translucent Plexiglas panels covering the biomorphic building, the so-called skin was intended to feature different nuances of transparency, which would have created varying communicative relationships between interior and exterior. (http://www.youtube.com/watch?v=Uq1lkrtAJ_0)
 
-* ![image](https://raw.github.com/YifengWu/site2site.github.io/aa25dfec92edb396f2f97c568dd6b0cc0c7404b1/programs/images/pic_detail-1.jpg)
-* ![image]
-(https://raw.github.com/YifengWu/site2site.github.io/aa25dfec92edb396f2f97c568dd6b0cc0c7404b1/programs/images/pic_detail-3.jpg)
-* ![image]
+![image](https://raw.github.com/YifengWu/site2site.github.io/aa25dfec92edb396f2f97c568dd6b0cc0c7404b1/programs/images/pic_detail-1.jpg)
+![image](https://raw.github.com/YifengWu/site2site.github.io/aa25dfec92edb396f2f97c568dd6b0cc0c7404b1/programs/images/pic_detail-3.jpg)
+![image]
 (https://raw.github.com/YifengWu/site2site.github.io/aa25dfec92edb396f2f97c568dd6b0cc0c7404b1/programs/images/pic_detail-6.jpg)
 
 
@@ -367,8 +386,8 @@ Posted by @yifeng
 Nervous Structure is a series of site-specific, interactive installations consisting of string and fabric structures illuminated with interactive computer graphics that react to the presence and motion of viewers. Made collaboratively by Annica Cuppetelli and Cristobal Mendoza.
 more on vimeo(http://vimeo.com/35508462)
 
-* ![image](https://raw.github.com/YifengWu/site2site.github.io/06a6be3c7c5014b0248c15d74102f0e97a67d277/programs/images/feeldesain-Nervous-Structure-8.png)
-* ![image](https://raw.github.com/YifengWu/site2site.github.io/06a6be3c7c5014b0248c15d74102f0e97a67d277/programs/images/feeldesain-Nervous-Structure.jpg)
+![image](https://raw.github.com/YifengWu/site2site.github.io/06a6be3c7c5014b0248c15d74102f0e97a67d277/programs/images/feeldesain-Nervous-Structure-8.png)
+![image](https://raw.github.com/YifengWu/site2site.github.io/06a6be3c7c5014b0248c15d74102f0e97a67d277/programs/images/feeldesain-Nervous-Structure.jpg)
 
 
 ***
@@ -380,15 +399,15 @@ by @yifeng
 It’s one thing to stand in font of a projector to create shadow puppets, but it’s an entirely different experience to block a text-based floor projection and see your typographic silhouette on an adjacent wall. Istanbul-based multidisciplinary creative studio NOTA BENE Visual has designed a mind-boggling audiovisual installation using an intricately executed video-mapping technique that uses the latest technology to create an artistically intriguing environment for spectators to engage in.
 more information (http://www.feeldesain.com/in-order-to-control-interactive-installation.html)
 
-* ![image]
-(https://raw.github.com/YifengWu/site2site.github.io/5fcc46eb03d108de85086774245e4948f27ecff0/programs/images/notabenevisualinordertocontrol1.jpg)
+![image](https://raw.github.com/YifengWu/site2site.github.io/5fcc46eb03d108de85086774245e4948f27ecff0/programs/images/notabenevisualinordertocontrol1.jpg)
 
-* ![image](https://raw.github.com/YifengWu/site2site.github.io/5fcc46eb03d108de85086774245e4948f27ecff0/programs/images/notabenevisualinordertocontrol2.png)
+![image](https://raw.github.com/YifengWu/site2site.github.io/5fcc46eb03d108de85086774245e4948f27ecff0/programs/images/notabenevisualinordertocontrol2.png)
 
-* ![image](https://raw.github.com/YifengWu/site2site.github.io/5fcc46eb03d108de85086774245e4948f27ecff0/programs/images/notabenevisualinordertocontrol4.png)
+![image](https://raw.github.com/YifengWu/site2site.github.io/5fcc46eb03d108de85086774245e4948f27ecff0/programs/images/notabenevisualinordertocontrol4.png)
 
 
 ***
+
 
 ### SFMOMA: LED Lights Transform into 3D Screen
 
@@ -398,8 +417,8 @@ Artist Jim Campbell just recently debuted "Exploded Views," a random cascade of 
 Part sculpture, part cinematic screen, the grid is composed of thousands of computer-controlled LED spheres that create the illusion of fleeting shadow-like figures.
 (http://www.youtube.com/watch?feature=player_embedded&v=W4T5kECTYaE#t=188) on youtube
 
-*  ![image] (https://raw.github.com/YifengWu/site2site.github.io/1182af8ed42f9bcdd53103ca344a42129bd27fbd/programs/images/01_sfmoma_campbell_explodedviews.jpg)
-*  ![image](https://raw.github.com/YifengWu/site2site.github.io/1182af8ed42f9bcdd53103ca344a42129bd27fbd/programs/images/03_sfmoma_campbell_explodedviews.jpg)
+![image](https://raw.github.com/YifengWu/site2site.github.io/1182af8ed42f9bcdd53103ca344a42129bd27fbd/programs/images/01_sfmoma_campbell_explodedviews.jpg)
+![image](https://raw.github.com/YifengWu/site2site.github.io/1182af8ed42f9bcdd53103ca344a42129bd27fbd/programs/images/03_sfmoma_campbell_explodedviews.jpg)
 
 
 ***
@@ -411,8 +430,8 @@ Posted by @jstoddart
 
 _Lunar Trails_ was a project by artist, [Seb Lee-Delisle](http://seb.ly/), for the _GAME_ exhibition at the Dublin Science Gallery. The project used a vintage arcade game, Lunar Lander, and linked the player's actions on screen to a wall-drawing robot. The robot would inscribe each player's trajectory on the wall-mounted canvas, producing a layering of multiple attempt (and successes and failures) at landing their lunar lander. [Lunar Trails](http://vimeo.com/54043239) on Vimeo.
 
-*    ![Lunar Trails - Final Result](http://farm9.staticflickr.com/8489/8203214134_bd30a31167_c.jpg)
-*    ![Lunar Trails - In Action] (http://farm9.staticflickr.com/8480/8203181560_5ca60fbfc4_c.jpg)
+![Lunar Trails - Final Result](http://farm9.staticflickr.com/8489/8203214134_bd30a31167_c.jpg)
+![Lunar Trails - In Action](http://farm9.staticflickr.com/8480/8203181560_5ca60fbfc4_c.jpg)
 
 
 ***
@@ -423,11 +442,11 @@ Posted by @jstoddart
 
 The _Braincoat_ was smart raincoat created for [Diller Scofidio's](http://dsrny.com/) Blur Building for the Swiss Expo in 2002, but was ultimately unrealized in the final project. With their sensory experience impaired by the pavilion's fog generators, the _braincoat _acted as a proximity-based social surrogate, using sensors and logic to instigate interaction. Prior to entering the pavilion, users were asked to fill out a questionnaire. Once inside the pavilion, the coats would illuminate and vibrate to identify levels of compatibility with other nearby visitors, with "emotional responses" ranging from affinity to antipathy.
 
-*   ![braincoat - getting prepped](http://dsrny.com/projects/BlurBraincoat/05--Raincoat-station_wide.jpg)
-*   ![braincoat - impaired social cues](http://dsrny.com/projects/BlurBraincoat/08-visual-communications-co.jpg)
-*   ![braincoat - functionality](http://dsrny.com/projects/BlurBraincoat/12-braincoats%20copy.jpg)
-*   ![braincoat - interaction](http://dsrny.com/projects/BlurBraincoat/18--transmission-zones-copy.jpg)
-*   ![braincoat - system & sensors](http://dsrny.com/projects/BlurBraincoat/BLUR-BRAINCOAT-SYSTEM-DIAG.jpg)
+![braincoat - getting prepped](http://dsrny.com/projects/BlurBraincoat/05--Raincoat-station_wide.jpg)
+![braincoat - impaired social cues](http://dsrny.com/projects/BlurBraincoat/08-visual-communications-co.jpg)
+![braincoat - functionality](http://dsrny.com/projects/BlurBraincoat/12-braincoats%20copy.jpg)
+![braincoat - interaction](http://dsrny.com/projects/BlurBraincoat/18--transmission-zones-copy.jpg)
+![braincoat - system & sensors](http://dsrny.com/projects/BlurBraincoat/BLUR-BRAINCOAT-SYSTEM-DIAG.jpg)
 
 
 ***
@@ -439,10 +458,10 @@ Posted by @jstoddart
 
 [Hektor](http://hektor.ch/) is "a portable Spray-paint Output Device for laptop computers" created by Jürg Lehni in 2002. The system runs on a custom-build signal processor to interpret and translate vector drawings (via Adobe Illustrator scripting) into the physical realm. Hektor is at it's core a vertical CNC drawing machine using a custom-built platorm to hold and operate the spray can and suspended from two stepper motors via a cables. It uses the messiness of the medium (spray paint) to generate work that eschews the precision typically produced through the CNC process. The platform was designed to be mobile, and has been exhibited in multiple settings include museum shows where it produces work in collaboration created by a guest artist. Videos: [Hektor at MOMA](http://vimeo.com/15823137) / [Hektor meets William Morris ](http://vimeo.com/15822951) / [Hektor forecasts the weather](http://vimeo.com/15822408)
 
-*   ![Hektor - What You See Is What You Get](http://hektor.ch/Work/WYSINWYG/DSCN4908.jpg)
-*   ![Hektor - The Quick Brown Fox](http://hektor.ch/Work/The+Quick+Brown+Fox/IMG_3338.jpg)
-*   ![Hektor - the Kit](http://hektor.ch/About/Suitcase.jpg)
-*   ![Hektor - interface](http://hektor.ch/About/Interface.gif)
+![Hektor - What You See Is What You Get](http://hektor.ch/Work/WYSINWYG/DSCN4908.jpg)
+![Hektor - The Quick Brown Fox](http://hektor.ch/Work/The+Quick+Brown+Fox/IMG_3338.jpg)
+![Hektor - the Kit](http://hektor.ch/About/Suitcase.jpg)
+![Hektor - interface](http://hektor.ch/About/Interface.gif)
 
 
 ***
@@ -454,8 +473,8 @@ Posted by @jstoddart
 
 The Rain Room is an installation piece by the artist collective [rAndom International](http://random-international.com/) originally displayed in 2012 in London, and most recently shown in 2013 at [MOMA](http://www.momaps1.org/expo1/module/rainroom/). The installation employed a sprinkler system connected to a sensor array via solenoid valves. The sensors would detect motion and proximity of viewers and shut off the water supply above their location, allowing them to pass through the rain without getting wet.
 
-*   ![MOMA - Rain Room](http://www.momaps1.org/expo1/wp-content/uploads/2013/05/Rain-Room--530x353.jpeg)
-*   ![MOMA - Rain Room](http://www.momaps1.org/expo1/wp-content/uploads/2013/04/Rain-Room-II1-530x822.jpeg)
+![MOMA - Rain Room](http://www.momaps1.org/expo1/wp-content/uploads/2013/05/Rain-Room--530x353.jpeg)
+![MOMA - Rain Room](http://www.momaps1.org/expo1/wp-content/uploads/2013/04/Rain-Room-II1-530x822.jpeg)
 
 
 ***
@@ -467,11 +486,11 @@ Posted by @jstoddart
 
 Artist [Daniel Rozin](http://www.smoothware.com/danny) has created a series of analog mirror projects that translate an image of the viewer, to a representation via mechanical movement of physical "pixels". The input camera is either located within or near the piece, and a computer processes the image to translate values of light & dark. An array of servos then translate this brightness value to physical movement, reorienting the pixels. The material for the pixels changes from project to project along with the mechanism for reflecting the brightness values. In some works, the pixels have material orientations (via tilting in the [Trash Mirror](http://www.smoothware.com/danny/newtrashmirror.html) or surface texture in the [Brushed Metal Mirror](http://www.smoothware.com/danny/brushedmetalmirror.html)), so rotations change the quality of the reflected light. In others (such as the [Circles Mirror](http://www.smoothware.com/danny/circlesmirror.html) and the [Weave Mirror](http://www.smoothware.com/danny/weavemirror.html)), the pixels have a gradient value and rotation reveals a lighter or darker value.
 
-*   ![Daniel Rozin - Brushed Metal Mirror](http://www.smoothware.com/danny/brushedmetalmirrormov.jpg)
-*   ![Daniel Rozin - Circles Mirror](http://www.smoothware.com/danny/circlesmirror.jpg)
-*   ![Daniel Rozin - Trash Mirror](http://www.smoothware.com/danny/trashshadowmedium.jpg)
-*   ![Daniel Rozin - Trash Mirror Detail](http://www.smoothware.com/danny/trashdetail.jpg)
-*   ![Daniel Rozin - Weave Mirror](http://www.smoothware.com/danny/weavemirror.jpg)
+![Daniel Rozin - Brushed Metal Mirror](http://www.smoothware.com/danny/brushedmetalmirrormov.jpg)
+![Daniel Rozin - Circles Mirror](http://www.smoothware.com/danny/circlesmirror.jpg)
+![Daniel Rozin - Trash Mirror](http://www.smoothware.com/danny/trashshadowmedium.jpg)
+![Daniel Rozin - Trash Mirror Detail](http://www.smoothware.com/danny/trashdetail.jpg)
+![Daniel Rozin - Weave Mirror](http://www.smoothware.com/danny/weavemirror.jpg)
 
 
 ***
@@ -484,8 +503,8 @@ Posted by @mashalusha
 Conceptualized by Electroland of Los Angeles, at the top of the Rockefeller Center, Top of the Rock 67th floor, various LED lighting devices follow your movement through the room with the use of Video Camera that track your movement. If there is more than one person walking around, each one is followed by a different color light. There is also a TV screen that shows everyone's location within the space.
 Read more in [Media Architecture Magazine](http://www.mediaarchitecture.org/rockefeller-center-new-york)
 
-*   ![Target Interactive Breezeway](http://www.mediaarchitecture.org/wp-content/uploads/2006/11/Rockefeller2.jpg)
-*   ![Target Interactive Breezeway](http://www.mediaarchitecture.org/wp-content/uploads/2006/11/Rockefeller3.jpg)
+![Target Interactive Breezeway](http://www.mediaarchitecture.org/wp-content/uploads/2006/11/Rockefeller2.jpg)
+![Target Interactive Breezeway](http://www.mediaarchitecture.org/wp-content/uploads/2006/11/Rockefeller3.jpg)
 
 
 ***
@@ -496,11 +515,11 @@ Read more in [Media Architecture Magazine](http://www.mediaarchitecture.org/rock
 Posted by @mashalusha
 
 Korean based artist, Eunsu Kang, created an interactive lighting installation in 2011. The installation consists of series of invisible membranes that place the user in a different environment and then transform with the movement of the person within the membranes with the use of Kinect sensor.
-Read more in [Communication Without Words: Conversation with Eunsu Kang](http://arthopper.org/communication-without-words-conversation-with-eunsu-kang/),[Membranes](http://c4.collider.co/art/eunsu-kang-emily-davis-gallery/) and [ZoomInfo] (http://www.zoominfo.com/p/Eunsu-Kang/1163275739)
+Read more in [Communication Without Words: Conversation with Eunsu Kang](http://arthopper.org/communication-without-words-conversation-with-eunsu-kang/),[Membranes](http://c4.collider.co/art/eunsu-kang-emily-davis-gallery/) and [ZoomInfo](http://www.zoominfo.com/p/Eunsu-Kang/1163275739)
 
-*   ![Communication Without Words](http://arthopper.org/arthopper/contemporary_art/2012/03/Membranes_Eunsu_Kang.jpg)
-*   ![Communication Without Words](http://arthopper.org/arthopper/contemporary_art/2012/03/Shin-m_2-0_Eunsu_Kang.jpg)
-*   ![Communication Without Words](http://2013.northernspark.org/wp-content/phpThumb/phpThumb.php?src=../uploads/2013/02/DH-IMG_3409cr_NorthernSpark2012_hoskovecphoto.jpg&wl=740&q=80&hp=426&q=80)
+![Communication Without Words](http://arthopper.org/arthopper/contemporary_art/2012/03/Membranes_Eunsu_Kang.jpg)
+![Communication Without Words](http://arthopper.org/arthopper/contemporary_art/2012/03/Shin-m_2-0_Eunsu_Kang.jpg)
+![Communication Without Words](http://2013.northernspark.org/wp-content/phpThumb/phpThumb.php?src=../uploads/2013/02/DH-IMG_3409cr_NorthernSpark2012_hoskovecphoto.jpg&wl=740&q=80&hp=426&q=80)
 
 
 ***
@@ -513,8 +532,8 @@ Posted by @mashalusha
 A concept idea that would transform the street into a 3D virtual reality and make one's trip to school or worm more adventurous and exciting as if you were in a video game. This is accomplished with the use of 3D painting and is based on [Reebok CrossFit x 3D artists Joe and Max](http://youtu.be/dNcbdJXqZbE)
 Read more in [Open Ideo](http://www.openideo.com/open/vibrant-cities/concepting/fitness-creative-interactive-spaces-for-unity)
 
-*   ![Creative Trail to Unite Point A and Point B](http://www.openideo.com/open/vibrant-cities/concepting/fitness-creative-interactive-spaces-for-unity/gallery/reebok-crossfit-guinness-world-record-by-3d-joe-and-max.jpg/)
-*   ![Creative Trail to Unite Point A and Point B](http://www.zillamag.com/wp-content/uploads/2011/11/Reebok-CrossFit-x-3D-Joe-and-Max-5.jpg)
+![Creative Trail to Unite Point A and Point B](http://www.openideo.com/open/vibrant-cities/concepting/fitness-creative-interactive-spaces-for-unity/gallery/reebok-crossfit-guinness-world-record-by-3d-joe-and-max.jpg/)
+![Creative Trail to Unite Point A and Point B](http://www.zillamag.com/wp-content/uploads/2011/11/Reebok-CrossFit-x-3D-Joe-and-Max-5.jpg)
 
 
 ***
@@ -527,9 +546,9 @@ Posted by @mashalusha
 SILO 468: INTERACTIVE LIGHT ART FOR URBAN REDEVELOPMENT is a permanent installation in Helsinki, Finland that converted an oil silo into an object that responds to different weather. Design and software developed by Madrid-based Lighting Design Collective to take data from the surrounding wind speed, direction, temperature, and weather, and turn it into patterns for the never repeating light show that displays on the inside and outside of the silo.
 See more on [SILO 468](http://design-milk.com/silo-468-interactive-light-art-for-urban-redevelopment/) and [Vimeo](http://vimeo.com/51983529)
 
-*   ![SILO 468](http://3.design-milk.com/images/2012/11/LDC_SILO468-1.jpg)
-*   ![SILO 468](http://3.design-milk.com/images/2012/11/LDC_SILO468-3.jpg)
-*   ![SILO 468](http://2.design-milk.com/images/2012/11/LDC_SILO468-14.jpg)
+![SILO 468](http://3.design-milk.com/images/2012/11/LDC_SILO468-1.jpg)
+![SILO 468](http://3.design-milk.com/images/2012/11/LDC_SILO468-3.jpg)
+![SILO 468](http://2.design-milk.com/images/2012/11/LDC_SILO468-14.jpg)
 
 
 ***
@@ -542,9 +561,9 @@ Posted by @mashalusha
 Designed for the 13th Venice Architecture Biennale by Sergei Tchoban and Sergey Kuznetsov, the exhibit was covered with QR codes that were all unveiling plans for a new city of “science and technology” near to the capital, Moscow, in 2017. Different codes liked to different to information, different drawings and 3D rendering of design. The codes cab be scanned with any smart phone.
 See more on [Art and Design](http://blog.stylesight.com/lifestyle/art-design-the-russian-pavilion-at-the-venice-architecture-biennale)and [Dezeen](http://www.dezeen.com/2012/08/29/russian-pavilion-at-venice-architeture-biennale-2012/)
 
-*   ![The Russian Pavilion](http://blog.stylesight.com/wp-content/uploads/2012/08/ss_1.jpg)
-*   ![The Russian Pavilion](http://blog.stylesight.com/wp-content/uploads/2012/08/ss-2.jpg)
-*   ![The Russian Pavilion](http://blog.stylesight.com/wp-content/uploads/2012/08/ss-8.jpg)
+![The Russian Pavilion](http://blog.stylesight.com/wp-content/uploads/2012/08/ss_1.jpg)
+![The Russian Pavilion](http://blog.stylesight.com/wp-content/uploads/2012/08/ss-2.jpg)
+![The Russian Pavilion](http://blog.stylesight.com/wp-content/uploads/2012/08/ss-8.jpg)
 
 ***
 
@@ -559,9 +578,9 @@ In partnership with New Urban Mechanics, Connected Bits designed and developed t
 The app uses the accelerometer and GPS data built into app users' smartphones. See more on [Street Bump](http://www.streetbump.org/about), [Vimeo](http://vimeo.com/38233136), Follow Street Bump on [Twitter](https://twitter.com/streetbump), or download it on the [App Store](http://itunes.apple.com/us/app/street-bump/id528964742?mt=8).
 
 
-*   ![Street Bump](http://www.streetbump.org/assets/screenshot_splash-2b92bf85e5e35a240eb197434cd0e072.png)
-*   ![Street Bump](http://www.streetbump.org/assets/screenshot_sensing-920c8928e19f5291ba27811ee0cd73c3.png)
-*   ![Street Bump](http://www.streetbump.org/assets/screenshot_map-8aa7baa603940aeda028fe41f61d3158.png)
+![Street Bump](http://www.streetbump.org/assets/screenshot_splash-2b92bf85e5e35a240eb197434cd0e072.png)
+![Street Bump](http://www.streetbump.org/assets/screenshot_sensing-920c8928e19f5291ba27811ee0cd73c3.png)
+![Street Bump](http://www.streetbump.org/assets/screenshot_map-8aa7baa603940aeda028fe41f61d3158.png)
 
 ***
 
@@ -576,9 +595,9 @@ Haze creates its own cool microclimate in the warmest days of the year it also a
 The mystery of this hazy space that resembles like floating platforms in the water is the cool air that consists of micro water particles which has been sprayed from about 200 nozzles. As the day gets darker, the space turns into a virtual installation that is fusing the digital and physical almost like it merges the sea and the land. Platforms, lodges and seating elements are made out of Ferro-concrete lightweight modules, which is different than the common use of concrete in Istanbul. After summer these modules are going to be re-used in different shores with different functions to activate these selected areas. See more on [Salon](http://www.salonarchitects.com/portfolio/haze/).
 
 
-*   ![Haze](http://www.salonarchitects.com/wp-content/uploads/2013/02/01-copy1.jpg)
-*   ![Haze](http://www.salonarchitects.com/wp-content/uploads/2013/02/02-YAP-HAZE02-web2-1.jpg)
-*   ![Haze](http://www.salonarchitects.com/wp-content/uploads/2013/02/07-laser-copy_long.jpg)
+![Haze](http://www.salonarchitects.com/wp-content/uploads/2013/02/01-copy1.jpg)
+![Haze](http://www.salonarchitects.com/wp-content/uploads/2013/02/02-YAP-HAZE02-web2-1.jpg)
+![Haze](http://www.salonarchitects.com/wp-content/uploads/2013/02/07-laser-copy_long.jpg)
 
 ***
 
@@ -597,11 +616,13 @@ Idea and initial design: Achim Meyer
 
 See more on [So Nice Development](http://sonicedevelopment.com/vertwalker/) and [Vimeo](http://vimeo.com/67671269).
 
-*   ![Vertwalker](http://sonicedevelopment.com/wp-content/uploads/vertwalker_horizontal.jpg)
-*   ![Vertwalker](http://sonicedevelopment.com/wp-content/uploads/IMG_2548.jpg)
-*   ![Vertwalker](http://sonicedevelopment.com/wp-content/uploads/vertwalker_family.jpg)
+![Vertwalker](http://sonicedevelopment.com/wp-content/uploads/vertwalker_horizontal.jpg)
+![Vertwalker](http://sonicedevelopment.com/wp-content/uploads/IMG_2548.jpg)
+![Vertwalker](http://sonicedevelopment.com/wp-content/uploads/vertwalker_family.jpg)
+
 
 ***
+
 
 ###Trinity
 
@@ -615,11 +636,13 @@ The performance has been created and executed in live using the environment MAX/
 
 See more on [Electronic Performers](http://electronicperformers.in/trinity_en.html) and on [Vimeo](http://vimeo.com/64894353#at=0)
 
-*   ![Trinity](http://25.media.tumblr.com/d90b5d3a845babf7a77fcb16aaaf57dd/tumblr_mpa0kzLKhX1qav3uso4_500.gif)
-*   ![Trinity](http://25.media.tumblr.com/b5af5b961b28d4b9999105a782aad892/tumblr_mpa0kzLKhX1qav3uso3_400.gif)
-*   ![Trinity](http://25.media.tumblr.com/232154c79f625189f53d8d946c237135/tumblr_mpa0kzLKhX1qav3uso5_400.gif)
+![Trinity](http://25.media.tumblr.com/d90b5d3a845babf7a77fcb16aaaf57dd/tumblr_mpa0kzLKhX1qav3uso4_500.gif)
+![Trinity](http://25.media.tumblr.com/b5af5b961b28d4b9999105a782aad892/tumblr_mpa0kzLKhX1qav3uso3_400.gif)
+![Trinity](http://25.media.tumblr.com/232154c79f625189f53d8d946c237135/tumblr_mpa0kzLKhX1qav3uso5_400.gif)
+
 
 ***
+
 
 ###User 632
 
@@ -635,8 +658,83 @@ C++, OpenFrameworks, OpenNI, mysql, php, javascript, and Kinect.
 
 See more on [Undef](http://undef.ch/#project/user632) and [Vimeo](http://vimeo.com/67073018).
 
-*   ![User 632](http://31.media.tumblr.com/fd9502a0ead7bbb2fc8ae064dcbd2524/tumblr_moavwsmKyz1qav3uso2_500.gif)
-*   ![User 632](http://25.media.tumblr.com/f6e5093644664cd7f8f590458e4b8cec/tumblr_moavwsmKyz1qav3uso3_500.gif)
-*   ![User 632](http://31.media.tumblr.com/7158069bdfd7edc4b0bb04acfdc1faf2/tumblr_moavwsmKyz1qav3uso4_r1_500.gif)
+![User 632](http://31.media.tumblr.com/fd9502a0ead7bbb2fc8ae064dcbd2524/tumblr_moavwsmKyz1qav3uso2_500.gif)
+![User 632](http://25.media.tumblr.com/f6e5093644664cd7f8f590458e4b8cec/tumblr_moavwsmKyz1qav3uso3_500.gif)
+![User 632](http://31.media.tumblr.com/7158069bdfd7edc4b0bb04acfdc1faf2/tumblr_moavwsmKyz1qav3uso4_r1_500.gif)
+
+
+***
+
+
+### Walking City
+
+Location: Musee national des beaux-arts du Quebec, Canada
+Date: July 2011
+Sensors: Movement sensors, microphone 
+Tech: Pnematic pumps
+Explain: The pumps in the dress respond to approaching spectators to fill the fabric with air and start to defold. It also reacts to breeze and sound by closing up its folds to protect the body. 
+
+
+![Image_yao](http://api.ning.com/files/HOMLxHTMqucSJ9BOacFfSfPLifJ6oe*oYA0KOuK4TwOUcndljIA*i7HTiIZApjq8vuEP-qOY0cS4RMfo348V3WJLec14c4Rm/YingGaoWalkingCity.jpg)
+![Image_yao1](http://yinggao.ca/eng/files/gimgs/15_walkingcity1det2.jpg)
+
+
+***
+
+
+### Parametric Space
+
+Location: Danish Architecture Centre, Copenhagen	
+Date: July 2013
+Sensors: Laser Scanners, 
+Explain: First visitors enter a space with a flat ceiling. As they move around, the laser scanners respond to the movement and the tubes start pushing down towards the ground. The data set is processed to calculate the heights of the actuators that pull the volumes under the skin. 
+
+![Image_ps](http://static.dezeen.com/uploads/2013/07/dezeen_Parametric-Space-by-Zaha-Hadid-Architects_3.jpg)
+![Image_ps2](http://wordlesstech.com/wp-content/uploads/2013/07/Parametric-Space-by-Zaha-Hadid-3.jpg)
+
+
+***
+
+
+### Hylozoic Ground
+
+Location: Canada Pavilion at the Venice Architecture Biennale
+Date: August 2010
+Sensors: Touch Sensors
+Tech: Shape-memory alloy actuators (non-motorized kinetic mechanism) that create waves of motion 
+Explain: A system of acrylic pieces move as if it is breathing as it responds to visitors entering it. As the sensors react to human touch, it sets off an array of microprocessors. Organic matter from the visitors is absorbed by the breathing apparatus and filter though. 
+
+![Image_hyl2](http://http://s3files.core77.com/blog/images/2010/03/hylozoic1.jpg)
+![Image_hyl](http://s3files.core77.com/blog/images/2010/03/hylozoic1.jpg)
+
+***
+
+### Sonicity By Stanza
+
+Location: UK
+Date: 2010
+Sensors: Mote Multi Sensor Network
+Tech: Custom Built Software to collect environmental data
+Explain: It is designed as a responsive installation of the real space and environment. The sensors pick up changes in light, nosie, temperature, and the sounds of the flow within the space. With this information, the data is turned into a system of sounds through software and the speakers play thoughout the space.  
+
+
+![Image_sss](http://media.rhizome.org/artbase/images/55258_image_medium.jpg)
+![Image_ss](http://d3uifzcxlzuvqz.cloudfront.net/images/stories/jreviews/tn/tn_1231_list_stanza1-1338437869.jpg)
+
+
+***
+
+
+### Life in the Emergent City
+
+Location: Gotbot Festival Enshcede, The Netherlands
+Date: 2011
+Sensors: Motes Multi Sensor Network
+Tech: Real time data by using java middle-ware for connecting up xbow motes to get access
+Explain: This project tries to capture changes over time in an environment and shows the complexity of real time space. In a gallery, wires and cables are made to look like a representation of the real thing. In the city, sensors capture data of temperature, light, pressure, noise, and sound and represents in within the mini city inside. 
+  
+
+![Image_ss2s](http://www.artlyst.com/img/events/9318.jpg)
+![Image_s2s](http://behance.vo.llnwd.net/profiles14/1139869/projects/5258751/53ab8f2ff6d525ab617ce667f56a8bb0.jpg)
 
 ***
