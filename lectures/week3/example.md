@@ -141,7 +141,7 @@ Code [source](https://github.com/rwaldron/johnny-five/blob/master/docs/photoresi
 
 ### This will boot up the Arduino powered by Johnny-Five and should start to print out values from your sensor to terminal / prompt that should look like this:
 
-*	![Terminal Screenshot]()
+*	![Terminal Screenshot](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week3/terminal.png)
 
 
 ### If it worked, commit and sync to Github and thank @rwaldron for helping architecture get online!
