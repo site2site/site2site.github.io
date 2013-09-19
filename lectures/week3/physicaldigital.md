@@ -40,6 +40,7 @@ lecture: 3_physical_digital
 *	![Battery circuit](http://www.pcboard.ca/kits/led_notes/led_circuit_single_led.jpg)
 *	![Circuit](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/LED_circuit.svg/200px-LED_circuit.svg.png)
 
+### Circuits are described in symbolic notation.
 
 
 ## Ohm's Law
