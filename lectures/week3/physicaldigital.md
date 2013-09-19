@@ -55,6 +55,10 @@ lecture: 3_physical_digital
 
 ## Resistance
 
+### Resistors impede the flow of electric charge, converting the energy of flow into heat.
+
+*	![Resistor melting](http://upload.wikimedia.org/wikipedia/commons/e/e6/Resistor.jpg))
+
 ### Resistors are typically made of a resin-fixed mixture of carbon and ceramic, the ratio of which determines the amount of resistance, which is registered by a color coding system on the resistor and measured in Ohms (&Omega;).
 
 *	![4 band resistor value guide](https://www.dlsweb.rmit.edu.au/toolbox/electrotech/toolbox1204/resources/01principles/04properties/images/4band.gif)
@@ -73,16 +77,15 @@ lecture: 3_physical_digital
 ### What is the resistance of each of these?
 
 *	![Resistor Test 220 ohm](http://www.opensprints.com/documentation/220ohm_resistor.jpg)
-*	![Resistor Test](http://upload.wikimedia.org/wikipedia/commons/3/3e/Resistor_cropped.jpg)
+*	![Resistor Test 330 ohm](http://upload.wikimedia.org/wikipedia/commons/3/3e/Resistor_cropped.jpg)
 *	![Resistor Test 470 ohm](http://www.basicmicro.com/assets/images/470ohm_resistor.jpg)
-*	![Resistor Test ](http://upload.wikimedia.org/wikipedia/commons/e/e6/Resistor.jpg)
+*	![Homework](http://25.media.tumblr.com/tumblr_lpvi5qG3MD1qa91zio1_500.jpg)
 
 
 ## Symbolic Notation
 
-![Resistor]()
+![Resistor](http://www.circuitstoday.com/wp-content/uploads/2010/02/Symbol-of-resistor.JPG)
 
-![Variable Resistor](http://openclipart.org/image/250px/svg_to_png/19195/rsamurti_RSA_IEC_Variable_Resistor_Symbol-1.png)
 
 
 
