@@ -123,6 +123,20 @@ lecture: 3_binary
 ### An edited sample of the Johnny-Five `package.json` file.
 
 
+## Technology Stack 1.0
+
+### In our first iteration, we will use Johnny-Five to connect a laptop to the Arduino.
+
+![Johnny-Five to Arduino 1]()
+
+### In our second iteration, we will use Johnny-Five read the inputs from a sensor through the Arduino to the laptop terminal.
+
+![Johnny-Five to Arduino 2]()
+
+### Ultimately, we will swap out our laptops for a Raspberry Pi minicomputer.
+
+![Johnny-Five to Arduino 3]()
+
 
 
 ## Sample Setup
