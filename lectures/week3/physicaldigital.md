@@ -55,13 +55,27 @@ lecture: 3_physical_digital
 
 ## Resistance
 
-### Resistance is the opposition to the flow of electric charge measured in Ohms (&Omega;).
+### Resistors are typically made of a resin-fixed mixture of carbon and ceramic, the ratio of which determines the amount of resistance, which is registered by a color coding system on the resistor and measured in Ohms (&Omega;).
 
-![Resistor](http://guides.machinescience.org/file.php/29/QR/Resistor2.gif)
+*	![4 band resistor value guide](https://www.dlsweb.rmit.edu.au/toolbox/electrotech/toolbox1204/resources/01principles/04properties/images/4band.gif)
 
-### Resistors are typically made of a resin-fixed mixture of carbon and ceramic, the ratio of which determines the amount of resistance, which is registered by a color coding system on the resistor.
+### Resistors are measured with either 4 or 5 bands.
+
+*	![Five band resistor](http://guides.machinescience.org/file.php/29/QR/Resistor2.gif)
+
+### The bands can be correlated to a value chart to determine the resistance.
 
 ![Resistor value chart](http://tronixstuff.files.wordpress.com/2010/05/resistor-colour-codes-small.jpg)
+
+
+## Test
+
+### What is the resistance of each of these?
+
+*	![Resistor Test 220 ohm](http://www.opensprints.com/documentation/220ohm_resistor.jpg)
+*	![Resistor Test](http://upload.wikimedia.org/wikipedia/commons/3/3e/Resistor_cropped.jpg)
+*	![Resistor Test 470 ohm](http://www.basicmicro.com/assets/images/470ohm_resistor.jpg)
+*	![Resistor Test ](http://upload.wikimedia.org/wikipedia/commons/e/e6/Resistor.jpg)
 
 
 ## Symbolic Notation
