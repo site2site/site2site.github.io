@@ -178,3 +178,5 @@ An edited sample of the Johnny-Five `package.json` file.
 	//
 	// http://nakkaya.com/2009/10/29/connecting-a-photoresistor-to-an-arduino/
 {% endhighlight %}
+
+Code [source](https://github.com/rwaldron/johnny-five/blob/master/docs/photoresistor.md) in Johnny-Five examples.
