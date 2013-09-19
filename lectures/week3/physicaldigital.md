@@ -12,12 +12,14 @@ lecture: 3_physical_digital
 *	![Electron flow](http://www.nmsea.org/Curriculum/4_6/Electricity/wire_electrons.gif)
 *	![Conventional Current](http://physicsnet.co.uk/wp-content/uploads/2010/08/electron-flow.jpg)
 
+### Current is read by convent to be flowing in the opposite direction of negatively charged electron flow.
+
 
 ## Measuring Electricity
 
 ### The flow of electrons through a conductor is fundamentallyl measured in terms of voltage (V), current (I) and resistance (R).
 
-![Hoover Dam](http://www.arialasvegas.com/sites/default/files/styles/1280x672/public/amenities/tours/hoover%20dam%20picture.jpg)
+*	![Hoover Dam](http://www.arialasvegas.com/sites/default/files/styles/1280x672/public/amenities/tours/hoover%20dam%20picture.jpg)
 
 ### Taking the Hoover dam as an analog, the voltage (V) is the potential energy force pushing on the dam.
 
@@ -25,7 +27,7 @@ lecture: 3_physical_digital
 
 ### The current (I) is the speed at which the water flows through the dam and its turbines.
 
-![Hoover dam tunnel](http://i1.ytimg.com/vi/pgkUIUoGrM4/maxresdefault.jpg)
+*	![Hoover dam tunnel](http://i1.ytimg.com/vi/pgkUIUoGrM4/maxresdefault.jpg)
 
 ### The resistance (R) is in anything that limits the flow.
 
@@ -36,7 +38,7 @@ lecture: 3_physical_digital
 ### A circuit is an closed system of electric charge flow.
 
 *	![Battery circuit](http://www.pcboard.ca/kits/led_notes/led_circuit_single_led.jpg)
-*	![Circuit](http://upload.wikimedia.org/wikipedia/commons/b/b4/Ohm's_Law_with_Voltage_source_TeX.svg)
+*	![Circuit](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/LED_circuit.svg/200px-LED_circuit.svg.png)
 
 
 
@@ -46,9 +48,13 @@ lecture: 3_physical_digital
 
 ![Ohm's Law Triangle](http://1.bp.blogspot.com/-u7I--QJ3X3o/UTnjHEMx3_I/AAAAAAAAAB8/U04RXpfpQwM/s1600/Ohm's+Law.gif)
 
+![Circuit](http://upload.wikimedia.org/wikipedia/commons/b/b4/Ohm's_Law_with_Voltage_source_TeX.svg)
+
 
 
 ## Resistance
+
+### Resistance is the opposition to the flow of electric charge.
 
 ![Resistor](http://guides.machinescience.org/file.php/29/QR/Resistor2.gif)
 
