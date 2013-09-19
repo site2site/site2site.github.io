@@ -203,10 +203,14 @@ pre code{
     width:90%;
   }
 
-  ul li img,
+  ul li img{
+    max-width:500px;
+  }
+
   ul li blockquote{
     width:500px;
   }
+  
   ul li div{
     min-width:500px;
   }
