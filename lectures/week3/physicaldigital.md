@@ -5,13 +5,48 @@ style: lecture
 menu: lecture
 lecture: 3_physical_digital
 ---
+## Electricity
+
+### Electricity is the flow of electrons through a conductor.
+
+*	![Electron flow](http://www.nmsea.org/Curriculum/4_6/Electricity/wire_electrons.gif)
+*	![Conventional Current](http://physicsnet.co.uk/wp-content/uploads/2010/08/electron-flow.jpg)
+
+
+
+## Measuring Electricity
+
+### The useful flow of electrons through a conductor is measured in voltage, current and resistance.
+
+![Hoover Dam](http://www.arialasvegas.com/sites/default/files/styles/1280x672/public/amenities/tours/hoover%20dam%20picture.jpg)
+
+### Taking the Hoover dam as an analog, the voltage is the potential energy force pushing on the dam.
+
+*	![Hoover Dam turbines](http://upload.wikimedia.org/wikipedia/commons/0/0c/Hoover_Dam's_generators2.jpg)
+
+### The current is the speed at which the water flows through the dam and its turbines.
+
+![Hoover dam tunnel](http://i1.ytimg.com/vi/pgkUIUoGrM4/maxresdefault.jpg)
+
+### The resistance is in anything that limits the flow.
+
+
+
+## Circuit
+
+### A circuit is a closed system of electron flow.
+
+*	![Battery circuit](http://www.pcboard.ca/kits/led_notes/led_circuit_single_led.jpg)
+*	![Circuit](http://upload.wikimedia.org/wikipedia/commons/b/b4/Ohm's_Law_with_Voltage_source_TeX.svg)
+
 
 
 ## Ohm's Law
 
-![Circuit](http://upload.wikimedia.org/wikipedia/commons/b/b4/Ohm's_Law_with_Voltage_source_TeX.svg)
+### Ohm's Law relates voltage, current, and resistance in a circuit.
 
 ![Ohm's Law Triangle](http://1.bp.blogspot.com/-u7I--QJ3X3o/UTnjHEMx3_I/AAAAAAAAAB8/U04RXpfpQwM/s1600/Ohm's+Law.gif)
+
 
 
 ## Resistance
@@ -27,8 +62,6 @@ lecture: 3_physical_digital
 
 ![Variable Resistor](http://openclipart.org/image/250px/svg_to_png/19195/rsamurti_RSA_IEC_Variable_Resistor_Symbol-1.png)
 
-
-<img src="/people/rsamurti/rsamurti_RSA_IEC_Variable_Resistor_Symbol-1.svg" alt="RSA IEC Variable Resistor Symbol-1 by rsamurti - Adjustable or variable resistor; rheostat." id="RSA IEC Variable Resistor Symbol-1" onerror="this.onerror=null; this.src='/image/250px/svg_to_png/19195/rsamurti_RSA_IEC_Variable_Resistor_Symbol-1.png'">
 
 
 
