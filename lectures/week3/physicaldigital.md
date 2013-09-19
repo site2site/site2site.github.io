@@ -59,7 +59,7 @@ lecture: 3_physical_digital
 
 *	![Resistor melting](http://upload.wikimedia.org/wikipedia/commons/e/e6/Resistor.jpg))
 
-### Resistors are typically made of a resin-fixed mixture of carbon and ceramic, the ratio of which determines the amount of resistance, which is registered by a color coding system on the resistor and measured in Ohms (&Omega;).
+### Resistors are typically made of a resin-fixed mixture of carbon and ceramic, the ratio of which determines the amount of resistance, which is registered by a color coding system and measured in Ohms (&Omega;).
 
 *	![4 band resistor value guide](https://www.dlsweb.rmit.edu.au/toolbox/electrotech/toolbox1204/resources/01principles/04properties/images/4band.gif)
 
@@ -84,10 +84,25 @@ lecture: 3_physical_digital
 
 ## Symbolic Notation
 
+### In an electrical circuit, resistors are denoted with a wiggle.
+
 ![Resistor](http://www.circuitstoday.com/wp-content/uploads/2010/02/Symbol-of-resistor.JPG)
 
 
+## Resistors as Sensors
 
+### Different types of resistors react to different elements of their environment, allowing them to serve as cheap sensors.
+
+*	![Photoresistor symbol](http://lh3.ggpht.com/-_rUIU4M5ksY/Tp2--4Q-s2I/AAAAAAAACT4/yfHWXfKcuOg/clip_image002_thumb.jpg?imgmax=800)
+*	![Photoresistor diagram](http://www.autoshop101.com/trainmodules/resistors/image/photores.gif)
+*	![Photoresistor photo](http://arthur.sewanee.edu/marcen0/HTML5T/arduino/imgs/photores0.jpg)
+
+### A photoresistor changes its resistance depending on the amount of light it encounters.
+
+*	![Thermistor symbol](http://upload.wikimedia.org/wikipedia/en/9/9b/Thermistor_symbol.png)
+*	![Thermistor photo](http://shop.rabtron.co.za/catalog/images/ntcx.jpg)
+
+### A thermistor changes its resistance depending on its surrounding temperature.
 
 
 
