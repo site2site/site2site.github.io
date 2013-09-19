@@ -67,14 +67,12 @@ lecture: 3_binary
 
 ## Arduino
 
-> 	"Arduino is an open-source electronics prototyping platform based on flexible, easy-to-use hardware and software. It's intended for artists, designers, hobbyists and anyone interested in creating interactive objects or environments." 
-	
+> 	"Arduino is an open-source electronics prototyping platform based on flexible, easy-to-use hardware and software. It's intended for artists, designers, hobbyists and anyone interested in creating interactive objects or environments."  
 	-[Arduino website](http://arduino.cc/)
 
 ## Johnny-Five
 
->	"Johnny-Five is an Open Source, JavaScript Arduino programming framework, developed at Bocoup."
-	
+>	"Johnny-Five is an Open Source, JavaScript Arduino programming framework, developed at Bocoup."  
 	-[Johnny-Five README](https://github.com/rwaldron/johnny-five)
 
 ### Johnny-Five builds on top of the [serialport](https://github.com/voodootikigod/node-serialport) module and the [firmata](https://github.com/jgautier/firmata) protocol to connect to and control an Arduino using only javascript in the [Node.js](http://nodejs.org/) embed environment.
