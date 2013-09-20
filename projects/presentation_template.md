@@ -30,20 +30,20 @@ Be sure to note that the images above are in a series because they are set up li
 
 ### Below are some much smaller images if you want to group a whole bunch of them together.
 
-*	_![Image 1](http://placehold.it/1280x900)_
-*	_![Image 2](http://placehold.it/500x500)_
-*	_![Image 3](http://placehold.it/300x450)_
-*	_![Image 4](http://placehold.it/600x350)_
-*	_![Image 5](http://placehold.it/1280x900)_
-*	_![Image 6](http://placehold.it/600x350)_
-*	_![Image 7](http://placehold.it/500x500)_
-*	_![Image 8](http://placehold.it/1280x900)_
-*	_![Image 9](http://placehold.it/600x350)_
-*	_![Image 10](http://placehold.it/500x500)_
-*	_![Image 11](http://placehold.it/600x350)_
-*	_![Image 12](http://placehold.it/300x450)_
+*	__![Image 1](http://placehold.it/1280x900)__
+*	__![Image 2](http://placehold.it/500x500)__
+*	__![Image 3](http://placehold.it/300x450)__
+*	__![Image 4](http://placehold.it/600x350)__
+*	__![Image 5](http://placehold.it/1280x900)__
+*	__![Image 6](http://placehold.it/600x350)__
+*	__![Image 7](http://placehold.it/500x500)__
+*	__![Image 8](http://placehold.it/1280x900)__
+*	__![Image 9](http://placehold.it/600x350)__
+*	__![Image 10](http://placehold.it/500x500)__
+*	__![Image 11](http://placehold.it/600x350)__
+*	__![Image 12](http://placehold.it/300x450)__
 
-The images above are set up like bullet points, and they are wrapped in underscores, which will shrink them to a maximum size of 120px in height.
+The images above are set up like bullet points, and they are wrapped in double underscores, which will shrink them to a maximum size of 120px in height.
 
 ## Section Nº3
 
