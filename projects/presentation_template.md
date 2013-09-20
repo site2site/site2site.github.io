@@ -56,7 +56,3 @@ You should understand the video above like an image, it will be scaled to fit th
 ### But, if you an \* and a tab infront of it, it will scale to a max-width of 500px.
 
 *	<iframe width="1024" height="768" src="//www.youtube.com/embed/_9TsrZ5iqwo" frameborder="0" allowfullscreen></iframe>
-
-### I supposed you could also make a tiny video by wrapping it in underscores, like this:
-
-*	_<iframe width="1024" height="768" src="//www.youtube.com/embed/_9TsrZ5iqwo" frameborder="0" allowfullscreen></iframe>_

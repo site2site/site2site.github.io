@@ -53,7 +53,10 @@ p{
 }
 
 img,
-pre{
+pre,
+iframe,
+object,
+embed{
   margin:80px 0 0;
 }
 
@@ -163,7 +166,7 @@ pre code{
   }
 
   img{
-    max-width:90%;
+    max-width:100%;
   }
 
   ul li strong img,
@@ -205,8 +208,11 @@ pre code{
     min-width:500px;
   }
   ul li embed,
-  ul li object{
+  ul li object,
+  ul li iframe{
     width:500px;
+    height:auto;
+    max-height: 500px;
   }
 
   ul li p strong{
