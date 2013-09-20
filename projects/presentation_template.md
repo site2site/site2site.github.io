@@ -47,12 +47,12 @@ The images above are set up like bullet points, and they are wrapped in double u
 
 ## Section Nº3
 
-### In Markdown you can insert regular HTML, so it's easy to, say, insert a video from Youtube.
+### In Markdown you can insert regular HTML, so it's easy to, say, insert a video from Youtube (be sure to use the old embed code).
 
-<iframe width="1024" height="768" src="//www.youtube.com/embed/_9TsrZ5iqwo" frameborder="0" allowfullscreen></iframe>
+<object width="1024" height="500"><param name="movie" value="//www.youtube.com/v/khwQ9lf2DJQ?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/khwQ9lf2DJQ?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="1024" height="768" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 You should understand the video above like an image, it will be scaled to fit the page if you just insert the code.
 
 ### But, if you an \* and a tab infront of it, it will scale to a max-width of 500px.
 
-*	<iframe width="1024" height="768" src="//www.youtube.com/embed/_9TsrZ5iqwo" frameborder="0" allowfullscreen></iframe>
+*	<object width="1024" height="768"><param name="movie" value="//www.youtube.com/v/khwQ9lf2DJQ?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/khwQ9lf2DJQ?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="1024" height="768" allowscriptaccess="always" allowfullscreen="true"></embed></object>
