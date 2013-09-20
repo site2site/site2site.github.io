@@ -11,6 +11,7 @@ Note: this is in progress.
 
 Next week you will pitch two directions to a set of clients: Nicola Twilley, Carlos Solis, Benedict Clouette, Marina Otero and Janette Kim. Be sure to include for _both_:
 
+* Develop a one paragraph polemic describing your position of your two proposals. What is their relevance to architecture? What are the stakes for this new kind of space?
 *	project title
 *	one sentence description
 *	paragraph description
@@ -24,4 +25,4 @@ Next week you will pitch two directions to a set of clients: Nicola Twilley, Car
 
 ## Mandatory Office Hours
 
-Next week on Monday or Tuesday you will set up a meeting with Troy for 30 minutes to show your progress.
+Projects are due at 9am on Tuesday you can set up a meeting with us for 30 minutes to show your progress.
