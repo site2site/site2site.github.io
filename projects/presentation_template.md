@@ -9,7 +9,7 @@ project: project_name_here
 
 ### This is large text followed by a large image.
 
-![Image](http://placehold.it/1280x900)
+![Image](http://placehold.it/1280x600)
 
 This is a small text caption to explain that the image above has been scaled to fit the page.
 
