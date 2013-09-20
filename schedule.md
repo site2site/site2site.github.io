@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Site to Site | Schedule
-style: lecture
+style: assignment
 menu: schedule
 ---
 ## Week 1
