@@ -6,17 +6,20 @@ app: global_exhibition/e(X)hibit
 ---
 ##	global_exhibition/e(X)hibit
 
-Description of your program/app in one sentence.
+A muliti-sensor system that reads and translates human activities into 2D graphic installation art.
 
 
 ## Scenario
 
-Designer can upload their new designs (progress/product) to a dropbox, and which will be distributed to and shown in all of Studio Xs, by an exhibition display on site. Critics or visitors can comment on an input device which send them to the author.  
+How to turn an StudioX party inside out? X-hibit employ temperature and light sensors to interpret the activities the event space and feed the information through a generative graphic interface. 
 
 
-![Diagram](https://raw.github.com/weimpromptu/site2site.github.io/master/programs/eXhibit/images/diagram1.png)
+![Diagram](https://github.com/weimpromptu/site2site.github.io/blob/master/programs/eXhibit/images/diagram_electrical-03.png)
 
-![Collage](https://raw.github.com/weimpromptu/site2site.github.io/master/programs/eXhibit/images/scenario1.jpg)
+![Scenario](https://github.com/weimpromptu/site2site.github.io/blob/master/programs/eXhibit/images/image.jpg)
+
+![Equipment](https://github.com/weimpromptu/site2site.github.io/blob/master/programs/eXhibit/images/equipment.png)
+
 
 ### Sub-Section
  
