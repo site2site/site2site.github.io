@@ -742,3 +742,23 @@ Explain: This project tries to capture changes over time in an environment and s
 *	![Image_s2s](http://behance.vo.llnwd.net/profiles14/1139869/projects/5258751/53ab8f2ff6d525ab617ce667f56a8bb0.jpg)
 
 ***
+
+
+### Magic Cube
+
+Posted by @weimpromptu
+
+From PIXELUX STUDIO[blog](http://www.pixelux.tv/48694/1075968/project/magic-cube-generative-art) 
+Each bicycle supply a digitized signal  that is stream to the main application.
+Everything is done with Touch Designer :
+Graphics, animation, particle and physics, shading and glsl,  rendering, programming, light control (dmx), sound modulation (a bridge with Ableton Live).
+The main challenge was to render generative and  360° seamless graphic texture .
+Bike's data flow is process individuality and as a group to modulate different generator, creating different levels of graphics, set according the main timeline.
+A sequence of 240s that drive the rise of the energy until the climax. The cube becomes pure energy, lighting up the statue (Louis XIV) and a burst of fireworks to reward our riders.
+
+Visual elements has been designed to fit the optical properties of the magic cube  : light scattering, mapping,  resolution, glowing....
+ 
+*	![WSN1](http://behance.vo.llnwd.net/profiles12/422207/projects/7031765/hd_b6f9dd2849a22b88e456f0ba3fb85128.jpg)
+
+See movie: [Vimeo](http://vimeo.com/57856289)
+*** 
