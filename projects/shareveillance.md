@@ -1,3 +1,10 @@
+---
+layout: base
+style: lecture
+title: Site to Site | Presentation
+menu: project
+project: Shareveillance
+---
 ##Shareveillance
 
 Kirk Finkel, Leo Shaw, Christina Badal
