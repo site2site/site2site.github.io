@@ -1,0 +1,33 @@
+h2{
+  font-family: Monaco, monospace;
+  font-size: 30px;
+  font-weight: normal;
+  line-height: 1em;
+  color:salmon;
+  margin:160px auto 0;
+  max-width:650px;
+}
+
+#main{
+	width:890px;
+}
+
+img{
+	width:100px;
+	height:auto;
+	float:left;
+	margin-right:20px;
+}
+
+ul{
+	width:250px;
+	min-height: 100px;
+	float:left;
+	margin-right:150px;
+	display: block;
+	list-style: none;
+}
+
+ul li{
+	margin:0;
+}
