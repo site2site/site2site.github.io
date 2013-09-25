@@ -33,7 +33,7 @@ menu: people
 *	[dinamahmoud](http://www.codecademy.com/dinamahmoud) on Code Academy
 *	[dinamahmoud](http://stackoverflow.com/users/2765586/dinamahmoud) on Stackoverflow
 
-![Wu Yifeng]()
+![Wu Yifeng](https://courseworks.columbia.edu/portal/tool/c170c5ac-6bb0-4978-ac01-981597911bea/ParticipantImageServlet.prf?photo=1d45813c-ba95-4603-943c-7ba9fa6897be)
 *	Wu Yifeng
 *	[yw2565](mailto:yw2565@columbia.edu) at Columbia
 *	[YifengWu](https://github.com/YifengWu) on Github
