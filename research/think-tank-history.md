@@ -185,6 +185,10 @@ _Arts and Architecture_, February 1955
 *	![Incubator fever](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/incubator_fever_6.jpg)
 
 
+### It hasn't seemed to wane in enthusiasm in late 2013
+
+![1000startups, September 25, 2013](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/130926_incubator_fever_continues.png)
+
 ### Incubator investment model
 
 ![Investment model 1](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/investmentModel_1.png)
