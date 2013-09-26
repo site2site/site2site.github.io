@@ -87,6 +87,14 @@ blockquote p strong{
   margin-top:15px;
 }
 
+ol{
+  font-size: 36px;
+  width: 500px;
+  margin: 60px auto 0;
+  text-align: left;
+  color: salmon;
+}
+
 
 ul{
   list-style: none;
