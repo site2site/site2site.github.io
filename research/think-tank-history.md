@@ -95,9 +95,9 @@ They came up with:
 *	![Gaither report contents](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_report_3_index.jpg)
 
 
-### Program Area Five - Individual Behavior and Human Relations - coined the term "Behavioral Science" and set up the meta-design for the first think tank:
+### Program Area Five - Individual Behavior and Human Relations - coined the term "Behavioral Science" and set up the meta-design for the first think tank
 
-![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_1.jpg)
+_![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_1.jpg)_
 
 Knowledge production
 
@@ -107,17 +107,17 @@ _![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/
 Free of university and market pressures - basic research
 
 
-*	_![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_3.jpg)_
+_![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_3.jpg)_
 
 Bolster international relations with non-communist world
 
 
-![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_4.jpg)
+_![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_4.jpg)_
 
 Prepare young scholars
 
 
-![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_5.jpg)
+_![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_5.jpg)_
 
 Promote and provide interdisciplinary interaction
 
