@@ -155,7 +155,16 @@ A "socio-cultural milieu" of free intellectual exchange
 ### The school of Palo Alto
 
 *	![CASBS Photo courtyard](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_courtyard.jpg)
-*	![School of Athens](http://uploads5.wikipaintings.org/images/raphael/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg)
+*	![School of Athens](http://uploads5.wikipaintings.org/images/raphael/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg)  
+
+
+*	__![Ralph Tyler](https://casbs-test.stanford.edu/sites/default/files/headshots/Tyler-Ralph-Web_0.jpg?1368229337)__
+*	__![Kenneth Boulding](http://www.nndb.com/people/939/000117588/kenneth-e-boulding-1-sized.jpg)__
+*	__![Ludwig Von Bertalanffy](http://3.bp.blogspot.com/_Zk_QliRTxpA/S974YCFusiI/AAAAAAAAAAk/rXo90SIbkFs/s320/bertalanffy2.jpg)__
+*	__![Ralph Gerard](http://um2017.org/faculty-history/sites/default/files/imagecache/small/Gerard,%20Ralph.jpg)__
+*	__![James Grier Miller](http://lifeinlegacy.com/2002/1116/MillerJamesGrier.jpg)__
+*	__![Anatol Rapoport](http://www.uni-koeln.de/kzfss/images/rapoport.jpg)__
+
 
 
 >	“Individual studies, conference rooms, and research facilities have been designed without disturbing accents and to provide the necessary privacy, both material and psychological, needed to carry on the objectives of the project.”  
@@ -166,14 +175,20 @@ A "socio-cultural milieu" of free intellectual exchange
 
 
 >	"It is precisely the unprogrammed, the unforced, uncoercive atmosphere of the Center which makes it so remarkable. It is not a planning institution but a scanning institution, and it has, I think, succeeded in introducing a much needed element of playfulness into American academic life. It is precisely that element which produces new and unforeseen combinations and which is most likely to speed up the rate of intellectual mutation."  
-	__-Kenneth E. Boulden, CASBS fellow, 1954__
+	__-Kenneth E. Boulding, CASBS fellow, 1954__
 
 
 ![CASBS Interiors](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_interiors.jpg)
 
 
 >	“This book is the result of a unique experience and a unique institution... described by a perceptive Catholic priest as a retreat house for the intellect. Eleven months of vigorous interaction, both playful and serious, with a group of thirty-six able social and biological scientists produced in me a state of mind in which the following monograph was written, or rather dictated, in uninterrupted composition.”  
-	__-Kenneth E. Boulden, preface to “The Image: Knowledge in Life and Socieity”, a book dictated in 11 days at the CASBS in 1954__
+	__-Kenneth E. Boulding, preface to “The Image: Knowledge in Life and Society”, a book dictated in 11 days at the CASBS in 1954__
+
+*	![Edward Shils working](http://publishing.cdlib.org/ucpressebooks/data/13030/t9/ft9w1009t9/figures/ft9w1009t9_00023.jpg)
+*	![Daniel Bell and Edward Shils](http://publishing.cdlib.org/ucpressebooks/data/13030/t9/ft9w1009t9/figures/ft9w1009t9_00024.jpg)
+
+### The CASBS was designed as an environment to provide seamless oscillation between personal reflection and social stimulation
+
 
 
 
