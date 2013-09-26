@@ -105,6 +105,17 @@ secondmenu: think_tank_history
 
 
 
+### Characteristics
+
+>	Expand
+
+Disciplines, scholars, knowledge, American influence
+
+>	Insure
+
+The production of _original_ ideas
+
+
 
 ### Exhibition
 
