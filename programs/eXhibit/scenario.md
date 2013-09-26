@@ -1,10 +1,10 @@
 ---
 layout: app
 style: program
-title: Interactive_exhibition/e_X_hibit
-app: Interactive_exhibition/e_X_hibit
+title: Global_Local/e_X_hibit
+app: e_X_hibit
 ---
-##	Interactive_exhibition/e_X_hibit
+##	Global_Local/e_X_hibit
 
 PART 1: Event at local Studio X gets recorded and uploaded to cloud storage, and become available to other Studio X locations.
 PART 2: Interactive Displaying of images and videos using a motion-sensory syching system that registor visitor movement with the speed of the displaying content. 
