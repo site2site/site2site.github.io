@@ -216,7 +216,7 @@ pre code{
   }
 
   ul li p strong{
-    width:250px;
+    /*max-width:250px;*/
   }
 
 }
