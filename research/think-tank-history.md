@@ -175,6 +175,46 @@ _Arts and Architecture_, February 1955
 
 
 
+## Incubator Fever
+
+### In 2011, it seemed a new incubator was opening every day, if not faster
+
+*	![Incubator fever](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/incubator_fever_1.jpg)
+*	![Incubator fever](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/incubator_fever_2.jpg)
+*	![Incubator fever](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/incubator_fever_3.jpg)
+*	![Incubator fever](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/incubator_fever_4.jpg)
+*	![Incubator fever](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/incubator_fever_5.jpg)
+*	![Incubator fever](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/incubator_fever_6.jpg)
+
+
+### Incubator investment model
+
+![Investment model 1](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/investmentModel_1.png)
+
+![Investment model 2](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/investmentModel_2.png)
+
+
+
+>	Financial capital provided to early-stage, high-potential, high risk, growth startup companies.  
+	__-Venture Capital, [Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)
+
+### +
+
+>	Disruptive innovation "describes a process by which a product or service takes root initially in simple applications at the bottom of a market and then relentlessly moves ‘up market’, eventually displacing established competitors."  
+	__-Clayton Christensen, The Innovator's Dilemma__
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## From Office to University
 
