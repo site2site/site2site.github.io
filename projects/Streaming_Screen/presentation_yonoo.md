@@ -18,7 +18,7 @@ We will propose an app or system to let designers draw, annotate and modeling al
 
 ## Operation
 
-### The system will base on many existing technology and software. But all of those will be reorganized into a compact interface. All
+### The system will base on many existing technology and software. But all of those will be reorganized into a compact interface。
 
 ![Stream](https://github.com/yonoo/site2site.github.io/blob/master/projects/Streaming_Screen/image/Diagram_1.jpg?raw=true)
 ![Share](https://github.com/yonoo/site2site.github.io/blob/master/projects/Streaming_Screen/image/Diagram_2.jpg?raw=true)
