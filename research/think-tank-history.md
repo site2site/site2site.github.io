@@ -53,7 +53,7 @@ secondmenu: think_tank_history
 ![EIM proposed structure](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_proposed_structure.png)
 
 
-### Oppose think tank and incubator to sharpen our understanding of the two typologies
+### Pretending we know what a design studio is, 
 
 ![Think Tank to Incubator](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_thinktank-incubator.png)
 
@@ -151,10 +151,6 @@ A "socio-cultural milieu" of free intellectual exchange
 
 
 
-### Exhibition
-
-*	![EIM Exhibition Install](http://31.media.tumblr.com/tumblr_macqth8IF11rngk46o1_1280.jpg)
-*	![EIM Exhibition Install](http://25.media.tumblr.com/tumblr_macqth8IF11rngk46o2_1280.jpg)
 
 
 
@@ -167,6 +163,43 @@ A "socio-cultural milieu" of free intellectual exchange
 ### Chris Leong invited me to speak at the AIA on Think Tanks in April 2011
 
 *	<iframe src="//player.vimeo.com/video/41152962?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="900" height="506" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+
+## Retrospective Update
+
+### We actually ended up making an office rather than an incubator
+
+### in order to produce an exhibition.
+
+*	![EIM Exhibition Install](http://31.media.tumblr.com/tumblr_macqth8IF11rngk46o1_1280.jpg)
+*	![EIM Exhibition Install](http://25.media.tumblr.com/tumblr_macqth8IF11rngk46o2_1280.jpg)
+
+
+### The NYC-based model we looked at in 2011 was General Assembly, which presented itself as an incubator and co-work space.
+
+
+### Today, General Assembly has redefined itself as a school.
+
+
+### This was always their ambition, but they decided to drop the office aspects.
+
+>	“We wanted to recreate the feeling of a college campus, ” said Adam Pritzker, one of the creators of [General Assembly]. “Something that was outside the structure of an institution but had the same academic tendencies.”
+
+
+
+## From School to Office
+
+>	"Architecture is a collaborative art, perhaps the most collaborative of all. No architect is ever alone. No studio is ever isolated."
+	- Mark Wigley, "The Open-Sourced Architect"
+
+### Our course, Site to Site, has decided to work as an office, using the open source platform Github to structure our collaboration inside the class and with outsiders.
+
+
+
+
+
 
 
 
