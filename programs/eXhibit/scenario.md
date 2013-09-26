@@ -15,12 +15,13 @@ a. Slides will apear and animate accroding to the relative positioning of the vi
 b. If the medium is video. It treats itself as the length of the slide show, and its speed will be determined by the viewer's speed of movement across the viewing area.
 
 
-![Diagram](https://github.com/weimpromptu/site2site.github.io/blob/master/programs/eXhibit/images/diagram_electrical-03.png)
+![Diagram](https://raw.github.com/weimpromptu/site2site.github.io/master/programs/eXhibit/images/assigment1_diagram-02.jpg)
 
-![Scenario](https://github.com/weimpromptu/site2site.github.io/blob/master/programs/eXhibit/images/image.jpg)
+![Collage](https://raw.github.com/weimpromptu/site2site.github.io/master/programs/eXhibit/images/assigment1_collage.jpg)
 
 ![Equipment](https://github.com/weimpromptu/site2site.github.io/blob/master/programs/eXhibit/images/equipment.png)
 
+![Reference](http://www.cis.upenn.edu/~jshi/video_urbanstreet.gif)
 
 ### Sub-Section
  
