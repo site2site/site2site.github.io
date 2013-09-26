@@ -143,15 +143,30 @@ A "socio-cultural milieu" of free intellectual exchange
 
 ![CASBS Site Plan](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_sitePlan.jpg)
 
+_Arts and Architecture_, February 1955
 
-### 
+
+### Welcome to California
 
 ![CASBS Photo grounds](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_grounds.jpg)
 
-![CASBS Photo courtyard](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_courtyard.jpg)
+### The school of Palo Alto
+
+*	![CASBS Photo courtyard](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_courtyard.jpg)
+*	![School of Athens](http://uploads5.wikipaintings.org/images/raphael/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg)
+
+
+>	“Individual studies, conference rooms, and research facilities have been designed without disturbing accents and to provide the necessary privacy, both material and psychological, needed to carry on the objectives of the project.”
+	-Arts and Architecture, February 1955
 
 
 
+>	“It is precisely the unprogrammed, the unforced, uncoercive atmosphere of the Center which makes it so remarkable. It is not a planning institution but a scanning institution, and it has, I think, succeeded in introducing a much needed element of playfulness into American academic life. It is precisely that element which produces new and unforeseen combinations and which is most likely to speed up the rate of intellectual mutation.”
+	- Kenneth E. Boulden, CASBS fellow, 1954
+
+
+>	“This book is the result of a unique experience and a unique institution... described by a perceptive Catholic priest as a retreat house for the intellect. Eleven months of vigorous interaction, both playful and serious, with a group of thirty-six able social and biological scientists produced in me a state of mind in which the following monograph was written, or rather dictated, in uninterrupted composition.”
+	- Kenneth E. Boulden, preface to “The Image: Knowledge in Life and Socieity”, a book dictated in 11 days at the CASBS in 1954
 
 
 
