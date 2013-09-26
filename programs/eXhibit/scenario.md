@@ -21,7 +21,7 @@ b. If the medium is video. It treats itself as the length of the slide show, and
 
 ![Equipment](https://github.com/weimpromptu/site2site.github.io/blob/master/programs/eXhibit/images/equipment.png)
 
-![Reference](http://www.cis.upenn.edu/~jshi/video_urbanstreet.gif)
+![Reference](https://raw.github.com/weimpromptu/site2site.github.io/master/programs/eXhibit/images/video_urbanstreet.gif)
 
 ### Sub-Section
  
