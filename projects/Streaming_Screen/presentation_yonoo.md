@@ -9,7 +9,7 @@ project: Streaming Screen
 
 ### Give the "language" back to designers in teleconferences. 
 
-![Image](https://www.dropbox.com/s/rql9u59fip3863h/Collage.jpg)
+![Image](https://github.com/yonoo/site2site.github.io/blob/master/projects/Streaming_Screen/image/Collage.jpg)
 
 Content sharing is crucial to remote collaboration, especially in brainstorm and group discussion. But nowadays, most of the teleconference systems are designed only to exchange information in voice and image. For designers, drawing and modeling are also the fundamental languages, which can be hardly communicated through microphone and camera. 
 
@@ -20,17 +20,17 @@ We will propose an app or system to let designers draw, annotate and modeling al
 
 ### The system will base on many existing technology and software. But all of those will be reorganized into a compact interface. All
 
-![Stream](https://www.dropbox.com/s/rzqhmpbf4kzpyfx/Diagram-1.jpg)
-![Share](https://www.dropbox.com/s/272e0e9cr1wfw0a/Diagram-2.jpg)
-![Social](https://www.dropbox.com/s/pjettu83vkctsac/Diagram-3.jpg)
-![interface](https://www.dropbox.com/s/uc5v2sea49c1fch/Diagram-4.jpg)
-![System](https://www.dropbox.com/s/3pex0pkd1fr1wr9/Diagram-5.jpg)
+![Stream](https://github.com/yonoo/site2site.github.io/blob/master/projects/Streaming_Screen/image/Diagram_1.jpg)
+![Share](https://github.com/yonoo/site2site.github.io/blob/master/projects/Streaming_Screen/image/Diagram_2.jpg)
+![Social](https://github.com/yonoo/site2site.github.io/blob/master/projects/Streaming_Screen/image/Diagram_3.jpg)
+![interface](https://github.com/yonoo/site2site.github.io/blob/master/projects/Streaming_Screen/image/Diagram_4.jpg)
+![System](https://github.com/yonoo/site2site.github.io/blob/master/projects/Streaming_Screen/image/Diagram_5.jpg)
 
 Be sure to note that the images above are in a series because they are set up like bullet points, with an \* asterix before them.
 
 ###  References
 
-*	![Image 1](https://www.dropbox.com/s/6ewxtf99tjndxnn/Meeting.jpg)
+*	![Image 1](https://github.com/yonoo/site2site.github.io/blob/master/projects/Streaming_Screen/image/Meeting.jpg)
 *	![Image 2](http://i1.ytimg.com/vi/jj6q_z2Ni9M/hqdefault.jpg)
 *	![Image 3](http://1.design-milk.com/images/2013/08/trupad-annotate-ipad-photo-app-600x399.jpg)
 *	![Image 4](http://media.dexigner.com/article/23081/Autodesk_FormIt_iPad_App_03_gallery.jpg)
