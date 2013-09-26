@@ -16,20 +16,20 @@ video analysor/sensors are installed in front of the displaying surface/screen, 
 a. Slides will apear and animate accroding to the relative positioning of the viewer to a desinated viewing area. The animation will synch up with the view's motion, and pace the itself to fit itself accroding to the relative location within the viewing area. When viewer stops, images freeze its animation, when viewer moves, the images moves with him/her. 
 b. If the medium is video. It treats itself as the length of the slide show, and its speed will be determined by the viewer's speed of movement across the viewing area.
 
-
-![Diagram](https://raw.github.com/weimpromptu/site2site.github.io/master/programs/eXhibit/images/assigment1_diagram-02.jpg)
 Diagram 
+![Diagram](https://raw.github.com/weimpromptu/site2site.github.io/master/programs/eXhibit/images/assigment1_diagram-02.jpg)
 
-![Collage](https://raw.github.com/weimpromptu/site2site.github.io/master/programs/eXhibit/images/assigment1_collage.jpg)
 Collage
+![Collage](https://raw.github.com/weimpromptu/site2site.github.io/master/programs/eXhibit/images/assigment1_collage.jpg)
 
-![Equipment](https://raw.github.com/weimpromptu/site2site.github.io/master/programs/eXhibit/images/assigment1_equipment%20list-04.jpg)
 Equipment List
+![Equipment](https://raw.github.com/weimpromptu/site2site.github.io/master/programs/eXhibit/images/assigment1_equipment%20list-04.jpg)
 
-![Reference]( )
 Video Anaysis Reference 
+![Reference](https://raw.github.com/weimpromptu/site2site.github.io/master/programs/eXhibit/images/assigment1_video_analsys.jpg)
 
-### Sub-Section
+
+ 
  
 
 
