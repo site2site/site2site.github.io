@@ -159,10 +159,14 @@ _Arts and Architecture_, February 1955
 >	“Individual studies, conference rooms, and research facilities have been designed without disturbing accents and to provide the necessary privacy, both material and psychological, needed to carry on the objectives of the project.”
 	-Arts and Architecture, February 1955
 
+*	![CASBS Lobby](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_interiorLobby.jpg)
+*	![CASBS Table](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_interiorTable.jpg)
 
 
 >	“It is precisely the unprogrammed, the unforced, uncoercive atmosphere of the Center which makes it so remarkable. It is not a planning institution but a scanning institution, and it has, I think, succeeded in introducing a much needed element of playfulness into American academic life. It is precisely that element which produces new and unforeseen combinations and which is most likely to speed up the rate of intellectual mutation.”
 	- Kenneth E. Boulden, CASBS fellow, 1954
+
+![CASBS Interiors](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_interiors.jpg)
 
 
 >	“This book is the result of a unique experience and a unique institution... described by a perceptive Catholic priest as a retreat house for the intellect. Eleven months of vigorous interaction, both playful and serious, with a group of thirty-six able social and biological scientists produced in me a state of mind in which the following monograph was written, or rather dictated, in uninterrupted composition.”
