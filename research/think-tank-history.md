@@ -195,6 +195,11 @@ _Arts and Architecture_, February 1955
 
 ![Investment model 1](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/investmentModel_1.png)
 
+### A bad example: Kodak goes bankrupt while Instagram is exits at $1bn
+
+*	![Kodak Bankrupt](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/120119_kodak_bankrupt_nyt.png)
+*	![Instagram 1bn](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/120409_instagram_1bn_nyt.png)
+
 ### The combination of placing many bets and potentially winning big shape the incubator type
 
 ![Investment model 2](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/investmentModel_2.png)
