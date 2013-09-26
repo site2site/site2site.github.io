@@ -194,6 +194,21 @@ _Arts and Architecture_, February 1955
 ![Investment model 2](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/investmentModel_2.png)
 
 
+## Incubator Archetype
+
+### In 1995, Paul Graham and others started investing in start up companies in Boston.
+
+![Paul Graham and Ashton Kutcher](http://www.thetimes.co.uk/tto/multimedia/archive/00434/114681673_a_434126c.jpg)
+
+### In 2005, they moved to San Francisco and opened Y Combinator, an incubation space for tech companies that offered small seed investments and mentoring to an inaugural class of 8 companies in exchange for equity
+
+*	![Y Combinator logo](http://ycombinator.com/images/yc500.gif)
+
+### As of 2012, they have crystalized their model into a highly structured environment for producing disruptive innovation, and grown their class to 66 in 2012
+
+![Y Combinator timeline](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/ycombinator_timeline.png)
+
+
 
 >	Financial capital provided to early-stage, high-potential, high risk, growth startup companies.  
 	__-Venture Capital, [Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)
