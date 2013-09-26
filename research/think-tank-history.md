@@ -163,8 +163,8 @@ _Arts and Architecture_, February 1955
 *	![CASBS Table](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_interiorTable.jpg)
 
 
->	“It is precisely the unprogrammed, the unforced, uncoercive atmosphere of the Center which makes it so remarkable. It is not a planning institution but a scanning institution, and it has, I think, succeeded in introducing a much needed element of playfulness into American academic life. It is precisely that element which produces new and unforeseen combinations and which is most likely to speed up the rate of intellectual mutation.”
-	- Kenneth E. Boulden, CASBS fellow, 1954
+>	__“It is precisely the unprogrammed, the unforced, uncoercive atmosphere of the Center which makes it so remarkable. It is not a planning institution but a scanning institution, and it has, I think, succeeded in introducing a much needed element of playfulness into American academic life. It is precisely that element which produces new and unforeseen combinations and which is most likely to speed up the rate of intellectual mutation.”
+	- Kenneth E. Boulden, CASBS fellow, 1954__
 
 ![CASBS Interiors](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_interiors.jpg)
 

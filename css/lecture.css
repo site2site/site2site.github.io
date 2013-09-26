@@ -81,6 +81,10 @@ blockquote{
   color: salmon;
 }
 
+blockquote em{
+  font-size: 24px;
+}
+
 
 ul{
   list-style: none;
