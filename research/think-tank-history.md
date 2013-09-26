@@ -300,8 +300,8 @@ Young founders' ideas with proven formulas
 
 ### Our course, Site to Site, has decided to work as an office.
 
->	"Architecture is a collaborative art, perhaps the most collaborative of all. No architect is ever alone. No studio is ever isolated."
-	- Mark Wigley, "The Open-Sourced Architect"
+>	"Architecture is a collaborative art, perhaps the most collaborative of all. No architect is ever alone. No studio is ever isolated."  
+	__-Mark Wigley, "The Open-Sourced Architect"__
 
 ### We are using the most widely used platform for open source, Github, to structure collaboration within the class and with others outside.
 
