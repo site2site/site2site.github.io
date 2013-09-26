@@ -13,7 +13,7 @@ The interactive platform can be a stable screen (work with a projector), and als
 
 ## Scenario
 
-![Interactive Viewing](https://github.com/YifengWu/site2site.github.io/blob/9278fa4a0d61f0ab457119d08daa9bc336cdc480/programs/interactive-viewing/image/360-panorama.png)
+![Interactive Viewing](https://raw.github.com/YifengWu/site2site.github.io/master/programs/interactive-viewing/image/360-panorama.png)
 
 ![Interactive Viewing](https://raw.github.com/YifengWu/site2site.github.io/9278fa4a0d61f0ab457119d08daa9bc336cdc480/programs/interactive-viewing/image/diagram-01.jpg)
 
