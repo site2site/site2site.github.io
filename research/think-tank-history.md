@@ -189,9 +189,13 @@ _Arts and Architecture_, February 1955
 
 ![1000startups, September 25, 2013](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/130926_incubator_fever_continues.png)
 
-### Incubator investment model
+## Incubator investment model
+
+### The financial ethos of the incubator is a combination of the mechanics of venture capital and the theory of disruptive innovation
 
 ![Investment model 1](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/investmentModel_1.png)
+
+### The combination of placing many bets and potentially winning big shape the incubator type
 
 ![Investment model 2](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/investmentModel_2.png)
 
