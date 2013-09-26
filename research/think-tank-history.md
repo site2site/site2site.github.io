@@ -65,9 +65,11 @@ secondmenu: think_tank_history
 
 ![Google nGram Think Tank](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/google_nGram_thinkTank.png)
 
+
 ### Think Tank archetype: Center for Advanced Study in the Behavioral Sciences (1954)
 
 ![OED Think Tank](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/OED_thinkTank.jpg)
+
 
 ### Ford Foundation Gaither Report, 1949
 
@@ -76,6 +78,7 @@ secondmenu: think_tank_history
 *	![Gaither Report cover](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_report_1_cover.jpg)
 *	![Gaither report inside](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_report_2.jpg)
 *	![Gaither report contents](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_report_3_index.jpg)
+
 
 ### Program Area Five: Individual Behavior and Human Relations
 
@@ -104,7 +107,6 @@ secondmenu: think_tank_history
 ### Promote and provide interdisciplinary interaction
 
 
-
 ### Characteristics
 
 >	Expand
@@ -114,6 +116,22 @@ Disciplines, scholars, knowledge, American influence
 >	Insure
 
 The production of _original_ ideas
+
+>	Free
+
+A socio-cultural milieu of free intellectual exchange
+
+
+## Architecture of the CASBS
+
+![CASBS Site Plan](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_sitePlan.jpg)
+
+
+
+![CASBS Photo grounds](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_grounds.jpg)
+
+![CASBS Photo courtyard](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_courtyard.jpg)
+
 
 
 
