@@ -58,7 +58,7 @@ secondmenu: think_tank_history
 ![Think Tank to Incubator](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_thinktank-incubator.png)
 
 
-## Think Tank Typology
+## Think Tank Diffusion
 
 
 ### Explosion and diffusion of the term
@@ -70,8 +70,17 @@ secondmenu: think_tank_history
 
 ![OED Think Tank](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/OED_thinkTank.jpg)
 
+### What were the typological attributes of the first think tank?
 
-### Ford Foundation Gaither Report, 1949
+
+## Dreaming the Archetype
+
+### In 1947, Henry Ford dies and leaves much of his fortune to the Ford Foundation
+
+*	![Henry Ford Funeral in LIFE](http://books.google.com.br/books?id=ck0EAAAAMBAJ&pg=PA33&img=1&zoom=3&hl=pt-BR&sig=ACfU3U2AFnSn1CjAvrVcgZpgR8_UC0nW2w&w=685&w=800)
+
+
+### In 1949, the Ford Foundation board of trustees select Horace Rowan Gaither, RAND co-founder and future director, to report on what the now most well endowed foundation in the world should do
 
 >	“Established for the General purpose of advancing human welfare”
 
@@ -80,34 +89,36 @@ secondmenu: think_tank_history
 *	![Gaither report contents](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_report_3_index.jpg)
 
 
-### Program Area Five: Individual Behavior and Human Relations
+### Program Area Five - Individual Behavior and Human Relations - coined the term "Behavioral Science" and set up the meta-design for the first think tank:
 
 ![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_1.jpg)
 
-### Knowledge production
+Knowledge production
 
 
 ![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_2.jpg)
 
-### Free of university and market pressures
+Free of university and market pressures - basic research
 
 
 ![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_3.jpg)
 
-### International relations
+Bolster international relations with non-communist world
 
 
 ![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_4.jpg)
 
-### Prepare young scholars
+Prepare young scholars
 
 
 ![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_5.jpg)
 
-### Promote and provide interdisciplinary interaction
+Promote and provide interdisciplinary interaction
 
 
-### Characteristics
+
+
+## CASBS Characteristics
 
 >	Expand
 
@@ -115,18 +126,23 @@ Disciplines, scholars, knowledge, American influence
 
 >	Insure
 
-The production of _original_ ideas
+The production of _original_ ideas, new branches of knowledge
 
 >	Free
 
-A socio-cultural milieu of free intellectual exchange
+A "socio-cultural milieu" of free intellectual exchange
+
+
 
 
 ## Architecture of the CASBS
 
+### A free atmosphere of communication and exchange
+
 ![CASBS Site Plan](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_sitePlan.jpg)
 
 
+### 
 
 ![CASBS Photo grounds](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_grounds.jpg)
 
