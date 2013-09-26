@@ -282,33 +282,12 @@ Young founders' ideas with proven formulas
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-## From Office to University
-
-
-
-
-
-### Chris Leong invited me to speak at the AIA on Think Tanks in April 2011
-
-*	<iframe src="//player.vimeo.com/video/41152962?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="900" height="506" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-
-
-
 ## Retrospective Update
 
 ### We actually ended up making an office rather than an incubator
+
+![Think Tank to Office](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_thinktank-office_iso.png)
+
 
 ### in order to produce an exhibition.
 
@@ -316,20 +295,8 @@ Young founders' ideas with proven formulas
 *	![EIM Exhibition Install](http://25.media.tumblr.com/tumblr_macqth8IF11rngk46o2_1280.jpg)
 
 
-### The NYC-based model we looked at in 2011 was General Assembly, which presented itself as an incubator and co-work space.
 
-
-### Today, General Assembly has redefined itself as a school.
-
-
-### This was always their ambition, but they decided to drop the office aspects.
-
->	“We wanted to recreate the feeling of a college campus, ” said Adam Pritzker, one of the creators of [General Assembly]. “Something that was outside the structure of an institution but had the same academic tendencies.”
-	- [New York Times, January 24, 2011](http://bits.blogs.nytimes.com/2011/01/24/a-place-for-techies-to-gather/)
-
-
-
-## From School to Office
+## Site to Site
 
 >	"Architecture is a collaborative art, perhaps the most collaborative of all. No architect is ever alone. No studio is ever isolated."
 	- Mark Wigley, "The Open-Sourced Architect"
@@ -338,6 +305,13 @@ Young founders' ideas with proven formulas
 
 
 
+
+
+## Appendix
+
+### Chris Leong invited me to speak at the AIA on Think Tanks in April 2011
+
+*	<iframe src="//player.vimeo.com/video/41152962?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="900" height="506" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 
