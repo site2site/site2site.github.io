@@ -46,7 +46,6 @@ secondmenu: think_tank_history
 *	__![Marey](http://www.experimentsinmotion.com/media/files/5e336acf7563dbc13b2b65e813cadb7e.jpg)__
 *	__![Televisor](http://www.experimentsinmotion.com/media/files/b4a0c0ad7b06ac85d46f9afcfd0939b9.jpg)__
 *	__![schematic](http://www.experimentsinmotion.com/media/files/481f312046c735b11080a64cd35bec6b.jpg)__
-*	__![]
 
 ### Proposed structure
 
