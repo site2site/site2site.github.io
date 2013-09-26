@@ -7,7 +7,7 @@ secondmenu: think_tank_history
 ---
 ## 2011
 
-### Experiments in Motion, A Partnership between Columbia GSAPP and Audi of America
+### [Experiments in Motion](http://experimentsinmotion.com/), A Partnership between Columbia GSAPP and Audi of America
 
 ![EIM website design](http://projectprojects.com/wp-content/uploads/eim-browserview-hq.gif)
 
