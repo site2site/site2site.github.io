@@ -233,6 +233,19 @@ The production of _disruptive_ ideas, toppling existing industry leaders
 Young founders' ideas with proven formulas
 
 
+## Archetype Comparison
+
+### Similarities between think tank and incubator types
+
+1.	Extra-University
+2.	Production of innovations
+3.	Convert uncertainty into risk
+4.	Foster young talent
+
+### Differences between think tank and incubator types
+
+![Differences](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/differences_incubator_thinkTank.png)
+
 
 
 
