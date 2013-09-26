@@ -333,6 +333,10 @@ Young founders' ideas with proven formulas
 *	![Site to Site Blame](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/site2site_blame_github.png)
 
 
+### Recent, Github started to get more intelligent about 3D models
+
+<blockquote class="twitter-tweet"><p>MT If this works it&#39;s HUGE. <a href="https://twitter.com/troytherrien">@troytherrien</a> architects get ready for a new workflow: <a href="https://twitter.com/github">@github</a> does 3D diffs <a href="https://t.co/3QAzX5cMlb">https://t.co/3QAzX5cMlb</a></p>&mdash; Derek Lindner (@mantella) <a href="https://twitter.com/mantella/statuses/380431973560229889">September 18, 2013</a></blockquote>
+<script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Appendix
