@@ -305,7 +305,7 @@ Young founders' ideas with proven formulas
 
 ### We are using the most widely used platform for open source, Github, to structure collaboration within the class and with others outside.
 
-![Rick Waldron workshop]()
+![Rick Waldron workshop](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/rick_workshop.jpg)
 
 
 ### Github allows us to break into teams around projects
