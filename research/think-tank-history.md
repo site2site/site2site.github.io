@@ -86,11 +86,10 @@ secondmenu: think_tank_history
 *	![Gaither Report cover](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_report_1_cover.jpg)
 *	![Gaither report inside](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_report_2.jpg)
 
-They came up with:
 
 >	“Established for the General purpose of advancing human welfare”
 
-### This would be approached from 5 angles
+### This would be approached from 5 areas
 
 *	![Gaither report contents](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_report_3_index.jpg)
 
@@ -170,25 +169,25 @@ A "socio-cultural milieu" of free intellectual exchange
 >	“Individual studies, conference rooms, and research facilities have been designed without disturbing accents and to provide the necessary privacy, both material and psychological, needed to carry on the objectives of the project.”  
 	__-Arts and Architecture, February 1955__
 
-*	![CASBS Lobby](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_interiorLobby.jpg)
-*	![CASBS Table](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_interiorTable.jpg)
+![CASBS Interiors](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_interiors.jpg)
 
 
 >	"It is precisely the unprogrammed, the unforced, uncoercive atmosphere of the Center which makes it so remarkable. It is not a planning institution but a scanning institution, and it has, I think, succeeded in introducing a much needed element of playfulness into American academic life. It is precisely that element which produces new and unforeseen combinations and which is most likely to speed up the rate of intellectual mutation."  
 	__-Kenneth E. Boulding, CASBS fellow, 1954__
 
 
-![CASBS Interiors](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_interiors.jpg)
+*	![CASBS Lobby](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_interiorLobby.jpg)
+*	![CASBS Table](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_interiorTable.jpg)
+
 
 
 >	“This book is the result of a unique experience and a unique institution... described by a perceptive Catholic priest as a retreat house for the intellect. Eleven months of vigorous interaction, both playful and serious, with a group of thirty-six able social and biological scientists produced in me a state of mind in which the following monograph was written, or rather dictated, in uninterrupted composition.”  
 	__-Kenneth E. Boulding, preface to “The Image: Knowledge in Life and Society”, a book dictated in 11 days at the CASBS in 1954__
 
-*	![Edward Shils working](http://publishing.cdlib.org/ucpressebooks/data/13030/t9/ft9w1009t9/figures/ft9w1009t9_00023.jpg)
 *	![Daniel Bell and Edward Shils](http://publishing.cdlib.org/ucpressebooks/data/13030/t9/ft9w1009t9/figures/ft9w1009t9_00024.jpg)
+*	![Edward Shils working](http://publishing.cdlib.org/ucpressebooks/data/13030/t9/ft9w1009t9/figures/ft9w1009t9_00023.jpg)
 
-### The CASBS was designed as an environment to provide seamless oscillation between personal reflection and social stimulation
-
+### From social stimulation to private reflection and production, this was the logic of innovation at the first think tank
 
 
 
@@ -214,7 +213,7 @@ A "socio-cultural milieu" of free intellectual exchange
 
 ![Investment model 1](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/investmentModel_1.png)
 
-### A bad example: Kodak goes bankrupt while Instagram is exits at $1bn
+### E.g.: Kodak goes bankrupt, 6 months later Instagram exits at $1bn
 
 *	![Kodak Bankrupt](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/120119_kodak_bankrupt_nyt.png)
 *	![Instagram 1bn](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/120409_instagram_1bn_nyt.png)
