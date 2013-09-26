@@ -1,5 +1,6 @@
 <div class="menu">
     <select onchange="window.open(this.options[this.selectedIndex].value,'_top')">
         <option {% if secondmenu == 'examples' %}selected="selected" {% endif %}value="/research/examples.html">Examples</option>
+        <option {% if secondmenu == 'think_tank_history' %}selected="selected" {% endif %}value="/research/think-tank-history.html">Think Tank History</option>
     </select>
 </div>
