@@ -298,12 +298,39 @@ Young founders' ideas with proven formulas
 
 ## Site to Site
 
+### Our course, Site to Site, has decided to work as an office.
+
 >	"Architecture is a collaborative art, perhaps the most collaborative of all. No architect is ever alone. No studio is ever isolated."
 	- Mark Wigley, "The Open-Sourced Architect"
 
-### Our course, Site to Site, has decided to work as an office, using the open source platform Github to structure our collaboration inside the class and with outsiders.
+### We are using the most widely used platform for open source, Github, to structure collaboration within the class and with others outside
 
 
+### Github allows us to break into teams around projects
+
+![Site to Site Contributors](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/site2site_github.png)
+
+
+### to track contributions
+
+![Site to Site Contributors](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/site2site_contributors_github.png)
+
+### to visualize activity
+
+*	![Site to Site Activity](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/site2site_punchcard_github.png)
+*	![Site to Site Activity](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/site2site_network_github.png)
+
+### to report issues
+
+![Site to Site Issues](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/site2site_issues_github.png)
+
+
+### and to 
+
+
+### This also allows us to work with people outside the class, and bring them into the class
+
+![Rick Waldron ]
 
 
 
