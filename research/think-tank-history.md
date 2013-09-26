@@ -53,39 +53,45 @@ secondmenu: think_tank_history
 ![EIM proposed structure](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_proposed_structure.png)
 
 
-### The problem with think tanks: they've become ubiquitous
+### What is a Think Tank?
 
 ![Google nGram Think Tank](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/google_nGram_thinkTank.png)
 
-
-### Pretending we know what a design studio is, we can focus on the bookends of the program, comparing Think Tank and Incubator to attempt to sharpen our understanding of each type
+### What isn't a think tank?
 
 ![Think Tank to Incubator](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_thinktank-incubator_iso.png)
+
+### What is the difference between these two typologies?
+
 
 
 ## Think Tank Archetype
 
-
-### The first "think tank": Center for Advanced Study in the Behavioral Sciences (1954)
+### The first "think tank": The Center for Advanced Study in the Behavioral Sciences (1954)
 
 ![OED Think Tank](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/OED_thinkTank.jpg)
 
-### What were the typological attributes of the first think tank?
 
 
-## Preparing the Ground
+
+## Pre-History of The Center for Advanced Study in the Behavioral Sciences
 
 ### In 1947, Henry Ford dies and leaves much of his fortune to the Ford Foundation
 
 *	![Henry Ford Funeral in LIFE](http://books.google.com.br/books?id=ck0EAAAAMBAJ&pg=PA33&img=1&zoom=3&hl=pt-BR&sig=ACfU3U2AFnSn1CjAvrVcgZpgR8_UC0nW2w&w=685&w=800)
 
 
-### In 1949, the Ford Foundation board of trustees select Horace Rowan Gaither, RAND co-founder and future director, to report on what the now most well endowed foundation in the world should do
-
->	“Established for the General purpose of advancing human welfare”
+### In 1949, Horace Rowan Gaither, RAND co-founder and future director, chairs a committee to determine what to do with the world's most well-endowed foundation
 
 *	![Gaither Report cover](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_report_1_cover.jpg)
 *	![Gaither report inside](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_report_2.jpg)
+
+They came up with:
+
+>	“Established for the General purpose of advancing human welfare”
+
+### This would be approached from 5 angles
+
 *	![Gaither report contents](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_report_3_index.jpg)
 
 
@@ -96,12 +102,12 @@ secondmenu: think_tank_history
 Knowledge production
 
 
-![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_2.jpg)
+_![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_2.jpg)_
 
 Free of university and market pressures - basic research
 
 
-![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_3.jpg)
+*	_![Gaither report snippet](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/gaither_snippet_3.jpg)_
 
 Bolster international relations with non-communist world
 
@@ -137,14 +143,12 @@ A "socio-cultural milieu" of free intellectual exchange
 
 ## Architecture of the Think Tank Archetype
 
-### A free atmosphere of communication and exchange
+### The Ford Foundation decided to fund a new center in Palo Alto for the study of the behavioral sciences, designed by Berkeley Architecture Dean [William Wurster](http://en.wikipedia.org/wiki/William_Wurster), to open in 1954
+
 
 ![CASBS Site Plan](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_sitePlan.jpg)
 
-_Arts and Architecture_, February 1955
-
-
-### Welcome to California
+### A free and open atmosphere of communication and exchange
 
 ![CASBS Photo grounds](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/casbs_photo_grounds.jpg)
 

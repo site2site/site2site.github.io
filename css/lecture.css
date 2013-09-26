@@ -107,7 +107,8 @@ ul li strong{
   line-height: 1.25em;
 }
 
-ul li em img{
+ul li em img,
+em img{
   border:3px solid salmon;
 }
 
