@@ -303,7 +303,9 @@ Young founders' ideas with proven formulas
 >	"Architecture is a collaborative art, perhaps the most collaborative of all. No architect is ever alone. No studio is ever isolated."
 	- Mark Wigley, "The Open-Sourced Architect"
 
-### We are using the most widely used platform for open source, Github, to structure collaboration within the class and with others outside
+### We are using the most widely used platform for open source, Github, to structure collaboration within the class and with others outside.
+
+![Rick Waldron workshop]()
 
 
 ### Github allows us to break into teams around projects
@@ -325,12 +327,11 @@ Young founders' ideas with proven formulas
 ![Site to Site Issues](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/site2site_issues_github.png)
 
 
-### and to 
+### and to revert to previous states.
 
+*	![Site to Site History](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/site2site_history_github.png)
+*	![Site to Site Blame](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/site2site_blame_github.png)
 
-### This also allows us to work with people outside the class, and bring them into the class
-
-![Rick Waldron ]
 
 
 
