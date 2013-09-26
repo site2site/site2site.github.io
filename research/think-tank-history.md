@@ -60,22 +60,20 @@ secondmenu: think_tank_history
 
 ### Pretending we know what a design studio is, we can focus on the bookends of the program, comparing Think Tank and Incubator to attempt to sharpen our understanding of each type
 
-![Think Tank to Incubator](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_thinktank-incubator.png)
+![Think Tank to Incubator](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_thinktank-incubator_iso.png)
 
 
-## Think Tank Diffusion
+## Think Tank Archetype
 
 
-
-
-### Think Tank archetype: Center for Advanced Study in the Behavioral Sciences (1954)
+### The first "think tank": Center for Advanced Study in the Behavioral Sciences (1954)
 
 ![OED Think Tank](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/OED_thinkTank.jpg)
 
 ### What were the typological attributes of the first think tank?
 
 
-## Dreaming the Archetype
+## Preparing the Ground
 
 ### In 1947, Henry Ford dies and leaves much of his fortune to the Ford Foundation
 
@@ -120,9 +118,9 @@ Promote and provide interdisciplinary interaction
 
 
 
-## CASBS Characteristics
+## Characteristics of the Think Tank Archetype
 
->	Expand
+>	Maximize
 
 Disciplines, scholars, knowledge, American influence
 
@@ -137,7 +135,7 @@ A "socio-cultural milieu" of free intellectual exchange
 
 
 
-## Architecture of the CASBS
+## Architecture of the Think Tank Archetype
 
 ### A free atmosphere of communication and exchange
 
@@ -194,6 +192,8 @@ _Arts and Architecture_, February 1955
 ![Investment model 2](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/investmentModel_2.png)
 
 
+
+
 ## Incubator Archetype
 
 ### In 1995, Paul Graham and others started investing in start up companies in Boston.
@@ -208,15 +208,31 @@ _Arts and Architecture_, February 1955
 
 ![Y Combinator timeline](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/ycombinator_timeline.png)
 
+*	![Y Combinator Image](http://ycombinator.com/slideshow/1.jpg)
+*	![Y Combinator Image](http://ycombinator.com/slideshow/2.jpg)
+*	![Y Combinator Image](http://ycombinator.com/slideshow/3.jpg)
+*	![Y Combinator Image](http://ycombinator.com/slideshow/4.jpg)
+*	![Y Combinator Image](http://ycombinator.com/slideshow/6.jpg)
+*	![Y Combinator Image](http://ycombinator.com/slideshow/7.jpg)
 
 
->	Financial capital provided to early-stage, high-potential, high risk, growth startup companies.  
-	__-Venture Capital, [Wikipedia](http://en.wikipedia.org/wiki/Venture_capital)
 
-### +
 
->	Disruptive innovation "describes a process by which a product or service takes root initially in simple applications at the bottom of a market and then relentlessly moves ‘up market’, eventually displacing established competitors."  
-	__-Clayton Christensen, The Innovator's Dilemma__
+## Characteristics of the Incubator Archetype
+
+>	Minimize
+
+Isolate a minimum viable product that can ignite a business
+
+>	Insure
+
+The production of _disruptive_ ideas, toppling existing industry leaders
+
+>	Direct
+
+Young founders' ideas with proven formulas
+
+
 
 
 
