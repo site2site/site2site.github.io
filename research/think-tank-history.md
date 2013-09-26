@@ -5,13 +5,13 @@ style: lecture
 menu: research
 secondmenu: think_tank_history
 ---
-## 2011
+## Experiments in Motion
 
-### [Experiments in Motion](http://experimentsinmotion.com/), A Partnership between Columbia GSAPP and Audi of America
+### [Experiments in Motion](http://experimentsinmotion.com/), A Partnership between Columbia GSAPP and Audi of America from September 2011 - September 2012
 
 ![EIM website design](http://projectprojects.com/wp-content/uploads/eim-browserview-hq.gif)
 
-### Rewriting the history of modernism
+### Theoretical framing: rewrite the history of modernism through the lens of motion
 
 *	__![Lartigue](http://www.experimentsinmotion.com/media/files/bda6740835214919d2d8495695f76beb.jpg)__
 *	__![Bullet](http://www.experimentsinmotion.com/directus/media/thumbnails/d65247753c5918fb41fd84c91d78a52c.jpg?w=940&h=410&c=false)__
@@ -47,7 +47,13 @@ secondmenu: think_tank_history
 *	__![Televisor](http://www.experimentsinmotion.com/media/files/b4a0c0ad7b06ac85d46f9afcfd0939b9.jpg)__
 *	__![schematic](http://www.experimentsinmotion.com/media/files/481f312046c735b11080a64cd35bec6b.jpg)__
 
-### Proposed structure
+
+### Chris Leong invited me to speak at the AIA on Think Tanks
+
+*	<iframe src="//player.vimeo.com/video/41152962?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="900" height="506" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+### Experiments in Motion structure as of April 2011
 
 ![EIM proposed structure](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_proposed_structure.png)
 
@@ -55,8 +61,19 @@ secondmenu: think_tank_history
 
 ![Think Tank to Incubator](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_thinktank-incubator.png)
 
-### Lecture last year at the AIA, invited by Chris Leong
+### Actual structure
 
-*	<iframe src="//player.vimeo.com/video/41152962?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="900" height="506" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![Think Tank to Incubator](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_thinktank-office.png)
+
+### Exhibition
+
+![EIM Exhibition rendering](http://static.tumblr.com/vnjel8x/DgJma1ynu/eimblogexhibition.png)
+
+*	![EIM Exhibition Install](http://31.media.tumblr.com/tumblr_macqth8IF11rngk46o1_1280.jpg)
+*	![EIM Exhibition Install](http://25.media.tumblr.com/tumblr_macqth8IF11rngk46o2_1280.jpg)
+
+
+
+
 
 ## 
