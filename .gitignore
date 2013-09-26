@@ -6,3 +6,5 @@ _site/*
 programs/kcApp/.DS_Store
 
 programs/.DS_Store
+
+_site
