@@ -213,6 +213,7 @@ pre code{
     width:500px;
     height:auto;
     max-height: 500px;
+    min-height:300px;
   }
 
   ul li p strong{
