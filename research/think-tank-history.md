@@ -5,13 +5,13 @@ style: lecture
 menu: research
 secondmenu: think_tank_history
 ---
-## From Incubator to Office
+## Experiments in Motion
 
-### [Experiments in Motion](http://experimentsinmotion.com/), A Partnership between Columbia GSAPP and Audi of America from September 2011 - September 2012
+### [Experiments in Motion](http://experimentsinmotion.com/), a partnership between Columbia GSAPP and Audi of America
 
 ![EIM website design](http://projectprojects.com/wp-content/uploads/eim-browserview-hq.gif)
 
-### Theoretical framing: rewrite the history of modernism through the lens of motion
+### Identify new paradigms of motion for design in the 21st century
 
 *	__![Lartigue](http://www.experimentsinmotion.com/media/files/bda6740835214919d2d8495695f76beb.jpg)__
 *	__![Bullet](http://www.experimentsinmotion.com/directus/media/thumbnails/d65247753c5918fb41fd84c91d78a52c.jpg?w=940&h=410&c=false)__
@@ -48,26 +48,22 @@ secondmenu: think_tank_history
 *	__![schematic](http://www.experimentsinmotion.com/media/files/481f312046c735b11080a64cd35bec6b.jpg)__
 
 
-### Chris Leong invited me to speak at the AIA on Think Tanks in April 2011
-
-*	<iframe src="//player.vimeo.com/video/41152962?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="900" height="506" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-
-### Experiments in Motion expected structure at the time
+### Experiments in Motion expected structure, April 2011
 
 ![EIM proposed structure](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_proposed_structure.png)
+
 
 ### Oppose think tank and incubator to sharpen our understanding of the two typologies
 
 ![Think Tank to Incubator](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_thinktank-incubator.png)
 
-### Actual structure
 
-![Think Tank to Incubator](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_thinktank-office.png)
+### Explosion and diffusion of the term
+
+![Google nGram Think Tank]()
+
 
 ### Exhibition
-
-![EIM Exhibition rendering](http://static.tumblr.com/vnjel8x/DgJma1ynu/eimblogexhibition.png)
 
 *	![EIM Exhibition Install](http://31.media.tumblr.com/tumblr_macqth8IF11rngk46o1_1280.jpg)
 *	![EIM Exhibition Install](http://25.media.tumblr.com/tumblr_macqth8IF11rngk46o2_1280.jpg)
@@ -77,6 +73,12 @@ secondmenu: think_tank_history
 ## From Office to University
 
 
+
+
+
+### Chris Leong invited me to speak at the AIA on Think Tanks in April 2011
+
+*	<iframe src="//player.vimeo.com/video/41152962?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="900" height="506" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 
