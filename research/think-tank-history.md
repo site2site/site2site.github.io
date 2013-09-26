@@ -53,7 +53,12 @@ secondmenu: think_tank_history
 ![EIM proposed structure](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_proposed_structure.png)
 
 
-### Pretending we know what a design studio is, 
+### The problem with think tanks: they've become ubiquitous
+
+![Google nGram Think Tank](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/google_nGram_thinkTank.png)
+
+
+### Pretending we know what a design studio is, we can focus on the bookends of the program, comparing Think Tank and Incubator to attempt to sharpen our understanding of each type
 
 ![Think Tank to Incubator](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_thinktank-incubator.png)
 
@@ -61,9 +66,6 @@ secondmenu: think_tank_history
 ## Think Tank Diffusion
 
 
-### Explosion and diffusion of the term
-
-![Google nGram Think Tank](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/google_nGram_thinkTank.png)
 
 
 ### Think Tank archetype: Center for Advanced Study in the Behavioral Sciences (1954)
@@ -186,6 +188,7 @@ A "socio-cultural milieu" of free intellectual exchange
 ### This was always their ambition, but they decided to drop the office aspects.
 
 >	“We wanted to recreate the feeling of a college campus, ” said Adam Pritzker, one of the creators of [General Assembly]. “Something that was outside the structure of an institution but had the same academic tendencies.”
+	- [New York Times, January 24, 2011](http://bits.blogs.nytimes.com/2011/01/24/a-place-for-techies-to-gather/)
 
 
 
