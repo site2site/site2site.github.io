@@ -5,7 +5,7 @@ style: lecture
 menu: research
 secondmenu: think_tank_history
 ---
-## Experiments in Motion
+## From Incubator to Office
 
 ### [Experiments in Motion](http://experimentsinmotion.com/), A Partnership between Columbia GSAPP and Audi of America from September 2011 - September 2012
 
@@ -48,16 +48,16 @@ secondmenu: think_tank_history
 *	__![schematic](http://www.experimentsinmotion.com/media/files/481f312046c735b11080a64cd35bec6b.jpg)__
 
 
-### Chris Leong invited me to speak at the AIA on Think Tanks
+### Chris Leong invited me to speak at the AIA on Think Tanks in April 2011
 
 *	<iframe src="//player.vimeo.com/video/41152962?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="900" height="506" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-### Experiments in Motion structure as of April 2011
+### Experiments in Motion expected structure at the time
 
 ![EIM proposed structure](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_proposed_structure.png)
 
-### From Think Tank to Incubator
+### Oppose think tank and incubator to sharpen our understanding of the two typologies
 
 ![Think Tank to Incubator](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/EIM_thinktank-incubator.png)
 
@@ -74,6 +74,9 @@ secondmenu: think_tank_history
 
 
 
+## From Office to University
 
 
-## 
+
+
+
