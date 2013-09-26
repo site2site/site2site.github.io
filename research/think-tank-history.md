@@ -239,6 +239,8 @@ A "socio-cultural milieu" of free intellectual exchange
 
 ![Y Combinator timeline](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/ycombinator_timeline.png)
 
+### The self-image of Y Combinator
+
 *	![Y Combinator Image](http://ycombinator.com/slideshow/1.jpg)
 *	![Y Combinator Image](http://ycombinator.com/slideshow/2.jpg)
 *	![Y Combinator Image](http://ycombinator.com/slideshow/3.jpg)
