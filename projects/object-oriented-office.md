@@ -25,7 +25,7 @@ The chair is the common platform of the office, a fairly pedestrian object desig
 *	![Chair_daydreamer](https://raw.github.com/site2site/object-oriented-office/master/docs/images/seat_activity-03.png)
 Sensors translate position into program.
 
-####Getting to Know You
+## Getting to Know You
 
 *	![Chair_floorPlan](https://raw.github.com/site2site/object-oriented-office/master/docs/images/92113_studioxplan1-01.png)
 
@@ -41,7 +41,6 @@ Chairs relay information to GSAPP Cloud - recording activity and collaboration a
 (3) Local-Global / Person to Cloud to Person
 Chairs act as a conduit for communication between collaborators in different Studio-X locations.
 
-***
 
 ## Scenario 2: Cross-Office Feeds
 
