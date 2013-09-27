@@ -55,14 +55,10 @@ Chairs act as a conduit for communication between collaborators in different Stu
 
 ###Strategies for Success
 
-(1) Quantifying uses 
-Objects quantified by their intended uses and variables such as the duration of use, the person(s) using the objects and the time of day they are being used set up the possibility to attach emotions or responses to these varied scenarios. A list of “If” statements pertaining to use can be aligned with specific responses meant to be triggered and recorded for broadcast.
-
-(2) Triggering Emotional Responses
-The objects are embedded with emotional triggers and solicitations in an attempt incite an emotional response by the people reading an objects sentiment. A person ignoring object requests will incite a deeper emotional response by the object displayed on the newsfeed. Likewise, if a person is responding to object requests then he/she is an active collaborator to the office environment and will be noticed as such on the newsfeed. 
-
-(3) You In Social Media Written By Objects
-The intent is broadcast this newsfeed publicly to other studio x-offices. Employees build personalities based on what the objects say about them and who they are usually talking with (or “friends” with). These sentiment driven objects also are able to quantify general office moods as well as individual personality types. 
+1.	Quantifying uses 
+2. 	Triggering Emotional Responses
+3.	You In Social Media Written By Objects
+	
 
 *	![CrossOffice - Plan](https://raw.github.com/site2site/object-oriented-office/master/docs/images/92413_studioxplan2_working.png)
 
