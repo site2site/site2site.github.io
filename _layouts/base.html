@@ -39,6 +39,11 @@
                 {% include menuresearch.html %}
             {% endif %}
 
+            {% if page.menu == 'project' %}
+                {% assign secondmenu = page.secondmenu %}
+                {% include menuproject.html %}
+            {% endif %}
+
         </header>
         <div id="main">
 
