@@ -298,12 +298,7 @@ Young founders' ideas with proven formulas
 
 ## Site to Site
 
-### Our course, Site to Site, has decided to work as an office.
-
->	"Architecture is a collaborative art, perhaps the most collaborative of all. No architect is ever alone. No studio is ever isolated."  
-	__-Mark Wigley, "The Open-Sourced Architect"__
-
-### We are using the most widely used platform for open source, Github, to structure collaboration within the class and with others outside.
+### Our course, Site to Site, has decided to work as an office by using the most widely used platform for open source, Github, to structure collaboration within the class and with others outside.
 
 ![Rick Waldron workshop](https://raw.github.com/site2site/site2site.github.io/master/images/research/thinktankhistory/rick_workshop.jpg)
 
@@ -337,6 +332,14 @@ Young founders' ideas with proven formulas
 
 <blockquote class="twitter-tweet"><p>MT If this works it&#39;s HUGE. <a href="https://twitter.com/troytherrien">@troytherrien</a> architects get ready for a new workflow: <a href="https://twitter.com/github">@github</a> does 3D diffs <a href="https://t.co/3QAzX5cMlb">https://t.co/3QAzX5cMlb</a></p>&mdash; Derek Lindner (@mantella) <a href="https://twitter.com/mantella/statuses/380431973560229889">September 18, 2013</a></blockquote>
 <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+## Studio vs. Office
+
+>	"Architecture is a collaborative art, perhaps the most collaborative of all. No architect is ever alone. No studio is ever isolated... The design studio is a kind of networking device suspended within the urban fabric that it thinks about..."  
+	__-Mark Wigley, "The Open-Sourced Architect"__
+
+
 
 
 ## Appendix
