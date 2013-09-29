@@ -37,7 +37,7 @@ menu: people
 *	[dinamahmoud](http://www.codecademy.com/dinamahmoud) on Code Academy
 *	[dinamahmoud](http://stackoverflow.com/users/2765586/dinamahmoud) on Stackoverflow
 
-![Wu Yifeng](https://raw.github.com/YifengWu/site2site.github.io/1ede31c97d42e4d29c3140ee683e89c9e4164e8a/programs/images/IMG_1026.jpg)
+![Wu Yifeng](http://www.gravatar.com/avatar/1b9b7c7ee4fa9196bed4dce5896edde5.png)
 
 *	Wu Yifeng
 *	[yw2565](mailto:yw2565@columbia.edu) at Columbia
