@@ -137,6 +137,10 @@ Code [source](https://github.com/rwaldron/johnny-five/blob/master/docs/photoresi
 
 ### Once you are in your johnny-five-tutorial directory, type the following followed by return:
 
+	npm install
+
+### This will install all the module dependencies that you listed in your `package.json` file, as well as all of the dependencies of those dependencies recursively, storing them in a `node_modules` directory. Once this has completed, you can type the following followed by return:
+
 	node app.js
 
 ### This will boot up the Arduino powered by Johnny-Five and should start to print out values from your sensor to terminal / prompt that should look like this:
