@@ -28,7 +28,38 @@ Source: [Wikipedia](http://en.wikipedia.org/wiki/Force-sensing_resistor)
 
 ##### Code
 
-_Ignore for now._
+Source: [Johnny-Five - FSR Sensor](https://github.com/rwaldron/johnny-five/blob/master/docs/sensor-fsr.md)
+
+Commented out code to control LED and added a console.log() to print out the sensor's readings.
+
+```javascript
+var five = require("johnny-five"),
+    fsr;
+    //led;
+
+(new five.Board()).on("ready", function() {
+
+  // Create a new `fsr` hardware instance.
+  fsr = new five.Sensor({
+    pin: "A0",
+    freq: 25
+  });
+
+  //led = new five.Led(9);
+
+  // Scale the sensor's value to the LED's brightness range
+  fsr.scale([ 0, 100 ]).on("data", function() {
+
+    // set the led's brightness based on force
+    // applied to force sensitive resistor
+
+    //led.brightness( this.value );
+    console.log( this.value );
+  });
+});
+```
+
+![Arduino - FSR diagram](https://raw.github.com/rwaldron/johnny-five/master/docs/breadboard/sensor-fsr.png)
 
 ##### Phone-home to Louis Identifier
 
