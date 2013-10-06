@@ -59,7 +59,7 @@ var five = require("johnny-five"),
 });
 ```
 
-![Arduino - FSR diagram](https://raw.github.com/rwaldron/johnny-five/master/docs/breadboard/sensor-fsr.png)
+![Arduino - FSR diagram](https://raw.github.com/site2site/object-oriented-office/master/docs/images/fsr_sensor_diagram.png)
 
 ##### Phone-home to Louis Identifier
 
