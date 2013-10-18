@@ -1,22 +1,18 @@
 ---
 layout: base
 style: lecture
-title: Site to Site | Presentation
+title: Site to Site | Focused Scope
 menu: project
 project: object-oriented-office
 ---
 ## Object-Oriented Office (OOO)
 
-### Collaborative Intelligence.
+## Unoccupied Opportunities
 
-![OOO - Network of Objects](https://raw.github.com/site2site/object-oriented-office/master/docs/images/ooo_network-01.png)
+###A dashboard display highlighting chair occupancies, directions, and interactions. 
 
+*	![Chair - diagram](https://raw.github.com/site2site/object-oriented-office/master/docs/images/newimages/sensor-chair.gif)
 
-## Scenario 1: Unoccupied Opportunities
-
-###A network of smart seating, programmed for collaborative instigation.
-
-*	![Chair - Rendering 01](https://raw.github.com/site2site/object-oriented-office/master/docs/images/scenario1.gif)
 
 
 ### The chair is the common platform of the office, a fairly pedestrian object designed for ergonomics, but an untapped resource.
@@ -27,38 +23,19 @@ project: object-oriented-office
 
 ### Sensors translate position into program.
 
-## Getting to Know You
-
-*	![Chair_floorPlan](https://raw.github.com/site2site/object-oriented-office/master/docs/images/92113_studioxplan1-01.png)
-
-
 ### Scales of Influence
 
 1.	Local / Person to Person
 2.	Global / Person to Cloud
 3.	Local-Global / Person to Cloud to Person
 
-## Scenario 2: Cross-Office Feeds
+### Strategies for Success
 
-*	![CrossOffice - Rendering 01](https://raw.github.com/site2site/object-oriented-office/master/docs/images/scenario2-newsfeed.gif)
-
-### Embedding sentiment in smart office furniture's to broadcast messages, emoticons and solicitations to a newsfeed streamed on a projection.
-
->	What if objects can talk?
-
-
-*	![CrossOffice - Render 02](https://raw.github.com/site2site/object-oriented-office/master/docs/images/scenario2-diagram.gif)
-
-###Strategies for Success
-
-1.	Quantifying uses 
-2. 	Triggering Emotional Responses
-3.	You In Social Media Written By Objects
-	
-
-*	![CrossOffice - Plan](https://raw.github.com/site2site/object-oriented-office/master/docs/images/92413_studioxplan2_working.png)
-
-
+1.	A slipcover design containing all sensors 
+2. 	limit use to three chairs in Studio-X New York
+3.	Quanitify actions with respect to time and ergonomics retrieved from sensor outputs 
+4.  Display Analytics on a web based dashboard
+5.  Connect Dashboard to other global offices
 
 ## Component Workflow
 
@@ -69,4 +46,3 @@ project: object-oriented-office
 *	![Components Diagram 2](https://raw.github.com/site2site/object-oriented-office/master/docs/images/component_diagram-02.png)
 
 ### Inputs are translated and parsed by the RaspberryPI and the cloud into local and global responses.
-
