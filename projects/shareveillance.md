@@ -1,66 +1,54 @@
 ---
 layout: base
+title: Site to Site | Shareveillance
 style: lecture
-title: Site to Site | Presentation
-menu: project
-project: Shareveillance
+menu: projects
+lecture: shareveillance
 ---
 ##Shareveillance
 
 Kirk Finkel, Leo Shaw, Christina Badal
 
-##Xavatar
+###Shareveillance addresses the Studio-X-to-Web relationship, focusing on the representation of self in the digital realm and the uneasy tension between curation, exposure, automation, and control.    
 
-###Xavatar activates the standard "bio" webpage by linking tagged Studio-X residents to their online representation.
-
-###Tagging Studio-X residents is the first step towards creating an experimental Studio-X scale "Internet of Things." Using an active RFID tracking system, people can be tracked real-time, allowing for their presence or absence and location on-site to be communicated directly to the web. Additionally,  tags are embedded with individual bios automatically updated with information on current projects. These tags are represented visually on the Studio-X website via real-time overhead plan view video feed: residents tracked on camera become "clickable" tags much like locations on Google Maps. A connected component might play on the standard bio page of static photos and blurbs with resident avatars appearing and disappearing and being updated on a real-time basis. Xavatar gives website users a direct and dynamic engagement with Studio-X residents, one which moves away from the flatness and artificiality of curated social media by making digital representation passively reflect the subtle fluctuations of daily use, the simultaneous boringness and unexpectedness of the everyday. 
+###This program connects the ‘real world’ Studio-X with a new web presence based on a seamless collage of real-time video feeds of key focal points activated by a small-scale “Internet of Things.” 
 
 * ![Xavatar 1](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-1.png)
-The inspiration
+
+###It exploits the web’s ability to create new adjacencies by collapsing space and time while harnessing the use of cameras, printers, and sensor technology to playfully ground the digital in the ephemeral, sensual spatial realm. 
 
 * ![Xavatar 2](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-2.png)
-The program
 
-* ![Xavatar 3](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-3.png)
-
-* ![Xavatar 4](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-4.png)
-The schematics
-
-The parts:
-* Arduino Uno
-* Raspberry Pi
-* Raspberry Pi Camera Board
-* XBee Shield
-* XBee Explorer USB
-* XBee Modules
+###Shareveillance activates the standard "bio" webpage by linking tagged Studio-X residents and their personal effects to their online content.
 
 
-##"What's Going On?"
-
-###A webcamera working with a motion sensor in Studio-X demystifies the role of the space and its inhabitants by simply following movement within its view to be posted on the web.
+* ![views](https://raw.github.com/site2site/shareveillance/master/images/10.10_site2site_intro.gif)
 
 
-###### The motion-tracking camera would necessarily adapt to broadcast different types of activity within Studio-X. During a lecture, it would remain trained on the speaker and audience, during an exhibition it might follow the paths of viewers, and on normal days it would give a sense of the workflow of the office.
+###In this way, it blurs the line between ‘real world’ and ‘web world’ content and confuses the normative offline-online data flows and representations. By stitching together disparate views into an ‘impossible’ collage space and activating its contents through unfamiliar digital/analog interactions, Shareveillance constructs a  new reality that is simultaneously flattened and spatial, automated and haptic. 
 
-###### Using Xbee tags, Studio-X could make specific installations, speakers, media, et cetera into clickable tags online in order to display more relevant information.
+* ![Shareveillance Set-up](https://raw.github.com/site2site/shareveillance/master/images/S2S_Shareveillance_Setup.png)
+* ![view1](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-01.png) 
+* ![views](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-02.png) 
+* ![views](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-03.png) 
+* ![views](https://raw.github.com/site2site/shareveillance/master/images/10.15_s2s_interface-04.png) 
+* 
+###Shareveillance also has the capability to take full advantage of the Internet of things. Studio-X could activate any person or object using active RFID tracking and QR code recognition, grafting the social media presence of anyone in the space onto the Studio-X website. A bowl of keys or a coat rack can act as a bio page for the whole Studio, or a wall decal can become the about page. Studio-X residents can easily add, take away, and change what is represented by moving artifacts or their own bodies in physical space.
 
-Parts inventory: motion sensor, webcam, Xbee module, raspberry pi, arduino
+* ![Perspective to Web](https://raw.github.com/warshawshaw/shareveillance/master/images/perspective-to-web.png)
 
 
+Schematics
 
-###Sandbo-X
-
-####A website / projector interface that allows Studio-X to curate a dialog with the general public.
-
-###### This platform would initiate a conversation between digital and physical environment. The bo-X would be split between an online forum and a physical pin-up wall. Both sides would be observable via a live video feed. A web observer would be prompted to explore this environment through forum discussions using twitter or facebook. Those present in studio would be encouraged to answer questions by physically drawing a response on a parallel wall, or re-sketching a page in response to specific feedback. Thus invoking a conversation, a critique, a charette or simply humoring a curiosity.
-
-After-hours, the Sandbo-X would become a forum for critique and online interaction. While the physical space might be 'offline' users would populate the bo-X with commentary and discussion amongst themselves.
-
-![sandbo-x-1](http://payload201.cargocollective.com/1/2/85269/6325473/SITE_sandboxai-01.png)
+* ![Pi Camera](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-4.png)
+* ![Thermal Printer](https://raw.github.com/site2site/shareveillance/master/images/S2S-Xavatar-5.png)
 
 The parts:
-* Arduino Uno
+* Arduiono UNO
 * Raspberry Pi
 * Raspberry Pi Camera Board
+* Adafruit Mini Thermal Receipt Printer
+
+
 
 
