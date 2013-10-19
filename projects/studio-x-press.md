@@ -6,7 +6,6 @@ menu: project
 project: studio-x-press
 ---
 ##STUDIO_X_Press
----
 
 ###STUDIO X EVENTS UI
 
