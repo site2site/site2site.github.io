@@ -46,3 +46,20 @@ project: object-oriented-office
 *	![Components Diagram 2](https://raw.github.com/site2site/object-oriented-office/master/docs/images/component_diagram-02.png)
 
 ### Inputs are translated and parsed by the RaspberryPI and the cloud into local and global responses.
+
+
+## Online Dashboard Visualization 
+
+*	![interface - diagram](https://raw.github.com/site2site/object-oriented-office/master/docs/images/newimages2/webdiagram.gif)
+
+### Date displayed include chair directions, duration of time activating seat and back cushions and moments where chair occupants interact with one another. 
+
+*	![interface - diagram](https://raw.github.com/site2site/object-oriented-office/master/docs/images/newimages2/webdiagram2.gif)
+
+### The data is combined and represented by color values (time), gradient (direction), and gradient interaction (black or white)
+
+## Archived Visualizations 
+
+*	![interface - diagram](https://raw.github.com/site2site/object-oriented-office/master/docs/images/newimages2/archive.jpg)
+
+### A timeline that organizes the averages of each chair visualization by day. 
