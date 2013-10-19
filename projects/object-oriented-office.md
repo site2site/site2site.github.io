@@ -11,15 +11,15 @@ project: object-oriented-office
 
 ###A dashboard display highlighting chair occupancies, directions, and interactions. 
 
-*	![Chair - diagram](https://raw.github.com/site2site/object-oriented-office/master/docs/images/newimages/sensor-chair.gif)
+![Chair - diagram](https://raw.github.com/site2site/object-oriented-office/master/docs/images/newimages/sensor-chair.gif)
 
 
 
 ### The chair is the common platform of the office, a fairly pedestrian object designed for ergonomics, but an untapped resource.
 
-*	![Chair_sleeper](https://raw.github.com/site2site/object-oriented-office/master/docs/images/seat_activity-01.png)
-*	![Chair_worker](https://raw.github.com/site2site/object-oriented-office/master/docs/images/seat_activity-02.png)
-*	![Chair_daydreamer](https://raw.github.com/site2site/object-oriented-office/master/docs/images/seat_activity-03.png)
+![Chair_sleeper](https://raw.github.com/site2site/object-oriented-office/master/docs/images/seat_activity-01.png)
+![Chair_worker](https://raw.github.com/site2site/object-oriented-office/master/docs/images/seat_activity-02.png)
+![Chair_daydreamer](https://raw.github.com/site2site/object-oriented-office/master/docs/images/seat_activity-03.png)
 
 ### Sensors translate position into program.
 
@@ -39,27 +39,27 @@ project: object-oriented-office
 
 ## Component Workflow
 
-*	![Components Diagram 1](https://raw.github.com/site2site/object-oriented-office/master/docs/images/component_diagram-01.png)
+![Components Diagram 1](https://raw.github.com/site2site/object-oriented-office/master/docs/images/component_diagram-01.png)
 
 ### Sensor inputs from chair are processed by the Arduino.
 
-*	![Components Diagram 2](https://raw.github.com/site2site/object-oriented-office/master/docs/images/component_diagram-02.png)
+![Components Diagram 2](https://raw.github.com/site2site/object-oriented-office/master/docs/images/component_diagram-02.png)
 
 ### Inputs are translated and parsed by the RaspberryPI and the cloud into local and global responses.
 
 
 ## Online Dashboard Visualization 
 
-*	![interface - diagram](https://raw.github.com/site2site/object-oriented-office/master/docs/images/newimages2/webdiagram.gif)
+![interface - diagram](https://raw.github.com/site2site/object-oriented-office/master/docs/images/newimages2/webdiagram.gif)
 
 ### Date displayed include chair directions, duration of time activating seat and back cushions and moments where chair occupants interact with one another. 
 
-*	![interface - diagram](https://raw.github.com/site2site/object-oriented-office/master/docs/images/newimages2/webdiagram2.gif)
+![interface - diagram](https://raw.github.com/site2site/object-oriented-office/master/docs/images/newimages2/webdiagram2.gif)
 
 ### The data is combined and represented by color values (time), gradient (direction), and gradient interaction (black or white)
 
 ## Archived Visualizations 
 
-*	![interface - diagram](https://raw.github.com/site2site/object-oriented-office/master/docs/images/newimages2/archive.jpg)
+![interface - diagram](https://raw.github.com/site2site/object-oriented-office/master/docs/images/newimages2/archive.jpg)
 
 ### A timeline that organizes the averages of each chair visualization by day. 
