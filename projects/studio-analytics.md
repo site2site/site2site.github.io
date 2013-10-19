@@ -64,16 +64,3 @@ With this information, we may be able to map particular zones of interest, or ut
 Rasberry Pi x3
 Arduino UNO x3
 Sparkfun BOB-09964 Electret Microphone x15
-
-
-## Section Nº3
-
-### In Markdown you can insert regular HTML, so it's easy to, say, insert a video from Youtube (be sure to use the old embed code).
-
-<object width="1024" height="500"><param name="movie" value="//www.youtube.com/v/khwQ9lf2DJQ?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/khwQ9lf2DJQ?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="1024" height="768" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-
-You should understand the video above like an image, it will be scaled to fit the page if you just insert the code.
-
-### But, if you an \* and a tab infront of it, it will scale to a max-width of 500px.
-
-*	<object width="1024" height="768"><param name="movie" value="//www.youtube.com/v/khwQ9lf2DJQ?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/khwQ9lf2DJQ?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="1024" height="768" allowscriptaccess="always" allowfullscreen="true"></embed></object>
