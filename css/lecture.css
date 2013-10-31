@@ -141,6 +141,7 @@ pre{
   padding: 4%;
   width: 92%;
   text-align: left;
+  overflow-x: hidden;
 }
 
 .gist{
