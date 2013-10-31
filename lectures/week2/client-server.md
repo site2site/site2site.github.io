@@ -105,10 +105,12 @@ lecture: 2_client_server
 
 *	<script src="https://gist.github.com/troyth/7244057.js"></script>
 
-### The CSS snippet above first renders all paragraphs (the `p` tag) red, then makes them italic, then underlines them, and then overwrites the red color value with blue, producing the text below:
+### The CSS snippet above first renders all paragraphs (the `p` tag) red, then makes them italic, then underlines them and sets the font size to 24px, and then overwrites the red color value with blue, producing the text below:
 
-<span style="color: red; font-style: italic; text-decoration: underline; color:blue;">This is the result of applying the CSS snippet above.</span>
+<span style="color: red; font-style: italic; text-decoration: underline; font-size:24px; color:blue;">This is the result of applying the CSS snippet above.</span>
 
+
+## Classes and IDs
 
 
 ## Box Model
