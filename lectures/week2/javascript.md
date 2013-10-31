@@ -202,13 +202,20 @@ lecture: web_javascript
 
 ### For example, let's use the jQuery AJAX function to grab the posts from the Site to Site tumblr:
 
-	var target_url = "http://api.tumblr.com/v2/blog/site-to-site/posts";
+	var target_url = "http://api.tumblr.com/v2/blog/site-to-site.tumblr.com/posts";
 
 	$.ajax({
 		url: target_url,
-		dataType: 'jsonp'
+		dataType: 'jsonp',
+		type: 'GET',
+		data:{
+			api_key: "4aj83Iq1Mj8ApVohNbJkb1iG4X77BNNcgSDsue77xU9t5j1iwr"
+		}
 	}).done(function(data){
-		console.dir('done');
+		console.dir( data );
+
+		$("#example2").append("<blockquote>" + data.response.posts[0].text + "</blockquote>");
 	});
 
+<div id="example2"></div>
 
