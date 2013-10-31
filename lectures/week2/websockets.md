@@ -7,12 +7,13 @@ lecture: web_websockets
 ---
 ## Web Sockets
 
-### In 2011, the Web Socket protocol was standardized, offering a full-duplex alternative to HTTP.
+### In 2011, the Web Socket protocol was standardized, offering a full-duplex alternative to HTTP for web-based data transfer.
 
 *	![Full Duplex](http://imagenes.mailxmail.com/cursos/imagenes/8/9/comunicaciones-half-duplex-y-full-duplex_7898_6_1.jpg)
 
 
 ### Unlike HTTP, which is a protocol for a server to respond to requests by a client, Web Sockets opens a channel between multiple hosts allowing any of the hosts to emit messages to any of the other hosts.
+
 
 
 
@@ -26,27 +27,55 @@ lecture: web_websockets
 
 
 
+
 ## Example
 
-### A website with a button that publishes to Spacebrew
+### Spacebrew server
+
+*	![Spacebrew Server](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/websockets/spacebrew1.png)
+
+### A website with a button that publishes to Spacebrew.
+
+*	![Client](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/websockets/camera_interface.png)
+
+### Spacebrew server showing the website client.
+
+*	![Spacebrew Client](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/websockets/spacebrew2.png)
+
+### A Raspberry Pi camera setup
+
+*	![Raspicam](http://www.adafruit.com/images/medium/1367_MED.jpg)
+
+### Spacebrew server showing both website client and camera.
+
+*	![Spacebrew Client](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/websockets/spacebrew3.png)
+
+### File Server app running on a server in New Jersey.
+
+*	![Spacebrew Client](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/websockets/file-server-terminal.png)
+
+### Spacebrew server showing website client, camera and file server app.
+
+*	![Spacebrew Client](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/websockets/spacebrew4.png)
+
+### Wiring website client capture button publish to camera capture trigger subscribe
+
+*	![Spacebrew Client](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/websockets/spacebrew5.png)
+
+### Wiring camera binary publish to file server binary subscribe
+
+*	![Spacebrew Client](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/websockets/spacebrew6.png)
+
+### Wiring file server string publish to website client url string subscribe
+
+*	![Spacebrew Client](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/websockets/spacebrew7.png)
+
+### Resulting photo in website client taken by camera, sent to file server and served for website
+
+*	![Spacebrew Client](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/websockets/camera_interface_photo.png)
 
 
 
-	
-
-
-
-### Spacebrew 
-
-
-
-
-
-## The Pursuit Internet
-
-### Researchers at Cambridge University recently published evidence of a working Publish-Subscribe model for the internet that they call the [Pursuit Internet](http://fp7pursuit.ipower.com/PursuitWeb/wp-content/uploads/2011/03/INFSO-ICT-257217_PURSUIT_D5.2_Project_Presentation.pdf).
-
-*	<iframe src="//player.vimeo.com/video/37299318" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 
