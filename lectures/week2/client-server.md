@@ -77,3 +77,7 @@ lecture: 2_client_server
 *	![Client Server 10](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-10.gif)
 
 *	__The example above show how and where different blocks of HTML are rendered in the browser.__
+
+## HTML
+
+<script src="https://gist.github.com/troyth/6271084.js"></script>
