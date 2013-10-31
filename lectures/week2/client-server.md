@@ -11,7 +11,7 @@ lecture: 2_client_server
 
 *	![Web-like Internet](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/week2/imageOfTheInternet_650px.png)
 
-### The Web is an application of the Internet composed of a series of protocols, languages and applications, such as the browser.
+### The Web is an application of the Internet composed of a series of protocols, languages and applications, such as HTTP, HTML, CSS, Javascript and the web browser.
 
 ## Web History and Structure
 
@@ -27,7 +27,8 @@ lecture: 2_client_server
 
 *	![Tim Berners-Lee NeXT Server](http://www.webassite.com/lectures/img/1989_TBL_NeXT.jpg)
 
-### and a server that would store the HTML files and send them to anyone on the internet with a browser/editor client who requested them.
+### and a server that would store the HTML files and send them to anyone on the internet with a browser/editor client who requested them using the Hypertext Transfer Protocol (HTTP).
+
 
 
 ## Client-Server Model
@@ -57,65 +58,3 @@ lecture: 2_client_server
 *	![Client Server 9](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-9.gif)
 
 ### Once received, the web browser parses the file, perhaps requests additional resources (like images), and then renders out the files for the user once it has the files it needs.
-
-
-
-## HTML
-
-### The content of a web page is traditionally transmitted in Hypertext Markup Language (HTML), for example:
-
-*	<script src="https://gist.github.com/troyth/6271084.js"></script>
-
-### The `<!doctype>` defines the file type, the `<head>` contains metadata about the page, and `<body>` contains the content that is rendered to the page.
-
-
-
-## HTML Tags
-
-### HTML wraps content in tags to distinguish between different types of content so the client knows how to render it to the page, for example:
-
-*	<script src="https://gist.github.com/troyth/7243934.js"></script>
-
-### You can see the text above rendered [here](http://sitetosite.co/examples/tags.html).
-
-
-
-## Chrome Developer Tools
-
-### You can inspect the elements of a web page in the Chrome browser by opening developer tools: alt+cmd+i (Mac), alt+ctrl+i (PC)
-
-![Chrome Developer tools](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/chrome_dev_tools.png)
-
-### You can interact with the HTML elements of the page through the Elements tab.
-
-
-
-## CSS
-
-### Cascading Style Sheets (CSS) allow you to have more control over the styling of the HTML content using `selectors` to change the `values` of the `properties` of specific elements.
-
-*	<script src="https://gist.github.com/troyth/7243887.js"></script>
-
-### The above snippet of CSS changes the `color` property of the `h1` selector to the value `red`.
-
-
-## Cascading
-
-### Style sheets are cascading because they are read by the client rendering engine from top to bottom, applying and overwriting styles with each new line.
-
-*	<script src="https://gist.github.com/troyth/7244057.js"></script>
-
-### The CSS snippet above first renders all paragraphs (the `p` tag) red, then makes them italic, then underlines them and sets the font size to 24px, and then overwrites the red color value with blue, producing the text below:
-
-<span style="color: red; font-style: italic; text-decoration: underline; font-size:24px; color:blue;">This is the result of applying the CSS snippet above.</span>
-
-
-## Classes and IDs
-
-
-## Box Model
-
-*	![Box Model](http://parsons.brianwatterson.com/assets/images/lab/box-model.png)
-
-
-
