@@ -200,7 +200,7 @@ lecture: web_javascript
 
 ## AJAX and JSON
 
-### For example, let's use the jQuery AJAX function to grab the posts from the Site to Site tumblr:
+### The jQuery AJAX call retrieves data in JSON format and does the conversion to a Javascript object for you, so you can call it's attributes using dot notation.
 
 	var target_url = "http://api.tumblr.com/v2/blog/site-to-site.tumblr.com/posts";
 
@@ -209,7 +209,7 @@ lecture: web_javascript
 		dataType: 'jsonp',
 		type: 'GET',
 		data:{
-			api_key: "4aj83Iq1Mj8ApVohNbJkb1iG4X77BNNcgSDsue77xU9t5j1iwr"
+			api_key: "API_KEY_GOES_HERE"
 		}
 	}).done(function(data){
 		console.dir( data );
