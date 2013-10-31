@@ -32,52 +32,49 @@ lecture: 2_client_server
 
 ## Client-Server Model
 
-### Berners-Lee's WorldWideWeb uses a client-server model that connects client to server using the Hypertext Transfer Protocol (HTTP).
-
 *   ![Client Server 2](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-2.gif)
 
-*   __General Idea__
-	
-	__The Internet connects a client request to the server corresponding to the URL that sends the response that the browser renders as a web page__
+### Berners-Lee's WorldWideWeb uses a client-server model that connects client to server using the Hypertext Transfer Protocol (HTTP).
 
 *   ![Client Server 3](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-3.gif)
 
-*	__The client sends an HTTP request (GET, POST, PUT or DELETE) to the Internet in the form of a URL__
+### A client web browser makes a request for a set of documents using a Uniform Resource Locator (URL).
 
 *   ![Client Server 4](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-4.gif)
 
-*	__The Domain Name System (DNS) is used to decode the URL into the Internet Protocol (IP) address of the server__
-
 *	![Client Server 5](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-5.gif)
 
-*	__Once the IP address is resolved, the server at that address is sent the client's request__
-
-
-#### The web is built upon a set of protocols (such as HTTP) and languages (such as HTML, CSS and Javascript) that employ the physical network connections and protocols that make up the Internet according to a client-server model. The client takes the form of a browser on the user's machine. The server is a remote computer that stores the files required to render web pages.
-
+###  The Domain Name System (DNS) collectively converts the URL into the unique Internet Prototcol (IP) address of the computer assigned to the URL and requests the desired resource.
 
 *	![Client Server 6](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-6.gif)
 
-*	__The web server - a program such as Apache, nGinx, Node.js - listens for requests and routes them to the correct folder to retrieve the requested file__
-
 *	![Client Server 7](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-7.gif)
 
-*	__The server then returns an HTTP response with the requested file__
+### The requested resource (eg. /dir/file.html) is then retrieved by the server and sent back into the internet as a response.
 
 *	![Client Server 8](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-8.gif)
 
-*	__The client browser receives the response, checks that the status code is ok, and then begins to render the page__
-
 *	![Client Server 9](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-9.gif)
 
-*	__The HTML file is made up of two main parts, the `<head>` and the `<body>`. The `<head>` contains meta-data about the page, dependencies, and other information such as the page title that shows up in the browser tab. The `<body>` contains the page content. See this Gist with the standard HTML structure.__
+### Once received, the web browser parses the file, perhaps requests additional resources (like images), and then renders out the files for the user once it has the files it needs.
 
-*	<script src="https://gist.github.com/troyth/4699954.js"></script>
-
-*	![Client Server 10](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/client-server-model/client-server-10.gif)
-
-*	__The example above show how and where different blocks of HTML are rendered in the browser.__
 
 ## HTML
 
-<script src="https://gist.github.com/troyth/6271084.js"></script>
+### The content of a web page is traditionally transmitted in Hypertext Markup Language (HTML), for example:
+
+*	<script src="https://gist.github.com/troyth/6271084.js"></script>
+
+### The `<!doctype>` defines the file type, the `<head>` contains metadata about the page, and `<body>` contains the content that is rendered to the page.
+
+## HTML Tags
+
+### HTML wraps content in tags to distinguish between different types of content so the client knows how to render it to the page, for example:
+
+*	<script src="https://gist.github.com/griffiths/1658418.js"></script>
+
+## Chrome Developer Tools
+
+### You can inspect the elements of a web page in the Chrome browser by opening developer tools: alt+cmd+i (Mac), alt+ctrl+i (PC)
+
+
