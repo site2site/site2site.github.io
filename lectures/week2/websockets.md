@@ -52,7 +52,7 @@ lecture: web_websockets
 
 ### File Server app running on a server in New Jersey.
 
-*	![Spacebrew Client](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/websockets/file-server-terminal.png)
+*	![Spacebrew Client](https://raw.github.com/site2site/site2site.github.io/master/images/lectures/websockets/flie-server-terminal.png)
 
 ### Spacebrew server showing website client, camera and file server app.
 
