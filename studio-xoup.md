@@ -9,7 +9,7 @@ project: studio-xoup
 
 ### A component deployed in multiple architectural scenarios that weaves a common thread between spaces of differing program, user, and location, providing a platform for interaction and cross pollination.      
 
-![Arch API](https://raw.github.com/site2site/Studio-Xoup/master/About%20Page/Final%20Presentation%20imgs/api%20definition-01.jpg)
+* ![Arch API](https://raw.github.com/site2site/Studio-Xoup/master/About%20Page/Final%20Presentation%20imgs/api%20definition-01.jpg)
 
 ### Studio Xoup is a series of simple devices deployed in studio X locally and globally to gather certain information from the space of studio X and make it accesible and visible to the outside world
 
