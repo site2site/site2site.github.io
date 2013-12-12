@@ -29,19 +29,26 @@ project: studio-xoup
 ![Xoup Scenario 02](https://raw.github.com/site2site/Studio-Xoup/master/About%20Page/Final%20Presentation%20imgs/xoup%20scenario-06.jpg)
 
 
+#### By using recognition software, the camera can recognize certain triggers on the screen, in this case, colored post-its, and can be programmed with a specific function, such as snapping five succesive photos, and uploading them onto a spocial media page.  So with a simple action, such as surrounding an object with post-its...
+
+![Setup] (http://i.imgur.com/Gxvfe4b.jpg)
 
 
 
-
-![BookGIF] (https://raw.github.com/site2site/Studio-Xoup/master/About%20Page/Final%20Presentation%20imgs/Book.gif)
+![BookGIF] (http://i.imgur.com/amLSKfz.gif)
 #### Xoup can promote a book
 
 
 
- ![EventGIF] (https://raw.github.com/site2site/Studio-Xoup/master/About%20Page/Final%20Presentation%20imgs/event.gif)
+ ![EventGIF] (http://i.imgur.com/9HlnBDO.gif)
 #### Or an event
 
 
 
-![PinwheelGIF] (https://raw.github.com/site2site/Studio-Xoup/master/About%20Page/Final%20Presentation%20imgs/model.gif)
+![PinwheelGIF] (http://i.imgur.com/e64vBkk.gif)
 #### Or teach people how to make things
+
+### Xoup makes it easy to share media with the public, within the studio, or within a network of studios
+
+
+![Website] (https://raw.github.com/site2site/Studio-Xoup/master/tumblr_theme/screenshots/xoup_01.png)
