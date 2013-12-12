@@ -1,0 +1,47 @@
+---
+layout: base
+style: lecture
+title: Site to Site | Studio-Xoup
+menu: project
+project: studio-xoup
+---
+## An Architectural API
+
+### A component deployed in multiple architectural scenarios that weaves a common thread between spaces of differing program, user, and location, providing a platform for interaction and cross pollination.      
+
+![Arch API](https://raw.github.com/site2site/Studio-Xoup/master/About%20Page/Final%20Presentation%20imgs/api%20definition-01.jpg)
+
+### Studio Xoup is a series of simple devices deployed in studio X locally and globally to gather certain information from the space of studio X and make it accesible and visible to the outside world
+
+![about](https://raw.github.com/site2site/Studio-Xoup/master/About%20Page/About-web-expanded.jpg)
+
+### Individually, these components are pretty simple. but when put together and deployed in studio X, the possibilities of how to use Studio Xoup are almost infinite.
+
+### By utilizing the camera, arduino, and raspberry pi, Studio Xoup can be used to capture, upload, and share whatever studio x users think should be seen.
+
+#### Like exciting things happening in a workspace
+![Xoup Scenario 01](https://raw.github.com/site2site/Studio-Xoup/master/About%20Page/Final%20Presentation%20imgs/xoup%20scenario-04.jpg)
+
+#### Or works in progress straight from the screen
+![Xoup Scenario 02](https://raw.github.com/site2site/Studio-Xoup/master/About%20Page/Final%20Presentation%20imgs/xoup%20scenario-05.jpg)
+
+#### Or a guest that has come for a talk or a visit.
+![Xoup Scenario 02](https://raw.github.com/site2site/Studio-Xoup/master/About%20Page/Final%20Presentation%20imgs/xoup%20scenario-06.jpg)
+
+
+
+
+
+
+![BookGIF] (https://raw.github.com/site2site/Studio-Xoup/master/About%20Page/Final%20Presentation%20imgs/Book.gif)
+#### Xoup can promote a book
+
+
+
+ ![EventGIF] (https://raw.github.com/site2site/Studio-Xoup/master/About%20Page/Final%20Presentation%20imgs/event.gif)
+#### Or an event
+
+
+
+![PinwheelGIF] (https://raw.github.com/site2site/Studio-Xoup/master/About%20Page/Final%20Presentation%20imgs/model.gif)
+#### Or teach people how to make things
